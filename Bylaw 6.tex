@@ -1,0 +1,106 @@
+\documentclass[12pt]{article}
+
+%PACKAGES BEGIN
+\usepackage{fancyhdr}
+\usepackage{geometry}
+	\geometry{
+		left=1in,
+		right=1in,
+		top=1in,
+		bottom=1in,
+		}
+\usepackage{fontspec}
+\setmainfont{Garamond}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage[ampersand]{easylist}
+% PACKAGES END
+
+%Use XeLaTeX to compile.
+
+% FILE INFO
+\author{University of Toronto Engineering Society}
+\title{Bylaw 6}
+\date{}
+% FILE INFO
+
+% TITLING FORMATTING BEGIN
+\titleformat{\section}{\centering\bfseries\large\uppercase}{Chapter\ \thesection \ - }{0ex}{}
+\newcommand{\sectionbreak}{\clearpage}
+\ListProperties(Numbers=a, Numbers4=l, Numbers5=r, Style2=\bfseries, Start1*=\thesection, Start2=0, FinalMark={.}, Hang=true, Margin2=0cm, Margin3=1cm, Margin4=2.5cm, Margin5=3.5cm, Align=1cm, Align3=1.5cm, Space2=.5cm, Hide4=3, Hide5=4)
+\setcounter{section}{-1}
+% TITLING FORMATTING END
+
+% HEADER/FOOTER BEGIN
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headsep}{0.2in}
+\lhead{
+	\includegraphics{images/logo.png}
+	}
+\rhead{
+	\textbf{University of Toronto Engineering Society} \\
+	\textbf{Bylaw 6} \\
+	Last Revision: \today
+	}
+\rfoot{
+	Page \thepage
+	}
+% HEADER/FOOTER END
+
+\begin{document}
+
+% TITLE PAGE BEGIN
+\begin{titlepage}
+\begin{center}
+\topskip0pt
+\vspace*{\fill}
+\Large\bfseries\uppercase{
+	Bylaw 6
+	
+	The Search and Review Committee Bylaw
+	
+	University of Toronto Engineering Society
+	}
+\vspace*{\fill}
+\end{center}
+\vfill
+\begin{flushright}
+ADOPTED: September 2, 2016
+
+LAST REVISED: \today
+\end{flushright}
+\end{titlepage}
+\pagebreak
+% TITLE PAGE END
+
+\setlength{\headsep}{0.50in} %this is here to ensure header height consistency
+\section{``Search'' Component}
+\begin{easylist}
+&& ``Search'' Component	&&& The ``Search'' component of this Committee is responsible to: 		&&&& Assess all current and potential employment positions and the qualification of employees to fulfill the requirements of the job as defined by the Committee 		&&&& Publicly advertise any job by: 			&&&&& Advertising on online job search websites; Local job portals through the University of Toronto		&&&& Ensure that candidates? selection is based on open forum. 		&&&& Holding sequential presentation based interviews, which shall consist of 15-minute presentations, where 3 Members must be present. 		&&&& The times of these interviews must be agreed upon by discussion including at least six members of the Committee.		&&&& These interviews shall be recorded electronically in full for the full committee to view each interview in order to make an informed decision. These recordings shall be destroyed once the appropriate candidate is selected.		&&&& Discuss and come to an agreement for the most suitable candidate for the advertised position following the interviews.		&&&& The ``Search'' component of this committee shall be chaired by the President of the Engineering Society. 		&&&& Create and manage a personnel file which shall include: 			&&&&& Job description 			&&&&& Resume 			&&&&& Pertinent Documents. 		&&&& The personnel file shall only be viewed by: 			&&&&& Members of the Committee. 			&&&&& The Employee in question. \end{easylist}
+\clearpage
+
+\setlength{\headsep}{0.1in} %this is here to ensure header height consistency
+\section{``Review'' Component}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& ``Review Component''	&&& The ``Review'' component of the Committee: 		&&&& Shall convene at least once annually to review the operations of the society and the duties of those employed by the Society. 		&&&& Shall convene for additional meetings as called by the Chair or by a resolution of the Board of Directors.		&&&& Shall have jurisdiction over matters pertaining to salary increases beyond yearly cost of living adjustments.			&&&& Shall not have the authority to overturn any resolution passed by the Board regarding salary increases.		&&&& Shall be involved in the creation and amendment of employment positions.		&&&& Shall present a summary of the Review Committee meeting at the next regular meeting of the Board of Directors.		&&&& The Committee shall present a summary of the review 14 days after the Search and Review Committee meets.		&&&& A brief summary of the review shall be read at the next Council meeting after the Search and Review committee convinces.	&&& A motion to dismiss an employee must be approved by a Special Resolution of the Board of Directors.
+\end{easylist}
+
+\section{Composition}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& Composition	&&& The ``Search'' component of the Committee will be comprised of (in no particular sequence): 		&&&& President 		&&&& Vice-President Finance 		&&&& Vice-President Communications		&&&& The Suds Managers		&&&& The Stores Managers		&&&& The Cafeteria Managers	&&& The ``Review'' component of the Committee will be compromised of (in no particularly sequence):		&&&& President		&&&& Vice-President Finance		&&&& One additional member to be selected by the Board of Directors, selected from the following candidates: Orientation Chair, Suds Managers, Stores Managers or Cafeteria Managers.	&&& All members of both the Search and Review Committees shall adhere to a confidentiality agreement.	&&& For the ``Review'' component of the Committee, the President shall solicit input from all Project Directors to be considered by the Committee.	&&& The President shall serve of the Chair of the Committee.	&&& Quorum for meetings of the Search and Review Committee shall be two thirds (2/3) of its members.	&&& Proxy voting will not be allowed.	&&& Decisions of the Search and Review Committee must be ratified by the Board of Directors.&& ``Reserve'' Members	&&& ``Reserve'' members are defined as a contingency plan for failure to attend by those previously outlined. ``Reserve'' members shall be comprised of: 		&&&& Vice President Academic 		&&&& Vice President Student Life		&&&& Ombudsman		&&&& Cannon Editor	&&& ``Reserve'' members shall be called upon if a listed member chooses to forfeit their membership of the committee for the year. \end{easylist}
+\clearpage
+
+% APPENDIX BEGIN
+\appendix
+\titleformat{\section}{\centering\bfseries\large\uppercase}{}{0ex}{}
+\section{APPENDIX}
+The following changes were made from the previous version (Revised on \today):
+\begin{easylist}
+\ListProperties(Start1=1, Start1*=NA)
+& Amended Article per March 2016 BoD decision. & Amended Bylaw 6 as per March 2017 BoD decision. 
+\end{easylist}
+% APPENDIX END
+\end{document}

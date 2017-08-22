@@ -1,0 +1,121 @@
+\documentclass[12pt]{article}
+
+%PACKAGES BEGIN
+\usepackage{fancyhdr}
+\usepackage{geometry}
+	\geometry{
+		left=1in,
+		right=1in,
+		top=1in,
+		bottom=1in,
+		}
+\usepackage{fontspec}
+\setmainfont{Garamond}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage[ampersand]{easylist}
+% PACKAGES END
+
+%Use XeLaTeX to compile.
+
+% FILE INFO
+\author{University of Toronto Engineering Society}
+\title{Bylaw 5}
+\date{}
+% FILE INFO
+
+% TITLING FORMATTING BEGIN
+\titleformat{\section}{\centering\bfseries\large\uppercase}{Chapter\ \thesection \ - }{0ex}{}
+%\newcommand{\sectionbreak}{\clearpage} % Manual Page breaks for this Bylaw
+\ListProperties(Numbers=a, Numbers4=l, Numbers5=r, Style2=\bfseries, Start1*=\thesection, Start2=0, FinalMark={.}, Hang=true, Margin2=0cm, Margin3=1cm, Margin4=2.5cm, Margin5=3.5cm, Align=1cm, Align3=1.5cm, Space2=.5cm, Hide4=3, Hide5=4)
+\setcounter{section}{-1}
+% TITLING FORMATTING END
+
+% HEADER/FOOTER BEGIN
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headsep}{0.2in}
+\lhead{
+	\includegraphics{images/logo.png}
+	}
+\rhead{
+	\textbf{University of Toronto Engineering Society} \\
+	\textbf{Bylaw 5} \\
+	Last Revision: \today
+	}
+\rfoot{
+	Page \thepage
+	}
+% HEADER/FOOTER END
+
+\begin{document}
+
+% TITLE PAGE BEGIN
+\begin{titlepage}
+\begin{center}
+\topskip0pt
+\vspace*{\fill}
+\Large\bfseries\uppercase{
+	Bylaw 5
+	
+	The Commercial Operations Bylaw
+	
+	University of Toronto Engineering Society
+	}
+\vspace*{\fill}
+\end{center}
+\vfill
+\begin{flushright}
+ADOPTED: March 28, 2013
+
+LAST REVISED: \today
+\end{flushright}
+\end{titlepage}
+\pagebreak
+% TITLE PAGE END
+
+\setlength{\headsep}{0.50in + 1ex} %this is here to ensure header height consistency + special spacing for two chapters on one page
+\section{General}
+\begin{easylist}
+&& General	&&& The Society may, from time to time, institute commercial operations. 		&&&& These Operations shall provide services or goods to students. 	&&& All Operations of the Society shall be conducted on a not-for-profit basis. 	&&& Any surplus from a previous year must be used to improve the Operation which earned it. \end{easylist}
+
+\setlength{\headsep}{0.1in} %this is here to ensure header height consistency
+\section{Management}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& Managers 	&&& Each commercial operation shall have two Managers. 	&&& Managers shall be Project Directors, as laid out in Bylaw 2.	&&& From the elected Managers, the Vice-President Finance shall select one Finance Manager and one Operations Manager. 	&&& Where Bylaw 2 allows for only one Manager to be a Director, that Director position may be filled by either Manager. 	&&& The Managers shall be responsible for the security of the property and premises of the Operation. 	&&& The Managers shall not undertake any course of action not specifically listed in this Bylaw without authorization from the Board of Directors.
+\end{easylist}
+
+\section{Financial Records}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& Financial Records 	&&& The Operation Managers shall be responsible for the maintenance of the financial records of the Operation. 	&&& These records shall be open to the scrutiny of any Member upon request. 	&&& The Managers shall report on the Operation?s financial position to the Vice-President Finance on a monthly basis.	&&& The Managers shall submit detailed reports as may be necessary for the Society?s audit to the Vice-President Finance within two weeks following 31 May. \end{easylist}
+\clearpage
+
+\section{Engineering Stores}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& Engineering Stores	&&& There shall be an Engineering Store, to be known as ``Engineering Stores''. 	&&& Stores shall sell school supplies, clothing, and other goods in support of the Society?s activities. 	&&& Stores shall maintain a bank account separate from that of the Society. 	&&& The Signing Officers of the account shall be the President, the Vice-President Finance, and the Stores Managers, two signatures of which, and at least one Officer of the Society, shall be required on any financial document.\end{easylist}
+
+\section{Suds}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& Suds 	&&& There shall be an Engineering pub, to be known as ``Suds''. 	&&& Suds shall be operated in accordance with the regulations of the Alcohol & Gaming Commission of Ontario. 	&&& Suds Managers shall be aware of the regulations set out by Campus Beverage Services, as well as the consequences of any non-compliance. \end{easylist}
+
+\section{Hard Hat Caf\'e}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& Hard Hat Caf\'e	&&& There shall be an Engineering Cafeteria, to be known as the ``Hard Hat Caf\'e''.	&&& The Cafeteria shall sell reasonably priced food and beverages according to the needs of the members.	&&& The Cafeteria shall not directly compete with the vending machines, located in the Sanford Fleming Atrium, run by other student organizations.	&&& The Signing Officers of the account shall be the President, the Vice-President Finance, and the Cafeteria Managers, two signatures of which, and at least one Officer of the Society, shall be required on any financial document. 	&&& The Engineering Society shall be responsible for obtaining and/or renewing applicable license(s) annually or otherwise, as required for the unobstructed operation of the Hard Hat Caf\'e and full compliance with applicable laws, rules, and regulations.\end{easylist}
+
+\iffalse % No Appendix
+% APPENDIX BEGIN
+\appendix
+\titleformat{\section}{\centering\bfseries\large\uppercase}{}{0ex}{}
+\section{APPENDIX}
+The following changes were made from the previous version (Revised on \today):
+\begin{easylist}
+\ListProperties(Start1=1, Start1*=NA)
+\end{easylist}
+% APPENDIX END
+\fi
+\end{document}
