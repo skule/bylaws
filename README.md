@@ -1,4 +1,4 @@
-# Official Bylaws of the University of Toronto Engineering Society.
+# Official Bylaws of the University of Toronto Engineering Society
 
 The bylaws currently consist of:
 1. Bylaw 1 - *The Constitution*
