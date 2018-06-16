@@ -1,3 +1,5 @@
+%Use XeLaTeX to compile.
+
 \documentclass[12pt]{article}
 
 %PACKAGES BEGIN
@@ -14,9 +16,8 @@
 \usepackage{graphicx}
 \usepackage{titlesec}
 \usepackage[ampersand]{easylist}
+\usepackage{hyperref}
 % PACKAGES END
-
-%Use XeLaTeX to compile.
 
 % FILE INFO
 \author{University of Toronto Engineering Society}
@@ -34,7 +35,7 @@
 % HEADER/FOOTER BEGIN
 \pagestyle{fancy}
 \fancyhf{}
-\setlength{\headsep}{0.2in}
+\setlength{\headheight}{42pt}
 \lhead{
 	\includegraphics{images/logo.png}
 	}
@@ -44,7 +45,7 @@
 	Last Revision: \today
 	}
 \rfoot{
-	Page \thepage
+	\thepage
 	}
 % HEADER/FOOTER END
 
@@ -74,8 +75,19 @@ LAST REVISED: \today
 \pagebreak
 % TITLE PAGE END
 
-\setlength{\headsep}{0.50in} %this is here to ensure header height consistency
+% TOC BEGIN
+\pagenumbering{gobble}
+\tableofcontents
+\clearpage
+% TOC END
+
+% Setting numbering correctly.
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Content begin
 \section{General}
+\vspace{5mm} %Header heigh consistency.
 \begin{easylist}
 && Project Directors
 	&&& A Director must be a Member for the entire duration of their term.
@@ -100,7 +112,6 @@ LAST REVISED: \today
 	&&& For each Temporary Internal Director, the President shall submit a discussion item on whether to renew that Directorship at the last meeting of the Board of Directors before the start of the Nomination Period for the April Board of Directors Meeting at which the Directorship's Term ends.
 \end{easylist}
 
-\setlength{\headsep}{0.1in} %this is here to ensure header height consistency
 \section{Project Directors}
 \begin{easylist}
 \ListProperties(Start2=0)
@@ -300,18 +311,4 @@ LAST REVISED: \today
 		&&&& The Student Governor, when the position is held by a Member.
 \end{easylist}
 
-% APPENDIX BEGIN
-\appendix
-\titleformat{\section}{\centering\bfseries\large\uppercase}{}{0ex}{}
-\section{APPENDIX}
-The following changes were made from the previous version (Revised on \today):
-\begin{easylist}
-\ListProperties(Start1=1, Start1*=NA)
-& Revised Bylaw 2 as per February 2016 BoD decision.
-& Revised Bylaw 2 as per July 2016 BoD decision.
-& Revised Bylaw 2 as per March 2017 BoD decision
-& Revised Bylaw 2 as per July 2017 Special BoD Meeting decision
-& Revised Bylaw 2 as per July 2017 BoD decision
-\end{easylist}
-% APPENDIX END
 \end{document}
