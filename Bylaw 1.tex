@@ -1,3 +1,5 @@
+%Use XeLaTeX to compile.
+
 \documentclass[12pt]{article}
 
 %PACKAGES BEGIN
@@ -9,6 +11,7 @@
 \usepackage{graphicx}
 \usepackage{titlesec}
 \usepackage[ampersand]{easylist}
+\usepackage{hyperref}
 % PACKAGES END
 
 % FILE INFO
@@ -27,7 +30,7 @@
 % HEADER/FOOTER BEGIN
 \pagestyle{fancy}
 \fancyhf{}
-\setlength{\headsep}{0.2in}
+\setlength{\headheight}{42pt}
 \lhead{
 	\includegraphics{images/logo.png}
 	}
@@ -37,7 +40,7 @@
 	Last Revision: \today
 	}
 \rfoot{
-	Page \thepage
+	\thepage
 	}
 % HEADER/FOOTER END
 
@@ -67,8 +70,19 @@ LAST REVISED: \today
 \pagebreak
 % TITLE PAGE END
 
-\setlength{\headsep}{0.50in} %this is here to ensure header height consistency
+% TOC BEGIN
+\pagenumbering{gobble}
+\tableofcontents
+\clearpage
+% TOC END
+
+% Setting numbering correctly.
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Content begin
 \section{General}
+\vspace{5mm} %Header heigh consistency.
 \begin{easylist}
 && General
 	&&& The name of the Corporation shall be ``The University of Toronto Engineering Society'', hereafter called ``the Society.''
@@ -99,7 +113,6 @@ LAST REVISED: \today
 \end{easylist}
 \clearpage %required for the first page for some reason
 
-\setlength{\headsep}{0.1in} %this is here to ensure header height consistency
 \section{Membership and Fees}
 \begin{easylist}
 \ListProperties(Start2=0)
@@ -457,20 +470,4 @@ The Board shall only carry or defeat a motion of the Election Rules Committee co
 	&&& One (1) year after a policy has been passed, repealed, or amended; it may again be amended or repealed by anybody outlined in Section 7.3.2.
 \end{easylist}
 
-% APPENDIX BEGIN
-\appendix
-\titleformat{\section}{\centering\bfseries\large\uppercase}{}{0ex}{}
-\section{APPENDIX}
-The following changes were made from the previous version (Revised on \today):
-\begin{easylist}
-\ListProperties(Start1=1, Start1*=NA)
-& Revised Bylaw 1 as per March 2016 BoD decision.
-& Revised Bylaw 1 as per July 2016 BoD decision 
-& Revised Bylaw 1 as per March 2017 BoD decision 
-& Revised Bylaw 1 as per April 2017 BoD decision
-& Revised Bylaw 1 as per June 2017 BoD decision
-& Revised Bylaw 1 as per July 2017 Special BoD Meeting decision
-& Revised Bylaw 1 as per July 2017 BoD decision
-\end{easylist}
-% APPENDIX END
 \end{document}

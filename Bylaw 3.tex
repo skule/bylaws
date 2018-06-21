@@ -1,26 +1,22 @@
+%Use XeLaTeX to compile.
+
 \documentclass[12pt]{article}
 
 %PACKAGES BEGIN
 \usepackage{fancyhdr}
 \usepackage{geometry}
-	\geometry{
-		left=1in,
-		right=1in,
-		top=1in,
-		bottom=1in,
-		}
+	\geometry{left=1in, right=1in, top=1in, bottom=1in}
 \usepackage{fontspec}
-\setmainfont{Garamond}
+\setmainfont{Garamond}%Special font, use XeLaTeX to compile.
 \usepackage{graphicx}
 \usepackage{titlesec}
 \usepackage[ampersand]{easylist}
+\usepackage{hyperref}
 % PACKAGES END
-
-%Use XeLaTeX to compile.
 
 % FILE INFO
 \author{University of Toronto Engineering Society}
-\title{Bylaw 3}
+\title{Bylaw 3} %Bylaw number
 \date{}
 % FILE INFO
 
@@ -34,7 +30,7 @@
 % HEADER/FOOTER BEGIN
 \pagestyle{fancy}
 \fancyhf{}
-\setlength{\headsep}{0.2in}
+\setlength{\headheight}{42pt}
 \lhead{
 	\includegraphics{images/logo.png}
 	}
@@ -44,7 +40,7 @@
 	Last Revision: \today
 	}
 \rfoot{
-	Page \thepage
+	\thepage
 	}
 % HEADER/FOOTER END
 
@@ -74,8 +70,19 @@ LAST REVISED: \today
 \pagebreak
 % TITLE PAGE END
 
-\setlength{\headsep}{0.50in} %this is here to ensure header height consistency
+% TOC BEGIN
+\pagenumbering{gobble}
+\tableofcontents
+\clearpage
+% TOC END
+
+% Setting numbering correctly.
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Content begin
 \section{General}
+\vspace{5mm} %Header heigh consistency.
 \begin{easylist}
 && Interpretation and Definitions
 	&&& In any situations where this Bylaw contradicts Bylaw 1, Bylaw 1 shall have precedence.
@@ -123,7 +130,6 @@ LAST REVISED: \today
 \end{easylist}
 \clearpage
 
-\setlength{\headsep}{0.1in} %this is here to ensure header height consistency
 \section{CRO}
 \begin{easylist}
 \ListProperties(Start2=0)
@@ -543,19 +549,4 @@ a. Nominees nominated for two (2) or more positions may request the CRO to elect
 	&&& If "Re-Open Nominations" receives equal to or more than Q votes, the election iterations are stopped and the unfilled seats are reopened in a by-election.
 \end{easylist}
 
-\ifx
-% APPENDIX BEGIN
-\appendix
-\titleformat{\section}{\centering\bfseries\large\uppercase}{}{0ex}{}
-\section{APPENDIX}
-The following changes were made from the previous version (Revised on \today):
-\begin{easylist}
-\ListProperties(Start1=1, Start1*=NA)
-& Amended Bylaw 3 as per October 2015 BoD decision.
-& Amended Bylaw 3 as per July 2016 BoD decision.
-& Amended Bylaw 3 as per March 2017 BoD decision. 
-& Amended Bylaw 3 as per April 2017 BoD decision. 
-\end{easylist}
-\fi
-% APPENDIX END
 \end{document}

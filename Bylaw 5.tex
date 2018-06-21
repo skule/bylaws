@@ -1,32 +1,28 @@
+%Use XeLaTeX to compile.
+
 \documentclass[12pt]{article}
 
 %PACKAGES BEGIN
 \usepackage{fancyhdr}
 \usepackage{geometry}
-	\geometry{
-		left=1in,
-		right=1in,
-		top=1in,
-		bottom=1in,
-		}
+	\geometry{left=1in, right=1in, top=1in, bottom=1in}
 \usepackage{fontspec}
-\setmainfont{Garamond}
+\setmainfont{Garamond}%Special font, use XeLaTeX to compile.
 \usepackage{graphicx}
 \usepackage{titlesec}
 \usepackage[ampersand]{easylist}
+\usepackage{hyperref}
 % PACKAGES END
-
-%Use XeLaTeX to compile.
 
 % FILE INFO
 \author{University of Toronto Engineering Society}
-\title{Bylaw 5}
+\title{Bylaw 5} %Bylaw number
 \date{}
 % FILE INFO
 
 % TITLING FORMATTING BEGIN
 \titleformat{\section}{\centering\bfseries\large\uppercase}{Chapter\ \thesection \ - }{0ex}{}
-%\newcommand{\sectionbreak}{\clearpage} % Manual Page breaks for this Bylaw
+\newcommand{\sectionbreak}{\clearpage}
 \ListProperties(Numbers=a, Numbers4=l, Numbers5=r, Style2=\bfseries, Start1*=\thesection, Start2=0, FinalMark={.}, Hang=true, Margin2=0cm, Margin3=1cm, Margin4=2.5cm, Margin5=3.5cm, Align=1cm, Align3=1.5cm, Space2=.5cm, Hide4=3, Hide5=4)
 \setcounter{section}{-1}
 % TITLING FORMATTING END
@@ -34,7 +30,7 @@
 % HEADER/FOOTER BEGIN
 \pagestyle{fancy}
 \fancyhf{}
-\setlength{\headsep}{0.2in}
+\setlength{\headheight}{42pt}
 \lhead{
 	\includegraphics{images/logo.png}
 	}
@@ -44,7 +40,7 @@
 	Last Revision: \today
 	}
 \rfoot{
-	Page \thepage
+	\thepage
 	}
 % HEADER/FOOTER END
 
@@ -74,8 +70,19 @@ LAST REVISED: \today
 \pagebreak
 % TITLE PAGE END
 
-\setlength{\headsep}{0.50in + 1ex} %this is here to ensure header height consistency + special spacing for two chapters on one page
+% TOC BEGIN
+\pagenumbering{gobble}
+\tableofcontents
+\clearpage
+% TOC END
+
+% Setting numbering correctly.
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Content begin
 \section{General}
+\vspace{5mm} %Header heigh consistency.
 \begin{easylist}
 && General
 	&&& The Society may, from time to time, institute commercial operations. 
@@ -84,7 +91,6 @@ LAST REVISED: \today
 	&&& Any surplus from a previous year must be used to improve the Operation which earned it. 
 \end{easylist}
 
-\setlength{\headsep}{0.1in} %this is here to ensure header height consistency
 \section{Management}
 \begin{easylist}
 \ListProperties(Start2=0)
@@ -136,14 +142,4 @@ LAST REVISED: \today
 	&&& The Engineering Society shall be responsible for obtaining and/or renewing applicable license(s) annually or otherwise, as required for the unobstructed operation of the Hard Hat Caf\'e and full compliance with applicable laws, rules, and regulations.
 \end{easylist}
 
-% APPENDIX BEGIN
-\appendix
-\titleformat{\section}{\centering\bfseries\large\uppercase}{}{0ex}{}
-\section{APPENDIX}
-The following changes were made from the previous version (Revised on \today):
-\begin{easylist}
-\ListProperties(Start1=1, Start1*=NA)
-& Revised Bylaw 5 as per July 2017 Special BoD Meeting decision
-\end{easylist}
-% APPENDIX END
 \end{document}
