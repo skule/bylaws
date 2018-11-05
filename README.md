@@ -8,3 +8,5 @@ The bylaws currently consist of:
 5. Bylaw 5 - *The Commercial Operations Bylaw*
 6. Bylaw 6 - *The Search and Review Committee Bylaw*
 7. Bylaw 7 - *The Discipline Clubs and Class Representatives Bylaw*
+
+If you have any questions with regards to Bylaws 1,2,4,5,6,7, please contact the Speaker at speaker@skule.ca. Any questions with regards to Bylaw 3, should be directed to the Chief Returning Officer at cro@skule.ca.
