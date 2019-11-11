@@ -9,4 +9,4 @@ The bylaws currently consist of:
 6. Bylaw 6 - *The Search and Review Committee Bylaw*
 7. Bylaw 7 - *The Discipline Clubs and Class Representatives Bylaw*
 
-If you have any questions with regards to Bylaws 1, 2, 4, 5, 6, or 7, please contact the Speaker at speaker@skule.ca. Any questions with regards to Bylaw 3 should be directed to the Chief Returning Officer at cro@skule.ca.
+If you have any questions with regards to Bylaws 1, 2, 4, 5, 6, or 7, please contact the Speaker at speaker@skule.ca. Any questions with regards to Bylaw 3 should be directed to the Chief Returning Officer at cro@skule.ca during Elections Periods and to the Speaker at all other times.
