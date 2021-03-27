@@ -1,0 +1,202 @@
+%Use XeLaTeX to compile.
+
+\documentclass[12pt]{article}
+
+%PACKAGES BEGIN
+\usepackage{fancyhdr}
+\usepackage{geometry}
+	\geometry{left=1in, right=1in, top=1in, bottom=1in}
+\usepackage{fontspec}
+\setmainfont{Garamond}%Special font, use XeLaTeX to compile.
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage[ampersand]{easylist}
+\usepackage{hyperref}
+% PACKAGES END
+
+% FILE INFO
+\author{University of Toronto Engineering Society}
+\title{Digital Services Policy} %Bylaw number
+\date{}
+% FILE INFO
+
+% TITLING FORMATTING BEGIN
+\titleformat{\section}{\centering\bfseries\large\uppercase}{Chapter\ \thesection \ - }{0ex}{}
+\newcommand{\sectionbreak}{\clearpage}
+\ListProperties(Numbers=a, Numbers4=l, Numbers5=r, Style2=\bfseries, Start1*=\thesection, Start2=0, FinalMark={.}, Hang=true, Margin2=0cm, Margin3=1cm, Margin4=2.5cm, Margin5=3.5cm, Align=1cm, Align3=1.5cm, Space2=.5cm, Hide4=3, Hide5=4)
+\setcounter{section}{-1}
+% TITLING FORMATTING END
+
+% HEADER/FOOTER BEGIN
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{42pt}
+\lhead{
+	\includegraphics{images/logo.png}
+	}
+\rhead{
+	\textbf{University of Toronto Engineering Society} \\
+	\textbf{Digital Services Policy} \\
+	Last Revision: \today
+	}
+\rfoot{
+	\thepage
+	}
+% HEADER/FOOTER END
+
+\begin{document}
+
+% TITLE PAGE BEGIN
+\begin{titlepage}
+\begin{center}
+\topskip0pt
+\vspace*{\fill}
+\Large\bfseries\uppercase{
+	Policy Number ``2021-03-27"
+	
+	Digital Services Policy
+	
+	University of Toronto Engineering Society
+	}
+\vspace*{\fill}
+\end{center}
+\vfill
+\begin{flushright}
+ADOPTED: March 27, 2021
+
+LAST REVISED: \today
+\end{flushright}
+\end{titlepage}
+\pagebreak
+% TITLE PAGE END
+
+% Setting numbering correctly.
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Content begin
+\section{General}
+\vspace{5mm} %Header heigh consistency.
+\begin{easylist}
+	&& Purpose
+		&&& The purpose of this document is to regulate access to the Engineering Society’s information technology resources and ensure they are used responsibly.
+	&& Definitions
+		&&& ``Accounts” shall refer to information technology resources administered directly by the Engineering Society which must be accessed using designated credentials.
+		&&& ``Administrators” shall refer to the President, Vice-President Communications, Computer Systems Administrator, and Webmaster.
+		&&& ``The User Agreement” shall refer to section 0.3 of this policy.
+	&& User Agreement
+		&&& All users of Accounts administered by the Engineering Society must agree to the University of Toronto Engineering Society IT Infrastructure User Agreement as available on skule.ca.
+		&&& Any individual who holds the credentials for an Account must respond promptly to communications from Administrators pertaining to the Account.
+		&&& Individuals who violate the User Agreement are subject to any action deemed fit by the Administrators without notice, including suspension or deletion of any accounts in their care.
+\end{easylist}
+
+\section{Google Workspace}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& General 
+	&&& The Administrators shall maintain a Google Workspace for use in the operations of the Engineering Society.
+		&&&& The Google Workspace shall use a Google Workspace for Nonprofits license, which will be maintained by the Vice-President Communications.
+		&&&& The Google Workspace shall operate using the primary domain g.skule.ca.
+			&&&&& skule.ca shall be maintained as an alias of this domain.
+		&&&& All Administrators shall be Super Administrators on the Google Workspace
+&& Eligibility 
+	&&& The following individuals may be granted Google Workspace Accounts:
+		&&&& Officers.
+		&&&& The Speaker.
+		&&&& Employees of the Society.
+		&&&& Project Directors.
+		&&&& Temporary Internal Directors.
+		&&&& The Chief Returning Officer.
+		&&&& Discipline Clubs.
+		&&&& Full-Status Affiliated Clubs.
+		&&&& Associated Entities.
+		&&&& Additional individuals with the approval of all Administrators.
+	&&& The following individuals may be granted additional subdomain email Accounts on the Google Workspace for use by the executives of their organization, provided that their organization owns a subdomain of skule.ca:
+		&&&& Project Directors.
+		&&&& Temporary Internal Directors.
+		&&&& Discipline Clubs.
+		&&&& Full-Status Affiliated Clubs.
+		&&&& Associated Entities.
+	&&& The Administrators reserve the right to deny a Google Workspace Account to any individual if there is reasonable suspicion that the Account will be used in a way that violates the User Agreement.
+	&&& With the exception of the accounts held by employees of the Society as per Bylaw 1 Chapter 6, the names of all Google Workspace Accounts associated with the skule.ca domain must reflect the individual’s position.
+		&&&& Account names or aliases may not explicitly or implicitly suggest that an individual holds a position other than the one which the Account was specifically created for.
+	&&& With the approval of the Administrators, any individual who holds an Account on the Engineering Society Google Workspace may own one or more Google Groups for the purposes of operating or advertising their organization. 
+&& Passwords
+	&&& All accounts on the Engineering Society Google Workspace must have their passwords reset a minimum of once per calendar year.
+		&&&& Any accounts which have not had their passwords reset for this duration or longer are subject to having their passwords reset at any time at the discretion of the Administrators.
+&& Revoking Access
+	&&& Google Workspace Accounts which are no longer associated with an individual listed in section 1.1.1 shall be notified upon losing eligibility and given 30 days from the issue of the notice before their account is suspended. 
+		&&&& The suspended account shall remain on the Google Workspace for no less than one calendar year.
+		&&&& This may occur in the following cases:
+			&&&&& A Full-Status Affiliated Club loses Full-Status Affiliation.
+			&&&&& A Temporary Internal Director expires.
+			&&&&& A Project Director or Officer is formally removed from the Bylaws.
+			&&&&& Any other instance of an individual or group associated with the account ceasing operations.
+	&&& Google Workspace Accounts which are not logged into for over one calendar year are subject to suspension or deletion by an Administrator.
+\end{easylist}
+
+\section{Subdomains}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& General
+	&&& The Society shall offer subdomains of skule.ca for usage of purposes that are in the interest of the Society’s operations.
+		&&&& All domain names must be approved by an Administrator.
+&& Eligibility 
+	&&& The following individuals are entitled to one subdomain of skule.ca:
+		&&&& Project Directors.
+		&&&& Temporary Internal Directors.
+		&&&& Full or Trial Status Affiliated Clubs.
+		&&&& Discipline Clubs.
+		&&&& Associated Entities.
+	&&& Additional subdomains may be created for individuals listed in section 2.1.1 by approval of the Vice-President Communications.
+	&&& Subdomains for groups not listed in section 2.1.1 may be created by the approval of the Vice-President Communications.
+&& Websites
+	&&& Subdomains may be associated with space on the Society’s server for the purpose of hosting a website relating to the subdomain holder’s position in the Society.
+		&&&& Websites not hosted on the Society server may be associated with a subdomain by the approval of an Administrator.
+&& Revoking Access
+	&&& Subdomains which are no longer associated with an individual listed in section 2.1.1 shall be notified upon losing eligibility and given 30 days from the issue of the notice before their subdomain is deleted. 
+		&&&& If the webpage associated with the subdomain is hosted on the Society server, the account for the webpage shall be suspended.
+			&&&&& The suspended account shall remain on the server for no less than one calendar year.
+		&&&& This may occur in the following cases:
+			&&&&& An Affiliated Club loses Affiliation status.
+			&&&&& A Temporary Internal Director expires.
+			&&&&& A Project Director is formally removed from the Bylaws.
+			&&&&& Any other instance of an individual or group associated with the account ceasing operations.
+\end{easylist}
+
+\section{Adobe Creative Cloud}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& General
+	&&& The Vice-President Communications shall budget for and purchase an appropriate number of Adobe Creative Cloud licenses for the operation of their portfolio.
+		&&&& The licenses shall be associated with Adobe Accounts managed by the Engineering Society. 
+			&&&&& No other products or licenses may be associated with these Accounts without authorization by the Vice-President Communications.
+	&&& No individual who is not an Administrator may modify Account information including but not limited to:
+		&&&& Password
+		&&&& Email address
+		&&&& Payment information
+&& Eligibility
+	&&& The following entities must be given priority access to the Adobe Creative Cloud Accounts:
+		&&&& The Cannon.
+		&&&& The Toike Oike.
+		&&&& The F!rosh Handbook.
+		&&&& The Skulebook.
+		&&&& The Planner Editor.
+	&&& Any group or individual not listed in section 3.1.1 may be given temporary access to an Adobe Creative Cloud Account under the following conditions:
+		&&&& The time period for which they require access to the Account does not encroach on the ability of any group listed in section 3.1.1 to access an Account as required.
+		&&&& The purpose of the request is in the interest of the Engineering Society, as confirmed by the Vice-President Communications.
+&& Passwords
+	&&& The passwords for each Adobe Creative Cloud Account may be intermittently reset by the Vice-President Communications.
+		&&&& Notice is not necessary before a password reset.
+	&&& If the Account is passed between users, the password shall be reset.
+\end{easylist}
+
+\section{Other Accounts}
+\begin{easylist}
+\ListProperties(Start2=0)
+&& General
+	&&& Engineering Society administered Accounts which are not covered by sections 1-3 shall be under the sole jurisdiction of the Vice-President Communications.
+		&&&& Users of these accounts shall be beholden to any terms of usage communicated by the Vice-President Communications, and violating any of these terms of usage shall be equivalent to violating the User Agreement.
+\end{easylist}
+
+\end{document}
