@@ -1,4 +1,0 @@
-\contentsline {section}{\numberline {0}General}{1}{section.0}%
-\contentsline {section}{\numberline {1}Finances}{2}{section.1}%
-\contentsline {section}{\numberline {2}Track One Committee}{3}{section.2}%
-\contentsline {section}{\numberline {3}Class Representatives}{4}{section.3}%
