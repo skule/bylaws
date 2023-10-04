@@ -23,11 +23,6 @@ jobs:
           files: '**/*.tex'
           separator: "\n"
 
-      - name: (Hack) Use EB Garamond instead of Garamond
-        run: |
-          shopt -s globstar
-          sed -i 's/\\setmainfont{Garamond}/\\usepackage[lining,tabular]{ebgaramond}/' **/*.tex
-
       - name: Compile TeX documents
         uses: xu-cheng/latex-action@v2
         with:
