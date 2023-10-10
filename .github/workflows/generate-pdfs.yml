@@ -25,6 +25,7 @@ jobs:
 
       - name: Compile TeX documents
         uses: xu-cheng/latex-action@v2
+        if: ${{ steps.changed-files.outputs.all_changed_files != '' }}
         with:
           root_file: ${{ steps.changed-files.outputs.all_changed_files }}
           work_in_root_file_dir: true
