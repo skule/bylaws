@@ -3,3 +3,7 @@
 *.log
 *.toc
 *.vs*
+*.fdb*
+*.fls
+*.synctex*
+*.xdv
