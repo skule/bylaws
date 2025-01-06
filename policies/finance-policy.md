@@ -1,4 +1,5 @@
 ---
+revdate: September 29, 2024 by the Executive Committee
 title: Policy Number "2006-01-02"
 pdf: policies/Finance Policy
 subtitle: Policy on Finances
@@ -38,6 +39,9 @@ subtitle: Policy on Finances
    1. Justification of items, including quotes or previous receipts (with suitable cost escalation factor, if necessary)
    1. If application is conference funding, then additionally a list of students attending the conference with their names, discipline, and student number must be provided.
 1. Levy groups (groups which receive levy funding) are eligible for funding through the Skule Endowment Fund. Levy groups are not eligible to receive funding from Special Projects Funding, Conference Funding, or the Engineering Society CPSIF.
+1. Once items have been approved by the Board of Directors, all entities are expected to deliver on those exact individual items with minimal or non-substantive changes to price and quality.
+1. The Engineering Society reserves the right to deny reimbursements to individual items that were not approved by the Board of Directors or items with a significant price difference from what was approved initially at the discretion of the Engineering Society President or the Engineering Society Vice-President Finance.
+1. The Engineering Society must not approve any budgets or expenses that were expensed in the previous fiscal year cycle.
 
 # Finance Committee Responsibilities
 
