@@ -12,7 +12,7 @@ subtitle: Orientation Governance Policy
 
 ## Overview
 1. The Orientation Chair is the Project Director responsible for F!rosh Week as outlined in [Bylaw 2, Section 1.16](../bylaw-2.md).
-1. The Orientation Chair directly oversees a budget of approximately $100,000, a group of 400 volunteers and the well-being of over 1000 incoming students. The Orientation Chair (or appointed delegates) represents the Engineering Society to the Faculty, other campus groups and divisions, and external stakeholders in the City of Toronto.
+1. The Orientation Chair directly oversees the Orientation budget, a group of upper-year volunteers, and the well-being of the registered incoming students during Orientation Week. The Orientation Chair (or appointed delegates) represents the Engineering Society to the Faculty, other campus groups and divisions, and external stakeholders in the City of Toronto.
 1. Given the substantial amount of discretionary authority the Orientation Chair possesses and the vast number of volunteers involved with Orientation, it is necessary for the Engineering Society to remain actively involved throughout the process.
 1. Given the large number of individuals who hold positions in Orientation as well as other positions within the Engineering Society and the resulting conflicts of interest, it is necessary for Orientation to maintain institutional independence to protect the experience of incoming first-year students.
 
@@ -22,8 +22,7 @@ subtitle: Orientation Governance Policy
 # Management
 
 ## Appointed Members
-1. The Orientation Chair must consult the President before appointing members to the Orientation Committee (Vice-Chairs, Sub-Committee Chairs, and Head Leedurs).
-1. Any appointed member of the Orientation Committee (Vice-Chairs, Sub-Committee Chairs, and Head Leedurs) may be removed from their position by a majority vote of a committee comprised of the Orientation Chair, the Assistant Director, First Year Student Success & Transition, and the President.
+1. Any appointed member of the Orientation Committee (Vice-Chairs, Sub-Committee Chairs, and Head Leedurs) may be removed from their position by the discretion of the Orientation Chair and President.
 
 ## Project Management
 1. The Orientation Chair must provide a tentative schedule for Orientation to the President by the beginning of April.
@@ -32,6 +31,15 @@ subtitle: Orientation Governance Policy
 ## Sexual Violence Prevention and Response
 1. The Orientation Chair and Vice-Chairs are required to receive sexual violence prevention training from the University’s Sexual Violence Prevention and Support Centre before the start of August.
 1. The Orientation Chair is required to create a Sexual Violence Prevention and Response plan before August 15th, and this plan will be presented to all members of the Engineering Society taking part in F!rosh Week and F!rosh Week-adjacent events.
+
+## Finance Policy
+1. The Orientation Chairs must appoint an Orientation Vice-Chair Finance (hereafter OVCF) to oversee the Orientation budget.
+1. The Orientation budget must be submitted to the Engineering Society Finance Committee and Board of Directors for approval at the May, June, and July Board of Directors Meetings.
+   1. The Orientation budget must be finalized and sent for final approval to the July Board of Directors meeting. No substantively new items may be added after that meeting, unless it encompasses unavoidable circumstances such as inaccurate forecasts and estimates.
+   1. No major budget changes may happen in August without the explicit approval or direction of the Engineering Society President, Engineering Society VP Finance, or the Board of Directors.
+1. The OVCF must not approve of any transactions or purchases without the explicit approval or direction of the Engineering Society President, Engineering Society VP Finance, or the Board of Directors.
+1. Once items have been approved by the Board of Directors, the OVCF and the Subcommittee Chairs are expected to deliver on those exact individual items with minimal or non-substantive changes to price and quality.
+1. The Engineering Society reserves the right to deny reimbursements to individual items that were not approved by the Board of Directors or items with a significant price difference from what was approved initially at the discretion of the Engineering Society President or the Engineering Society Vice-President Finance.
 
 # Restricted Participation in Orientation
 
