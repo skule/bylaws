@@ -1,5 +1,5 @@
 ---
-revdate: October 19, 2024
+revdate: November 30, 2024
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
@@ -228,15 +228,22 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Skule Nite.
 
 ## Internal Representatives
-1. Internal Representatives advocate for and/or represent various constituencies within the Engineering Society.
-1. The following Internal Representative shall be overseen by the Vice-President Academic:
-   1. The Part Time Students' Representative.
-1. The following Internal Representatives shall be overseen by the Vice-President Student Life:
-   1. The First Year Chair;
-   1. The Fourth Year Chair; and
-      1. The Fourth Year Chair shall be a Member in their Final Year of an undergraduate program in the Faculty.
-   1. The Valedictorian.
-      1. The Valedictorian shall be a Member in their Final Year of an undergraduate program in the Faculty.
+1. Internal Representatives shall be overseen by the Vice-President Student Life
+1. First Year Chair
+   1. The First Year Chair shall be a Member in their First Year of an undergraduate program in the Faculty.
+   1. The First Year Chair shall engage the first-year community by running events and initiatives to help foster community.
+      1. A minimum of one First-Year engineering initiative per semester
+      1. The First Year Chair is responsible for their respective year’s Art Mural’s design and completion before the start of the next Orientation Week
+      1. The First Year Chair shall create a team consisting exclusively of first-year students in the faculty to compete in the annual Godiva Week Chariot Race
+      1. The First Year Chair shall commit a small amount of tomfoolery during their term
+1. Fourth Year Chair
+   1. The Fourth Year Chair shall be a Member in their Final Year of an undergraduate program in the Faculty.
+   1. The Fourth Year Chair shall organize Iron Ring Sizings before the beginning of the Winter Semester
+   1. The Fourth Year Chair is responsible for organizing graduation photos for the graduating class
+   1. The Fourth Year Chair shall coordinate various iron ring afterparty events
+1. Valedictorian
+   1. The Valedictorian shall be a Member in their Final Year of an undergraduate program in the Faculty.
+   1. The Valedictorian shall prepare and deliver a speech to the graduating class during the Grad Ball event.
 
 ## Spirit Heads
 1. Spirit Heads promote student spirit and extracurricular engagement within the Skule™ community.

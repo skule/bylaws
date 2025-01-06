@@ -1,5 +1,5 @@
 ---
-revdate: October 19, 2024
+revdate: November 30, 2024
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -171,7 +171,8 @@ subtitle: The Elections Bylaw
 
 ## Ancillary Organizations Executives Election Period
 1. The Chairs or Presidents of the Ancillary Organizations listed in the subsections of Section 3.3.3 shall be elected through the Engineering Society.
-1. Ancillary Organizations may also choose to operate elections for other executive positions through the Engineering Society, by notifying the CRO through email no later than February 28.
+1. Ancillary Organizations may also choose to operate elections for other executive positions through the Engineering Society.
+   1. For the position to be included in an election cycle, the CRO must be notified of the eligibility requirement(s) and the number of seats open for all requested executive positions by email at least 2 weeks before the nomination period begins.
 1. The Nomination, Campaign, and Voting Periods for positions of the following Ancillary Organizations shall be the same as those for the Board of Directors election:
    1. Engineering Athletics Association (positions elected by the Membership);
    1. Chemical Discipline Club (positions elected by the Chemical Engineering constituency);
@@ -363,7 +364,7 @@ subtitle: The Elections Bylaw
 # Campaigning
 
 ## General
-1. Campaigning is allowed solely during the Campaign Period and may only be done by a candidate or Designate.
+1. Campaigning activities are allowed solely during the Campaign Period and may only be done by a candidate or Designate.
 1. All campaign materials must prominently display the following text: "vote.skule.ca".
 1. In this chapter the term "candidate" shall be interpreted to include the term "Designate" for referenda questions.
 1. Candidates are limited to zero dollars ($0) in campaign expenses.
@@ -412,8 +413,16 @@ subtitle: The Elections Bylaw
 1. Campaigning may occur on any publicly accessible social media platform, with approval from the CRO.
    1. Social media campaigning activities must only occur in locations (i.e. Facebook events, Instagram pages, etc.) which are known to and approved by the CRO, and campaigning may only commence once this approval has been communicated to the candidate.
    1. Notwithstanding any other part of this Bylaw, any campaign activities occurring in online locations not known to and approved by the CRO are prohibited.
-1. Campaigning activities occurring on a social media platform must be visible to all users of that platform.
+1. A candidate may only begin social media campaigning once their campaign account has been approved by a member of the ORO for that election period. The following criteria must be met for a Social Media Campaigning Account to receive approval:
+   1. The account must be created on a platform approved by the ORO, and it must be a new account with no existing followers or connections, aside from ORO members.
+   1. The account must be publicly accessible to all users of the platform.
+   1. The account name must clearly identify the candidate (e.g., @billy_bob_for_prez is allowed, whereas @EngSoc_Prez is not).
+   1. The account description must include the text "vote.skule.ca."
+   1. Any additional criteria deemed necessary by the CRO.
+      1. The CRO will disclose these requirements to all candidates at the All Candidates Meeting. Failure to adhere to undisclosed criteria will not be considered a penalizable offense.
 1. Any content posted in approved social media locations must satisfy all other applicable sections of Bylaw 3.
+1. Campaign material may not be reposted or shared by any other account. It is the candidate’s responsibility to ensure their campaign material is not redistributed by any account that has not been approved by the CRO for that election period.
+1. All activity on campaign accounts must cease at the conclusion of the campaign period and remain inactive until the release of the election results. Following the announcement of results, candidates may use their campaign accounts at their discretion.
 1. The CRO shall be as permissible as is reasonable in their approval of campaign activities under this section.
    1. Should unforeseeable and extenuating circumstances require it, approval of social media campaigning activities may be revoked by the CRO at any time, at which point further campaigning activities must cease in the location(s) in question.
 
@@ -471,6 +480,7 @@ subtitle: The Elections Bylaw
 1. Candidates are not allowed to create any campaign videos.
 1. The official language of campaigning is English. Should a candidate wish to create materials and/or deliver speeches in another language, they must provide an accurate and equivalent English translation that appears in advance of any such content.
    1. Providing a false or misleading translation shall constitute a blatant breach of this rule.
+1. Campaigning messages and/or campaigning material may not be posted in group chats/servers whose original purpose of creation was not campaigning.
 
 ## Communication After Campaign Period
 1. Once the Campaign Period ends, candidates must cease public communications regarding their campaign.
