@@ -1,8 +1,8 @@
 ---
-revdate: August 22, 2024
+revdate: October 19, 2024
 title: Bylaw 2
 pdf: Bylaw 2
-subtitle: The Directors and Associated Entities Bylaw
+subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 ---
 
 # General
@@ -12,7 +12,7 @@ subtitle: The Directors and Associated Entities Bylaw
 1. The Term of Office of all Project Directors shall commence at the adjournment of the April Board of Directors meeting, unless the motion ratifying their election specifies otherwise.
 1. The Term of Office of all Project Directors shall extend until the adjournment of the April Board of Directors Meeting, unless the motion ratifying their election specifies otherwise.
 1. A Director must be a Member for the entire duration of the Directorship’s Term of Office, as described in 0.0.1.
-1. A Project Director, once elected, will not be considered eligible to run in an election for the same position, unless they held the position for less than two (2) months after they are elected. This requirement may be waived due to extenuating circumstances by a unanimous vote of the Board.
+1. A Project Director is ineligible to serve in a position they have previously held for more than two (2) months even if re-elected. This requirement may be waived in cases of extenuating circumstances by a unanimous vote of the Board of Directors.
 1. A Project Director, once elected, shall not be eligible to run in elections for any Project Directorship with the same Term of Office. This requirement may be waived due to extenuating circumstances by a unanimous vote of the Board.
 1. A Member may hold a maximum of two (2) Project Director positions at the same time, provided that the terms of office of the two (2) positions do not overlap by more than four (4) months.
 1. Project Directors may not also hold Officer positions.
@@ -134,20 +134,6 @@ subtitle: The Directors and Associated Entities Bylaw
 1. There shall be a UTEK Director who shall be responsible for organizing the University of Toronto Engineering Kompetition, a qualifying competition for students wishing to compete in the Ontario Engineering Competition (OEC).
 1. The UTEK Director shall be overseen by the Vice-President Academic.
 
-## Ombudsperson
-1. There shall be an Ombudsperson who shall make themselves available to receive complaints from the Members.
-1. The Ombudsperson shall mediate conflicts, track problem areas, provide whistleblowing options to Members with concerns, and make recommendations for changes to structure and practices of the Society.
-1. The Ombudsperson shall maintain confidentiality of all personal information unless the respective party authorizes otherwise.
-1. The decisions of the Ombudsperson shall not be binding on the Society or its Members.
-1. The Ombudsperson shall be responsible for actively seeking out the opinions and views of the Members through surveys, discussion and any other means they deem appropriate.
-1. The Ombudsperson should liaise regularly with the Officers and maintain open communication with the Project Directors, Associated Entities, Class Representatives, Affiliated Clubs, and Board of Directors, in order to keep them aware of any issues brought up by the Members.
-1. The Ombudsperson shall create and distribute an annual Skule Census.
-1. The Ombudsperson shall compile and distribute information from the Census once the student population completes it in order to provide the results to the Society and its Members.
-1. At the April Board Meeting, the Ombudsperson shall make a report on issues within the Society identified through complaints or the Ombudsperson's other duties.
-1. The Ombudsperson shall facilitate or delegate the responsibility of facilitating Sexual Violence Prevention and Response training on at least two occasions each year.
-1. The Ombudsperson shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
-1. The Ombudsperson shall report to the Speaker of the Board of Directors.
-
 ## Skule Kup Director
 1. There shall be a Skule Kup Director who shall be responsible for organizing the Skule Kup, a year-round interdisciplinary competition to encourage discipline pride and camaraderie.
 1. The Skule Kup Director shall be overseen by Vice President Student Life
@@ -265,3 +251,46 @@ subtitle: The Directors and Associated Entities Bylaw
 1. The following External Representatives will have the President as a point of contact for their activities that fall within the Society's jurisdiction:
    1. The SAC (UTSU) Representative(s); and
    1. The Student Governor, when the position is held by a Member.
+
+# Neutral Officers
+
+## General
+1. The positions listed in this chapter shall be known as Neutral Officers.
+1. “CRO” shall refer to the Chief Returning Officer.
+1. A Neutral Officer may only be recalled by a two-thirds vote of:
+   1. The Board of Directors of the Society;
+   1. The Annual General Meeting; or
+   1. A General Meeting called for such purpose
+
+## Speaker
+1. There shall be a Speaker who shall act as Chair of the Board of Directors during all meetings of the Board.
+1. The Speaker shall be responsible for ensuring an agenda is prepared for each meeting of the Board.
+1. The Speaker shall use applicable law, the Constitution of the Society, other Bylaws of the Society, Robert’s Rules of Order, University of Toronto policy, Faculty policy, their own discretion and a flip of a coin, in that order, in determining all questions of procedure before them.
+1. The Speaker shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
+1. The Speaker shall be elected according to the process outlined in [Bylaw 3, Section 5.3](bylaw-3.md)
+   1. Following the adjournment of the April Board of Directors Meeting, the Speaker’s term of office shall end but they shall also automatically be appointed as the interim Speaker until the May Board of Directors Meeting.
+   1. The outgoing Speaker is required to call a Special Meeting of the Board of Directors where an alternative interim Speaker may be appointed, if such a request is made before the May Board of Directors Meeting by at least one (1) member of the incoming Board of Directors. The meeting must be called within seven (7) days of having received such a request.
+   1. The outgoing Speaker is required to inform all incoming Board members of the provisions of Section 3.1.6.b at least seven (7) days before the April Board of Directors Meeting.
+
+## Chief Returning Officer
+1. There shall be a Chief Returning Officer who shall have sole responsibility for conducting elections unless otherwise stated.
+1. The CRO shall follow the roles and responsibilities as outlined in [Bylaw 3](bylaw-3.md)
+1. The CRO shall be overseen by the Speaker.
+1. The CRO shall not resign during an Election Period.
+1. In cases of infirmity, death, resignation, vacancy, or other form of ineligibility of the CRO, the Speaker shall act as the interim CRO until a new CRO is elected at a meeting of the Board.
+1. The CRO shall be elected according to the process outlined in [Bylaw 3, Section 5.1](bylaw-3.md) and shall serve a term that concludes at the end of the Winter Ratification Meeting.
+
+## Ombudsperson
+1. There shall be an Ombudsperson who shall make themselves available to receive complaints from the Members.
+1. The Ombudsperson shall be overseen by the Speaker of the Board of Directors.
+1. The Ombudsperson shall mediate conflicts, track problem areas, provide whistleblowing options to Members with concerns, and make recommendations for changes to structure and practices of the Society.
+1. The Ombudsperson shall maintain confidentiality of all personal information unless the respective party authorizes otherwise.
+1. The decisions of the Ombudsperson shall not be binding on the Society or its Members.
+1. The Ombudsperson shall be responsible for actively seeking out the opinions and views of the Members through surveys, discussion and any other means they deem appropriate.
+1. The Ombudsperson should liaise regularly with the Officers and maintain open communication with the Project Directors, Associated Entities, Class Representatives, Affiliated Clubs, and Board of Directors, in order to keep them aware of any issues brought up by the Members.
+1. The Ombudsperson shall create and distribute an annual Skule Census.
+1. The Ombudsperson shall compile and distribute information from the Census once the student population completes it in order to provide the results to the Society and its Members.
+1. At the April Board Meeting, the Ombudsperson shall make a report on issues within the Society identified through complaints or the Ombudsperson’s other duties.
+1. The Ombudsperson shall facilitate or delegate the responsibility of facilitating Sexual Violence Prevention and Response training on at least two occasions each year.
+1. The Ombudsperson shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
+1. The Ombudsperson shall be elected in the same manner as Project Directors, as outlined in [Bylaw 3, Chapter 7](bylaw-3.md)

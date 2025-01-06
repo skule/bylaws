@@ -1,5 +1,5 @@
 ---
-revdate: August 22, 2024
+revdate: October 19, 2024
 title: Bylaw 1
 pdf: Bylaw 1
 subtitle: The Constitution
@@ -119,12 +119,9 @@ subtitle: The Constitution
 
 ## Notice
 1. Notice shall be given at least fourteen (14) days prior to any General Meeting;
-1. Notice shall be given:
-   1. Electronically through email to the Membership;
-   1. In a Society publication which prints at least fourteen (14) days prior to the General Meeting; and
-   1. Through written notice posted in the Society office.
-1. Without notice as defined in Sections 2.3.1 and 2.3.2, no motions passed at a General Meeting shall have force.
-1. If a General Meeting is adjourned for less than thirty (30) days, notice by the aforementioned means shall be given at least seven (7) days prior to the meeting that continues the adjourned meeting.
+1. Notice shall be given electronically through email to the Membership.
+1. Without notice as defined in Sections 2.3.1 and 2.3.2, no motions passed at a General Meeting shall have force, unless all Members present waive notice as described in section 55(3) of ONCA.
+1. If a General Meeting is adjourned for less than thirty (30) days but more than seven (7) days, notice by the aforementioned means shall be given at least seven (7) days prior to the meeting that continues the adjourned meeting.
 1. For the Annual General Meeting, notice must be given to the Auditor of the Society, however their attendance is not required.
    1. Notwithstanding Section 1.4, the Auditor shall be permitted to attend and speak at the Annual General Meeting.
 
@@ -146,9 +143,9 @@ subtitle: The Constitution
 
 ## Publication of Financial Statements
 1. The Society's audited financial statements are to be approved by the Board of Directors before they are circulated in advance of the Annual General Meeting.
-   1. The Society’s audited financial statements must be presented In-Camera at a Board of Directors Meeting, and may not be issued, published, or circulated publicly until the Board of Directors has approved them.
-1. At least twenty-one (21) days before the Annual General Meeting, the Vice-President Finance shall cause a copy of the Society's audited financial statements and the auditor's report to be:
-   1. Published online on the Society's website and all Members given notice of their availability; and
+   1. The Society’s audited financial statements must be presented to the Board _in camera_ by the September Board of Directors Meeting, and may not be issued, published, or circulated publicly until the Board of Directors has approved them.
+1. As soon as possible after they are approved by the Board of Directors, the Vice-President Finance shall cause a copy of the Society’s audited financial statements and the auditor’s report to be:
+   1. Published online on the Society’s website; and
    1. Submitted to the Office of the Governing Council and any other University offices that require them.
 
 # Officers
@@ -289,18 +286,16 @@ subtitle: The Constitution
 ## Speaker
 1. The Speaker shall act as Chair of the Board of Directors and shall ensure proper procedure during all meetings of the Board.
 1. In the absence of the Speaker, the President shall act as Chair of the Board, except as determined by a majority vote of the Board.
-1. The Speaker shall be responsible for ensuring an agenda is prepared for each meeting of the Board.
 1. The Speaker shall be a non-voting member of the Board of Directors.
-1. The speaker shall use applicable law, the Constitution of the Society, other Bylaws of the Society, University of Toronto policy, Faculty policy, Robert's Rules of Order, their own discretion and a flip of a coin, in that order, in determining all questions of procedure before them.
 1. All decisions of the Speaker may be reversed by a two-thirds majority vote of the Board, except regarding applicable law, the Constitution and Bylaws of the Society from which there is no appeal.
-1. The Speaker shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
-1. Following the adjournment of the April Board of Directors Meeting, the Speaker’s term of office shall end but they shall also automatically be appointed as the interim Speaker until the May Board of Directors Meeting.
-   1. The outgoing Speaker is required to call a Special Meeting of the Board of Directors where an alternative interim Speaker may be appointed, if such a request is made before the May Board of Directors Meeting by at least one (1) member of the incoming Board of Directors. The meeting must be called within seven (7) days of having received such a request.
-   1. The outgoing Speaker is required to inform all incoming Board members of the provisions of 4.6.8.a at least seven (7) days before the April Board of Directors Meeting.
+1. In addition to the responsibilities outlined above, the Speaker shall also fulfill the duties specified in Bylaw 2, Section 3.1.
 
 ## Meetings
 1. The rules contained in Robert's Rules of Order, Twelfth Edition shall govern the Board of Directors, and in which they are not inconsistent with the by-laws or the special rules of order of this society.
-1. The Board of Directors shall have regular meetings at least once a month, except for the month of December. There shall be at least one additional regular meeting in the month of either March or April for the sole purpose of ratifying election results.
+1. The Board of Directors shall have regular meetings once a month, except that:
+   1. There shall be no regular meetings in the month of December.
+   1. There shall be one additional regular meeting in the month of January for the sole purpose of ratifying the results of the Winter Elections (the “Winter Ratification Meeting”).
+   1. There shall be one additional regular meeting in the month of either March or April for the sole purpose of ratifying the results of the Spring Elections (the “Spring Ratification Meeting”).
 1. Any Member may attend, speak and move, second or amend motions at meetings of the Board of Directors subject to the rules of order.
 1. The Speaker shall ensure that an agenda is circulated to all Board members five (5) days before any meeting of the Board.
 1. All motions submitted by a Member to the Vice-President Communications or Speaker at least seven (7) days before a meeting of the Board of Directors shall be included on that agenda.
@@ -336,7 +331,7 @@ subtitle: The Constitution
 1. A Member of the Board of Directors shall adhere to a standard of conduct that includes the following:
    1. A Member of the Board of Directors shall not be absent from more than two (2) regular meetings of the Board of Directors without regrets over the course of their term.
    1. A Member of the Board of Directors shall not be absent from more than three (3) regular meetings of the Board of Directors over the course of their term.
-1. If a Member of the Board of Directors breaches the standard of conduct outlined in section 4.11.2, the Speaker shall submit a motion at the next regular meeting of the Board of Directors following the breach of conduct to call a General Meeting for the purpose of recalling the Member in question. The Member in question will have the opportunity to defend their breach of conduct at the meeting of the Board of Directors in which the motion is submitted by the Speaker.
+1. If a Member of the Board of Directors breaches the standard of conduct outlined in section 4.11.2, the Speaker shall submit a motion at the next monthly meeting of the Board of Directors following the breach of conduct to call a General Meeting for the purpose of recalling the Member in question. The Member in question will have the opportunity to defend their breach of conduct at the meeting of the Board of Directors in which the motion is submitted by the Speaker.
 1. A Member of the Board of Directors’ failure to meet the standard of conduct outlined in section 4.11.2 may be neglected if the Member of the Board of Directors’ circumstances are proven to be extraneous or due to other factors, at the discretion of the Speaker.
    1. The Speaker shall inform the Board of Directors any time a failure to meet the standard of conduct is neglected.
    1. A Member of the Board of Directors may request additional information from the Speaker about the Speaker’s decision to neglect a failure to meet the standard of conduct.
