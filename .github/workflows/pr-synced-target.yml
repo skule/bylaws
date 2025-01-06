@@ -40,7 +40,7 @@ jobs:
           pip install -r scripts/requirements.txt
           {
             echo 'md<<EOF'
-            git diff -U1000000 "$BASE" HEAD -- **/*.md | python scripts/diff_to_table.py
+            git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- **/*.md | python scripts/diff_to_table.py
             echo EOF
           } >> "$GITHUB_OUTPUT"
 
