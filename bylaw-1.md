@@ -52,7 +52,6 @@ subtitle: The Constitution
    1. Regular Members retain their membership during the Summer following the Academic Year if they were enrolled and paid their membership fees during the Winter Semester.
 1. Regular Members who complete the requirements of their undergraduate degree (as defined by the Faculty) shall lose Membership of the Society  and become Alumni (as defined in 1.2) on the date of their Convocation.
 1. Ex-Officio Members shall be individuals who have been granted Membership by the Bylaws of the Society.
-   1. The UTSU Representative, as described in Section 4.1, shall be considered an Ex-Officio Member of the Engineering Society.
 1. The “Confidentiality Agreement - Information Sharing” document provides the ability for the President, Speaker, and Chief Returning Officer of the Engineering Society to verify a Member’s enrolment status if they hold, are attempting to hold a position, or have signed a nomination form for a Member attempting to hold a position through a process administered by the Society.
    1. The enrolment status of a Member may be verified in the following circumstances:
       1. After a Nomination Period for each candidate, and if applicable, the Members who signed their nomination form. This is the responsibility of the Chief Returning Officer;
@@ -250,9 +249,6 @@ subtitle: The Constitution
       1. Mineral Engineering Representative;
    1. Three (3) Representatives from First Year;
    1. Four (4) At-Large Representatives, representing the Society At-Large; and
-   1. One (1) Ex-officio Director appointed by the Student's Administrative Council of the University of Toronto (UTSU) Executive committee (the UTSU Representative).
-      1. The UTSU Representative shall not be subject to the Recall provisions set forth in Section 4.12; and
-      1. The UTSU Representative shall be entitled to attend and hold a vote at meetings of the Board of Directors.
 1. All Directors of the Board must meet the following criteria when their respective term of office begins, as described in Section 4.2.
    1. Must be at least 18 years of age.
    1. Must not have been found under the Substitute Decisions Act, 1992 or under the Mental Health Act to be incapable of managing property.
@@ -369,7 +365,6 @@ subtitle: The Constitution
 
 ## Conflicts of Interest
 1. The Speaker shall have the authority to bar Board members from voting on a motion where the Member has a conflict of interest.
-   1. Notwithstanding Section 4.6.7, the Speaker shall not bar the UTSU Representative from voting on any matter before the Board of Directors.
 1. It shall be out of order for the Board of Directors to vote on motions to approve its own non-essential expenses unless a non-essential expenses quota is approved at a General Meeting of the Society.
    1. Non-essential expenses include any food or recreational purchases which members of the Board or Council as a whole will have free and exclusive access to.
    1. A non-essential expenses quota specifies a maximum amount of money which the Board is able to use for non-essential expenses cumulatively until the quota expires.

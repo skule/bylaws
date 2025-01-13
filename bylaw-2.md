@@ -256,7 +256,6 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 ## External Representatives
 1. External Representatives liaise with groups external to the Engineering Society.
 1. The following External Representatives will have the President as a point of contact for their activities that fall within the Society's jurisdiction:
-   1. The SAC (UTSU) Representative(s); and
    1. The Student Governor, when the position is held by a Member.
 
 # Neutral Officers
