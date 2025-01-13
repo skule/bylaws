@@ -47,10 +47,10 @@ def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, 
     for tag, i1, j1, i2, j2 in sm.get_opcodes():
         if tag == 'insert':
             assert i1 == j1
-            for i in range(i2, j2):
-                prefix = (*prefix2, i)
-                yield tag, None, '', prefix, body2[i].title
-                yield from diff_sections((), body2[i].body, (*prefix1, i1), prefix)
+            for j in range(i2, j2):
+                prefix = (*prefix2, j)
+                yield tag, None, '', prefix, body2[j].title
+                yield from diff_sections((), body2[j].body, (*prefix1, i1), prefix)
         elif tag == 'delete':
             assert i2 == j2
             for i in range(i1, j1):
@@ -72,7 +72,7 @@ def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, 
                 else:
                     prefixi = (*prefix1, i)
                     prefixj = (*prefix2, j)
-                    if body1[i].title != body2[i].title:
+                    if body1[i].title != body2[j].title:
                         yield tag, prefixi, body1[i].title, prefixj, body2[j].title
                     yield from diff_sections(body1[i].body, body2[j].body, prefixi, prefixj)
 
