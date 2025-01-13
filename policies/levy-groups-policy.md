@@ -1,4 +1,5 @@
 ---
+revdate: November 28, 2019 by the Board of Directors
 title: Policy Number "2014-01-01"
 pdf: policies/Levy Groups Policy
 subtitle: Policy on Levy Groups

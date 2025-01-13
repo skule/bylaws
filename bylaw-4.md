@@ -1,5 +1,5 @@
 ---
-revdate: August 22, 2024
+revdate: October 19, 2024
 title: Bylaw 4
 pdf: Bylaw 4
 subtitle: The Officers Bylaw
@@ -10,7 +10,7 @@ subtitle: The Officers Bylaw
 ## General
 1. In this document, “Meetings” shall include all General Meetings and regular Meetings of the Board of Directors
 1. The Officers shall be required to submit a written report to the Speaker of their milestones, relevant updates, and general progress from the previous Meeting at which they (or their predecessor) submitted such a report.
-1. The Officers shall submit the aforementioned report at least seventy-two (72) hours prior to the commencement of each regular meeting of the Board of Directors, with the exception of the extra regular meeting in March/April, barring extraneous circumstances at the discretion of the Speaker.
+1. The Officers shall submit the aforementioned report at least seventy-two (72) hours prior to the commencement of each monthly meeting of the Board of Directors, barring extraneous circumstances at the discretion of the Speaker.
 1. Each Officer report shall include:
    1. Updates on new and/or ongoing initiatives within the portfolio;
    1. Progress of the project directors they oversee;
@@ -35,7 +35,7 @@ subtitle: The Officers Bylaw
 
 ## Vice-President Finance
 1. The Vice-President Finance is responsible for overseeing the commercial operations defined in [Bylaw 5](bylaw-5.md).
-1. The Vice-President Finance shall report, at all regular Meetings of the Board of Directors, the Society’s financial position, including but not limited to:
+1. The Vice-President Finance shall report, at all monthly Meetings of the Board of Directors, the Society’s financial position, including but not limited to:
    1. A comparison of actual income and expenses pertaining to the budget; and
    1. A statement of expected income and expenses.
 1. The Vice-President Finance shall, within two (2) weeks following the end of the fiscal year as defined in [Bylaw 1](bylaw-1.md), submit the Society's accounts and year-end financial statements to the auditors.
