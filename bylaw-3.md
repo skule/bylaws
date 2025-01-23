@@ -281,25 +281,50 @@ subtitle: The Elections Bylaw
 
 # Referenda
 
-## Governing Regulations
-1. A referendum shall be called by either:
-   1. A motion of the Board of Directors; or
-   1. A Referendum Form submitted to the Engineering Society Office consisting of a list of signatures of Full Time Members and Part Time Members, which contains:
-      1. Each signer's name, year of study, student number, and discipline;
-      1. The signatures of seventy-five (75) Members; and
-      1. A fifty dollar ($50) cash deposit.
-1. Any referendum concerning student fees shall require a Special Resolution of the Board.
-1. A referendum to recall a Class Representative may be called as per [Bylaw 7 Section 3.0.5](bylaw-7.md).
-1. The CRO shall hold an All Candidates Meeting (ACM) at least seventy-two (72) hours before the Campaign Period opens.
-   1. All campaigns must send an official representative to attend the ACM .
-1. The CRO shall adjudicate any violations of rules set out in the Bylaws. Consequences of non-compliance may include, but are not limited to:
-   1. Forfeiture of the campaign's deposit; and/or
-   1. Removal of the campaign's posters.
-1. A referendum must be positively phrased so that a vote of "yes" signifies agreement with the initiative proposed, and a vote of "no" signifies disagreement with it. The CRO’s interpretation of the referendum shall be authoritative.
-1. Quorum required for a referendum shall be five percent (5%) of Members eligible to vote.
-1. A referendum result shall be considered a recommendation and not legally binding unless otherwise specified in the Bylaws.
-1. A referendum shall not interfere with the Constitution of the Society, University Policy or any Municipal, Provincial or Federal Legislation.
-1. If the referendum reaches quorum and the Designate removes all of their posters, as described in Section 8.1, within seven (7) days of the close of the Voting Period, the deposit shall be returned.
+## General
+1. Other than allowed voter statements as described in section 6.1 onwards, there shall be no campaigning for or against referenda. The CRO has the authority to annul a referendum if excessive campaigning occurs.
+1. When voting on a referendum, a voter may only choose to vote "Yes", vote "No", or spoil their ballot. Spoiling a ballot means that it counts towards the quorum required for the referendum result to be valid, but does not count for or against the simple majority required for the result to take effect.
+   1. For example, if out of 100 eligible voters, two people vote "Yes", one person votes "No", and two people spoil their ballots, then a 5% quorum is met (5 votes were cast) and the result is in favor (2/3 unspoiled ballots were in favor).
+1. Referendum rules not specified in this chapter shall be decided by the CRO with the Speaker's approval.
+
+## Levy Referenda
+1. A referendum for the purpose of creating, renewing, increasing, decreasing, or removing student fees as specified in [Bylaw 1 Section 1.3](bylaw-1.md) must be called by one of:
+   1. A two-thirds majority vote at a Board of Directors Meeting; or
+   1. A simple majority vote at a General Meeting.
+1. The question text of such a referendum shall contain exclusively the following elements:
+   1. The question of support (e.g. "Do you support ... ?")
+   1. The fee in question (e.g. "levy for [student group]")
+   1. The amount of the fee in each semester per full-time and part-time student, and the resulting amount in each year (e.g. "$1.50 per semester per student for both Fall and Winter semesters, for a total of $3.00 annually")
+   1. The sessions during which the fee will be levied (e.g. "the 2024-2025 and 2025-2026 terms")
+   1. Example question text: "Do you support a $1.50 per semester per student levy for [student group] for the 2024-2025 and 2025-2026 terms? ($1.50 per semester per student for both Fall and Winter semesters, for a total of $3.00 annually.)"
+1. The voting period for such a referendum shall run concurrently with the Spring Elections cycle following when it is called.
+1. The party calling such a referendum may provide, when calling the referendum, a document in support of the referendum, to which a link will appear alongside the referendum question when it is presented to voters.
+1. Such a referendum which receives votes from at least 5% of Members, of which a simple majority are in favor, shall lead to the fee being modified as proposed. Otherwise, the referendum fails.
+
+## Referenda to Recall a Class Representative
+1. A referendum to recall a Class Representative must be called by a Referendum Form submitted to the Engineering Society Office consisting of a list of signatures of Regular Members in the Class Representative's constituency, which contains:
+   1. Each signer's name and student number; and
+   1. The signatures of at least ten (10) Members in the Class Representative's constituency, or at least 50% of the constituency if it is smaller than twenty (20) Members.
+1. The question text of such a referendum shall be: "Do you support recalling [name] from their position as [discipline and year] Class Representative?" where "[name]" is the name of the Class Representative in question and "[discipline and year]" is the constituency they represent.
+1. The voting period for such a referendum shall begin between seven (7) and fourteen (14) days after it is called, at the CRO's discretion, and shall last at least three (3) days. If possible within these constraints, the voting period shall be aligned with the voting period of any other ongoing election cycle.
+1. Both the party calling such a referendum and the Class Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.8.
+   1. For the party calling the referendum, this statement is limited in content to specifying how the Class Representative has neglected their duties as specified in [Bylaw 7 Section 3.0.3](bylaw-7.md). This statement must be provided at the same time as the referendum is called.
+   1. For the Class Representative in question, this statement is limited in content to rebutting the calling party's statement and/or otherwise defending their conduct. This statement must be provided to the CRO at least twenty-four (24) hours before the start of the voting period.
+   1. If approved by the CRO as compliant with the above rules, these voter statements will be displayed alongside the referendum question when it is presented to voters.
+1. The Class Representative in question must be notified by email of the provisions of section 6.2.4 at least seven (7) days prior to the beginning of the voting period of the referendum.
+1. The Class Representative's constituency must be notified by email as soon as the CRO decides the voting period of the referendum, and once again at the start of the voting period, unless the voting period is aligned with another election cycle, in which case the notification timeline for that election cycle applies.
+1. Such a referendum which receives votes from at least 5% of Members in the constituency in question, of which a simple majority are in favor, shall lead to the Class Representative being recalled. Otherwise, the referendum fails.
+
+## Referenda to Recall a Board Representative
+1. A referendum to recall a Member of the Board of Directors, except Officers, for reason of breaching the standard of conduct in [Bylaw 1 section 4.11.3](bylaw-1.md) must be called by a simple majority vote at a Board of Directors Meeting.
+1. The question text of such a referendum shall be: "Do you support recalling [name] from their position as [constituency] Board Representative?" where "[name]" is the name of the Board Representative in question and "[constituency]" is the constituency they represent (e.g. "At-Large", "First Year").
+1. The voting period for such a referendum shall begin at most eleven (11) business days after it is called, at the CRO's discretion, and shall last at least three (3) days. If possible within these constraints, the voting period shall be aligned with the voting period of any other ongoing election cycle.
+1. Both the party calling such a referendum and the Board Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.8.
+   1. For the party calling the referendum, this statement is limited in content to specifying how the Board Representative has breached the standard of conduct in [Bylaw 1 section 4.11.3](bylaw-1.md). This statement must be provided at the same time as the referendum is called.
+   1. For the Board Representative in question, this statement is limited in content to rebutting the calling party's statement and/or otherwise defending their conduct. This statement must be provided to the CRO at least twenty-four (24) hours before the start of the voting period.
+   1. If approved by the CRO as compliant with the above rules, these voter statements will be displayed alongside the referendum question when it is presented to voters.
+1. The Board Representative's constituency must be notified by email as soon as the CRO decides the voting period of the referendum, and once again at the start of the voting period, unless the voting period is aligned with another election cycle, in which case the notification timeline for that election cycle applies.
+1. Such a referendum which receives votes from at least 5% of Members in the constituency in question, of which a simple majority are in favor, shall lead to the Board Representative being recalled. Otherwise, the referendum fails.
 
 # Project Directors
 

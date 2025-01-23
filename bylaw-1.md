@@ -217,18 +217,6 @@ subtitle: The Constitution
 ## Recall
 1. An Officer shall be automatically recalled upon cessation of their membership of the Society.
 1. An Officer may only be recalled by a two-thirds vote at a General Meeting called for that purpose.
-1. An Officer shall adhere to a standard of conduct that includes the following:
-   1. An Officer shall not be absent from more than 2 regular meetings of the Board of Directors without regrets.
-      1. An Officer shall submit regrets in the same manner as other Board Members, as specified in section 4.7.7.
-   1. An Officer shall not be absent from more than three (3) regular meetings of the Board of Directors (except for meetings held for the sole purpose of ratification of election results) over the course of their term.
-   1. An Officer shall not commit offences as defined in Section B1 of the University of Toronto Code of Student Conduct.
-1. If an Officer breaches the standard of conduct outlined in Section 3.7.3, the Speaker shall submit a motion at the next regular meeting of the Board of Directors following the breach of conduct to call a General Meeting for the purpose of recalling the Officer. The Officer in question will have the opportunity to defend their breach of conduct at the meeting of the Board of Directors in which the motion is submitted by the Speaker.
-1. An Officer’s failure to meet the standard of conduct outlined in section 3.7.3 may be neglected if the Officer’s circumstances are proven to be extraneous or due to other factors, at the discretion of the Speaker.
-   1. The Speaker shall inform the Board of Directors any time the failure to meet the standard of conduct is neglected.
-   1. A Member of the Board of Directors may request additional information from the Speaker regarding the Speaker’s decision to neglect a failure to meet the standard of conduct.
-   1. If any personal information must be disclosed by the Speaker in order to meet the request of a Member of the Board of Directors described in Section 3.7.5b, the Speaker must gain permission from the person whose information will potentially be disclosed.
-   1. If such permission is granted, a motion must be submitted to move the meeting to an in camera session before the Speaker can meet the Member’s request. If permission is not granted, the Member’s request as described in Section 3.7.5b will not be fulfilled.
-1. In all other situations not specified in section 3.7.3, upon a resolution to recall an Officer, the Chief Returning Officer shall hold a General Meeting for the purpose of recalling the Officer.
 
 # Board of Directors
 
@@ -324,17 +312,21 @@ subtitle: The Constitution
 
 ## Recall
 1. A Member of the Board of Directors shall be automatically recalled upon cessation of their membership of the constituency or constituencies that elected them.
-1. A Member of the Board of Directors shall adhere to a standard of conduct that includes the following:
+1. A Member of the Board of Directors, except Officers, may only be recalled by a simple majority of one of the following, in which only the Member's constituency or constituencies are eligible to vote:
+   1. A successful referendum for that purpose, if called for reason of breaching the standard of conduct in section 4.11.3; or
+   1. A simple majority vote at a General Meeting called for that purpose.
+1. A Member of the Board of Directors, including Officers, shall adhere to a standard of conduct that includes the following:
    1. A Member of the Board of Directors shall not be absent from more than two (2) regular meetings of the Board of Directors without regrets over the course of their term.
    1. A Member of the Board of Directors shall not be absent from more than three (3) regular meetings of the Board of Directors over the course of their term.
-1. If a Member of the Board of Directors breaches the standard of conduct outlined in section 4.11.2, the Speaker shall submit a motion at the next monthly meeting of the Board of Directors following the breach of conduct to call a General Meeting for the purpose of recalling the Member in question. The Member in question will have the opportunity to defend their breach of conduct at the meeting of the Board of Directors in which the motion is submitted by the Speaker.
+1. If a Member of the Board of Directors breaches the standard of conduct outlined in section 4.11.3, the Speaker shall submit a motion at the next monthly meeting of the Board of Directors following the breach of conduct to begin the process of recalling the Member in question. The Member in question will have the opportunity to defend their breach of conduct at the meeting of the Board of Directors in which the motion is submitted by the Speaker.
+   1. For an Officer, the motion shall be to call a General Meeting for the purpose of recalling the Officer.
+   1. For any other Member of the Board of Directors, the motion shall be to call a referendum for the purpose of recalling the Member.
 1. A Member of the Board of Directors’ failure to meet the standard of conduct outlined in section 4.11.2 may be neglected if the Member of the Board of Directors’ circumstances are proven to be extraneous or due to other factors, at the discretion of the Speaker.
    1. The Speaker shall inform the Board of Directors any time a failure to meet the standard of conduct is neglected.
    1. A Member of the Board of Directors may request additional information from the Speaker about the Speaker’s decision to neglect a failure to meet the standard of conduct.
    1. If any personal information must be disclosed in order for the Speaker to meet the request of a Member of the Board of Directors described in section 4.11.4b, the Speaker must gain permission from the person whose information will potentially be disclosed.
    1. If such permission is granted, a motion must be submitted to move the meeting to an in camera session before the Speaker may meet the Member’s request.  If permission is not granted, the Member’s request as described in section 4.11.4b will not be fulfilled.
-1. In all other situations not specified in section 4.11.2, upon a resolution to recall a Member of the Board of Directors, the Chief Returning Officer shall hold a General Meeting for the purpose of recalling the Member in question in which only the Member's constituency or constituencies are eligible to vote.
-1. A Member of the Board of Directors may only be recalled by a simple majority vote at a General Meeting called for the purpose of recalling the Member in question, in which only the Member's constituency or constituencies are eligible to vote.
+1. In all other situations not specified in section 4.11.3, upon a resolution to recall a Member of the Board of Directors, the Chief Returning Officer shall hold a General Meeting as specified in section 4.11.2.
 
 ## Committees
 1. The following shall be considered Standing Committees of the Board:

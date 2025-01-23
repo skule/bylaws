@@ -57,9 +57,4 @@ subtitle: The Discipline Clubs and Class Representatives Bylaw
 1. At the discretion of their Discipline Club Chair and the Vice-President Academic or the President, a Class Representative shall be moved to be recalled at a subsequent meeting of the Board under the following circumstances:
    1. Cessation of their membership of the constituency or constituencies which elected them.
    1. Neglect of their duties as described in Section 3.0.3.
-1. A Class Representative may be recalled by referendum of the constituency that elected them, which shall be called by a minimum of ten (10) members of that constituency.
-   1. The names and signatures of those constituents who would like to call the referendum must be submitted in writing to the Chief Returning Officer.
-   1. In the case that the constituency is smaller than twenty (20) members, the referendum may be called by no less than 50% of the constituency.
-   1. If a referendum is called, the Class Representative in question must be notified by email by the Chief Returning Officer at least seven (7) days prior to the start of the referendum.
-   1. If a referendum is called, the entire constituency that is eligible to vote must be notified by email at the start of the voting period, which shall be at least three (3) days.
-   1. Any person explicitly advocating for or against recalling the Class Representative in question shall be held to the same standards as referendum delegates as per [Bylaw 3](bylaw-3.md), and penalties may be imposed at the discretion of the Chief Returning Officer.
+1. A Class Representative may be recalled by referendum of the constituency that elected them, as described in [Bylaw 3 section 6.2](bylaw-3.md).
