@@ -1,5 +1,5 @@
 ---
-revdate: November 30, 2024
+revdate: January 31, 2025
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -282,7 +282,6 @@ subtitle: The Elections Bylaw
 # Referenda
 
 ## General
-1. Other than allowed voter statements as described in section 6.1 onwards, there shall be no campaigning for or against referenda. The CRO has the authority to annul a referendum if excessive campaigning occurs.
 1. When voting on a referendum, a voter may only choose to vote "Yes", vote "No", or spoil their ballot. Spoiling a ballot means that it counts towards the quorum required for the referendum result to be valid, but does not count for or against the simple majority required for the result to take effect.
    1. For example, if out of 100 eligible voters, two people vote "Yes", one person votes "No", and two people spoil their ballots, then a 5% quorum is met (5 votes were cast) and the result is in favor (2/3 unspoiled ballots were in favor).
 1. Referendum rules not specified in this chapter shall be decided by the CRO with the Speaker's approval.
