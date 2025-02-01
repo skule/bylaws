@@ -111,7 +111,7 @@ jobs:
             sed -i -re "s#(href|src)=\"/([^\"]*)\"#\1=\"$BASE$SUBDIR\2\"#" "$f"
           done
           if [ -z "$SUBDIR" ]; then
-            git restore branch/**/*
+            git restore branch/**/* || echo No branch directories
           fi
           git add **/*.{html,css,js} **/images
           if [ -z "$(git status --porcelain=2)" ]; then
