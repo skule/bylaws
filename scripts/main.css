@@ -225,6 +225,7 @@ section.contents span:nth-child(3n+3) {
 	:target {
 		animation: targeted 5s cubic-bezier(0.5, 0, 0.75, 0);
 	}
+	/* Small "#" for permalinking sections */
 	h1 > a[href^="#"]:last-of-type {
 		margin-left: .5rem;
 		visibility: hidden;
@@ -271,6 +272,7 @@ section.contents span:nth-child(3n+3) {
 	ol li:hover > .permalink a:hover {
 		text-decoration: underline;
 	}
+	/* Invisible section number for Ctrl/Cmd+F-ing */
 	.find-handle {
 		position: absolute;
 		opacity: 0;
