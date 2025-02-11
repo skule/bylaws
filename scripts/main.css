@@ -276,6 +276,7 @@ section.contents span:nth-child(3n+3) {
 	.find-handle {
 		position: absolute;
 		opacity: 0;
+		z-index: -999;
 	}
 }
 
