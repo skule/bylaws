@@ -220,6 +220,46 @@ section.contents span:nth-child(3n+3) {
 	:target {
 		animation: targeted 4s;
 	}
+	h1 > a[href^="#"]:last-of-type,
+	h2 > a[href^="#"]:last-of-type {
+		margin-left: .5rem;
+		visibility: hidden;
+		color: #00e;
+		text-decoration: none;
+	}
+	h1 > a[href^="#"]:last-of-type:visited,
+	h2 > a[href^="#"]:last-of-type:visited {
+		margin-left: .5rem;
+		visibility: hidden;
+		color: #00e;
+	}
+	h1:hover > a[href^="#"]:last-of-type,
+	h2:hover > a[href^="#"]:last-of-type {
+		visibility: visible;
+	}
+	h1:hover > a[href^="#"]:last-of-type:hover,
+	h2:hover > a[href^="#"]:last-of-type:hover {
+		text-decoration: underline;
+	}
+	.permalink {
+		position: absolute;
+	}
+	ol li > .permalink a {
+		position: relative;
+		left: -0.75rem;
+		visibility: hidden;
+		color: #00e;
+		text-decoration: none;
+	}
+	ol li > .permalink a:visited {
+		color: #00e;
+	}
+	ol li:hover > .permalink a {
+		visibility: visible;
+	}
+	ol li:hover > .permalink a:hover {
+		text-decoration: underline;
+	}
 }
 
 @media screen and (max-width: 8.5in) {
