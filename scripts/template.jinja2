@@ -62,7 +62,10 @@
 		<h1 id="{{ c }}">{{ chapter.title }} <a title="Permalink to this chapter" href="#{{ c }}">#</a></h1>
 		{% for section in chapter.body %}
 			{% set s = loop.index0 %}
-			<h2 id="{{ c }}-{{ s }}">{{ section.title }} <a title="Permalink to this section" href="#{{ c }}-{{ s }}">#</a></h2>
+			<h2 id="{{ c }}-{{ s }}">
+				<span class="permalink"><a title="Permalink to this section" href="#{{ c }}-{{ s }}">#</a></span>
+				{{ section.title }}
+			</h2>
 			<ol>
 			{% for subsection in section.body %}
 				{% set ss = loop.index0 %}
