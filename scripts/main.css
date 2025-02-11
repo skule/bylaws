@@ -96,7 +96,10 @@ ol ol ol li {
 		color: black;
 		text-decoration: none;
 	}
-	.screen-only, .find-handle {
+	.screen-only,
+	h1 > a[href^="#"]:last-of-type,
+	.permalink,
+	.find-handle {
 		display: none;
 	}
 }
