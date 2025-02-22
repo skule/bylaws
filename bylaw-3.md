@@ -302,12 +302,12 @@ subtitle: The Elections Bylaw
 1. The campaign and voting periods for such a referendum shall run concurrently with the Spring Elections cycle following when it is called.
 1. The party calling such a referendum may provide, when calling the referendum, a document in support of the referendum, to which a link will appear alongside the referendum question when it is presented to voters.
 1. If the fee in question is to financially support a specific student group, the following campaign rules apply to the student group:
-   1. Section 8.0, Section 8.6, and Section 8.7 apply in full.
+   1. Section 8.0, Section 8.2, Section 8.3, Section 8.6, and Section 8.7 apply in full, with the following exceptions:
+      1. Social media accounts need not be new (contrary to Section 8.2.2.a).
+      1. Social media accounts may continue to be active after the campaign period (contrary to Section 8.2.5), but may not post further campaign material.
+      1. The student group may use its own logos and endorse itself (contrary to Section 8.3), but its members may not publicly endorse it.
+      1. Campaign messages may be posted in the student group's own internal channels (contrary to Section 8.6.5) but still may not be posted in other groups not created for the purpose of campaigning.
    1. Physical campaign materials and in-class speeches, as outlined in Section 8.1 and Section 8.4 respectively, are not allowed.
-   1. Campaigning on social media as outlined in Section 8.2 is allowed, with the following exceptions:
-      1. The social media account need not be new (contrary to Section 8.2.2.a).
-      1. The social media account may continue to be active after the campaign period (contrary to Section 8.2.5), but may not post further campaign material.
-   1. Section 8.3 applies in full, except the student group may use its own logos and endorse itself (but its members may not publicly endorse it).
    1. Section 8.5 does not apply. Any member of the student group may assist with its campaign.
 1. Such a referendum which receives votes from at least 5% of Members, of which a simple majority are in favor, shall lead to the fee being modified as proposed. Otherwise, the referendum fails.
 
