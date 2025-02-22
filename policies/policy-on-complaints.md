@@ -8,15 +8,15 @@ subtitle: Policy on Complaints
 # General
 
 ## Purpose
-1. To provide Engineering Society members with a formal procedure intended to ensure that complaints are handled fairly and consistently.
+1. To provide Engineering Society Members with a formal procedure intended to ensure that complaints are handled fairly and consistently.
 
 ## Overview
-1. It is a requirement under the University of Toronto Policy for Compulsory Non-Academic Incidental Fees that organizations receiving such fees have and adhere to an internal process for addressing complaints. Further, the existence and continual refinement of such a process is an organizational best practice that is in the interest of facilitating member participation in the Society
+1. It is a requirement under the University of Toronto Policy for Compulsory Non-Academic Incidental Fees that organizations receiving such fees have and adhere to an internal process for addressing complaints. Further, the existence and continual refinement of such a process is an organizational best practice that is in the interest of facilitating Member participation in the Society.
 
 ## Application
 1. This policy applies to any member that holds a position within the Engineering Society, including but not limited to, an Officer, Project Director, employee, member of the Board of Directors, or member of a Project Director’s team.
    1. This policy applies to any of the persons listed in section 0.2.1 for the entirety of their term, from when they take office of their position to when they are relieved of their position. This includes actions taken outside of their official capacity within their role.
-1. Complaints to which this policy applies include the misconduct of any member that holds a position within the Engineering Society as defined in section 0.2.1. This policy defines an act of misconduct as any of the following, as interpreted by the investigator of the case:
+1. Complaints to which this policy applies include the misconduct of any Member that holds a position within the Engineering Society as defined in section 0.2.1. This policy defines an act of misconduct as any of the following, as interpreted by the investigator of the case:
    1. any offense outlined in section B1 of the University of Toronto Code of Student Conduct
    1. any form of sexual violence or sexual harassment in the University of Toronto Policy on Sexual Violence and Sexual Harassment
    1. any form of harassment outlined in the University of Toronto Statement on Prohibited Discrimination and Discriminatory Harassment
