@@ -1,5 +1,5 @@
 ---
-revdate: October 19, 2024 by the Board of Directors
+revdate: February 27, 2025 by the Board of Directors
 title: Policy Number "2013-02-01"
 pdf: policies/Policy-on-Complaints
 subtitle: Policy on Complaints
@@ -8,15 +8,15 @@ subtitle: Policy on Complaints
 # General
 
 ## Purpose
-1. To provide Engineering Society members with a formal procedure intended to ensure that complaints are handled fairly and consistently.
+1. To provide Engineering Society Members with a formal procedure intended to ensure that complaints are handled fairly and consistently.
 
 ## Overview
-1. It is a requirement under the University of Toronto Policy for Compulsory Non-Academic Incidental Fees that organizations receiving such fees have and adhere to an internal process for addressing complaints. Further, the existence and continual refinement of such a process is an organizational best practice that is in the interest of facilitating member participation in the Society
+1. It is a requirement under the University of Toronto Policy for Compulsory Non-Academic Incidental Fees that organizations receiving such fees have and adhere to an internal process for addressing complaints. Further, the existence and continual refinement of such a process is an organizational best practice that is in the interest of facilitating Member participation in the Society.
 
 ## Application
-1. This policy applies to any member that holds a position within the Engineering Society, including but not limited to, an Officer, Project Director, employee, member of the Board of Directors, or member of a Project Director’s team.
+1. This policy applies to any Member that holds a position within the Engineering Society, including without limitation, an Officer, Project Director, employee, member of the Board of Directors, member of a Project Director’s team, or member of an Affiliated Club acting in an official capacity for the club.
    1. This policy applies to any of the persons listed in section 0.2.1 for the entirety of their term, from when they take office of their position to when they are relieved of their position. This includes actions taken outside of their official capacity within their role.
-1. Complaints to which this policy applies include the misconduct of any member that holds a position within the Engineering Society as defined in section 0.2.1. This policy defines an act of misconduct as any of the following, as interpreted by the investigator of the case:
+1. Complaints to which this policy applies include the misconduct of any Member that holds a position within the Engineering Society as defined in section 0.2.1. This policy defines an act of misconduct as any of the following, as interpreted by the investigator of the case:
    1. any offense outlined in section B1 of the University of Toronto Code of Student Conduct
    1. any form of sexual violence or sexual harassment in the University of Toronto Policy on Sexual Violence and Sexual Harassment
    1. any form of harassment outlined in the University of Toronto Statement on Prohibited Discrimination and Discriminatory Harassment
@@ -87,11 +87,13 @@ subtitle: Policy on Complaints
       1. information not germane to the complaint
    1. The possible recommendations mentioned in section 4.0.3.a.v are to:
       1. Recall subject of complaint from their position.
+      1. Revoke affiliation of club for which subject of complaint was acting.
       1. Mandate additional training.
       1. Require subject of complaint to issue official apology.
       1. Escalate matter to campus police.
       1. Escalate matter to governmental law enforcement.
       1. Escalate matter to the Office of the Faculty Dean.
+      1. Escalate matter to the Division of Student Life.
       1. Escalate matter to the Office of the University Provost.
       1. Amend EngSoc Bylaws and/or Policies.
       1. Take some other specific action, with additional justification for such an extraordinary recommendation.
