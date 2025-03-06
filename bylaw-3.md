@@ -1,5 +1,5 @@
 ---
-revdate: January 31, 2025
+revdate: February 27, 2025
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -18,7 +18,6 @@ subtitle: The Elections Bylaw
    1. "Campaign Period" shall refer to the period when campaigning is allowed;
    1. "Voting Period" shall refer to the period when voting is made available;
    1. "Slate" shall mean one or more candidates endorsing another either verbally or through shared campaign resources; and
-   1. "Designate" shall refer to a member who is registered with the either the "yes" or "no" campaign for referenda.
    1. “Nominator” shall refer to a Member who wishes to nominate an individual other than themself to a position.
 
 ## General
@@ -284,6 +283,10 @@ subtitle: The Elections Bylaw
 ## General
 1. When voting on a referendum, a voter may only choose to vote "Yes", vote "No", or spoil their ballot. Spoiling a ballot means that it counts towards the quorum required for the referendum result to be valid, but does not count for or against the simple majority required for the result to take effect.
    1. For example, if out of 100 eligible voters, two people vote "Yes", one person votes "No", and two people spoil their ballots, then a 5% quorum is met (5 votes were cast) and the result is in favor (2/3 unspoiled ballots were in favor).
+1. For the purposes of other chapters, the following parties are all considered "candidates" for referenda and can receive warnings and be disqualified in accordance with Chapter 9. "Disqualification" in the case of a referendum means invalidating all votes for the respective option:
+   1. A student group financially supported by a levy referendum (as noted in Section 6.1.5), for the "Yes" option.
+   1. The party calling a recall referendum, for the "Yes" option.
+   1. The person facing recall in a recall referendum, for the "No" option.
 1. Referendum rules not specified in this chapter shall be decided by the CRO with the Speaker's approval.
 
 ## Levy Referenda
@@ -296,8 +299,16 @@ subtitle: The Elections Bylaw
    1. The amount of the fee in each semester per full-time and part-time student, and the resulting amount in each year (e.g. "$1.50 per semester per student for both Fall and Winter semesters, for a total of $3.00 annually")
    1. The sessions during which the fee will be levied (e.g. "the 2024-2025 and 2025-2026 terms")
    1. Example question text: "Do you support a $1.50 per semester per student levy for [student group] for the 2024-2025 and 2025-2026 terms? ($1.50 per semester per student for both Fall and Winter semesters, for a total of $3.00 annually.)"
-1. The voting period for such a referendum shall run concurrently with the Spring Elections cycle following when it is called.
+1. The campaign and voting periods for such a referendum shall run concurrently with the Spring Elections cycle following when it is called.
 1. The party calling such a referendum may provide, when calling the referendum, a document in support of the referendum, to which a link will appear alongside the referendum question when it is presented to voters.
+1. If the fee in question is to financially support a specific student group, the following campaign rules apply to the student group:
+   1. Section 8.0, Section 8.2, Section 8.3, Section 8.6, and Section 8.7 apply in full, with the following exceptions:
+      1. Social media accounts need not be new (contrary to Section 8.2.2.a).
+      1. Social media accounts may continue to be active after the campaign period (contrary to Section 8.2.5), but may not post further campaign material.
+      1. The student group may use its own logos and endorse itself (contrary to Section 8.3), but its members may not publicly endorse it.
+      1. Campaign messages may be posted in the student group's own internal channels (contrary to Section 8.6.5) but still may not be posted in other groups not created for the purpose of campaigning.
+   1. Physical campaign materials and in-class speeches, as outlined in Section 8.1 and Section 8.4 respectively, are not allowed.
+   1. Section 8.5 does not apply. Any member of the student group may assist with its campaign.
 1. Such a referendum which receives votes from at least 5% of Members, of which a simple majority are in favor, shall lead to the fee being modified as proposed. Otherwise, the referendum fails.
 
 ## Referenda to Recall a Class Representative
@@ -306,6 +317,7 @@ subtitle: The Elections Bylaw
    1. The signatures of at least ten (10) Members in the Class Representative's constituency, or at least 50% of the constituency if it is smaller than twenty (20) Members.
 1. The question text of such a referendum shall be: "Do you support recalling [name] from their position as [discipline and year] Class Representative?" where "[name]" is the name of the Class Representative in question and "[discipline and year]" is the constituency they represent.
 1. The voting period for such a referendum shall begin between seven (7) and fourteen (14) days after it is called, at the CRO's discretion, and shall last at least three (3) days. If possible within these constraints, the voting period shall be aligned with the voting period of any other ongoing election cycle.
+1. There shall be no campaigning for such a referendum. Campaigning in any form by either the party calling the referendum or the Class Representative in question, beyond the voter statements outlined below, will result in a warning to the campaigning party, in accordance with Section 9.1.
 1. Both the party calling such a referendum and the Class Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.8.
    1. For the party calling the referendum, this statement is limited in content to specifying how the Class Representative has neglected their duties as specified in [Bylaw 7 Section 3.0.3](bylaw-7.md). This statement must be provided at the same time as the referendum is called.
    1. For the Class Representative in question, this statement is limited in content to rebutting the calling party's statement and/or otherwise defending their conduct. This statement must be provided to the CRO at least twenty-four (24) hours before the start of the voting period.
@@ -318,6 +330,7 @@ subtitle: The Elections Bylaw
 1. A referendum to recall a Member of the Board of Directors, except Officers, for reason of breaching the standard of conduct in [Bylaw 1 section 4.11.3](bylaw-1.md) must be called by a simple majority vote at a Board of Directors Meeting.
 1. The question text of such a referendum shall be: "Do you support recalling [name] from their position as [constituency] Board Representative?" where "[name]" is the name of the Board Representative in question and "[constituency]" is the constituency they represent (e.g. "At-Large", "First Year").
 1. The voting period for such a referendum shall begin at most eleven (11) business days after it is called, at the CRO's discretion, and shall last at least three (3) days. If possible within these constraints, the voting period shall be aligned with the voting period of any other ongoing election cycle.
+1. There shall be no campaigning for such a referendum. Campaigning in any form by either the party calling the referendum or the Board Representative in question, beyond the voter statements outlined below, will result in a warning to the campaigning party, in accordance with Section 9.1.
 1. Both the party calling such a referendum and the Board Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.8.
    1. For the party calling the referendum, this statement is limited in content to specifying how the Board Representative has breached the standard of conduct in [Bylaw 1 section 4.11.3](bylaw-1.md). This statement must be provided at the same time as the referendum is called.
    1. For the Board Representative in question, this statement is limited in content to rebutting the calling party's statement and/or otherwise defending their conduct. This statement must be provided to the CRO at least twenty-four (24) hours before the start of the voting period.
@@ -388,9 +401,8 @@ subtitle: The Elections Bylaw
 # Campaigning
 
 ## General
-1. Campaigning activities are allowed solely during the Campaign Period and may only be done by a candidate or Designate.
+1. Campaigning activities are allowed solely during the Campaign Period and may only be done by a candidate.
 1. All campaign materials must prominently display the following text: "vote.skule.ca".
-1. In this chapter the term "candidate" shall be interpreted to include the term "Designate" for referenda questions.
 1. Candidates are limited to zero dollars ($0) in campaign expenses.
    1. Tools and resources used to create the content outlined in section 8.1, section 8.2, and section 8.6 are not counted towards a candidate's campaign spending.
    1. A printing budget may be determined at the discretion of the CRO in the case that a candidate  does not have a printing quota or has exhausted their printing quota with the Engineering Computing Facility (ECF).
@@ -411,7 +423,7 @@ subtitle: The Elections Bylaw
    1. A candidate shall not be punished for conduct prohibited under these rulings unless said conduct occurs after the ruling has been made publicly known.
 
 ## Materials
-1. For Officer candidates or referenda Designates, posters are limited to twenty-five (25) letter-size pages or the equivalent area using letter and tabloid-size only.
+1. For Officer candidates, posters are limited to twenty-five (25) letter-size pages or the equivalent area using letter and tabloid-size only.
 1. For Board of Director candidates, posters are limited to ten (10) letter-size pages or the equivalent area using letter and tabloid-size only.
 1. A candidate’s campaign for any position not encompassed in 8.1.1 and 8.1.2 is not allowed any posters.
 1. Posters shall be approved by the CRO and stamped by the Society.
@@ -524,22 +536,15 @@ subtitle: The Elections Bylaw
 ## Warnings
 1. Breach of any of the election rules will result in an official warning, via email from the CRO, along with instructions to amend the breach within twenty-four (24) hours.
 1. If a breach is not amended within twenty-four (24) hours, it will be considered the same as committing the same action again.
-1. All warnings given to a candidate or Designate shall be included both on elections.skule.ca and below their statement on vote.skule.ca.
-1. If a warning is given to a candidate or Designate regarding a certain action and the same action is performed again, they will be disqualified.
+1. All warnings given to a candidate shall be included both on elections.skule.ca and below their statement on vote.skule.ca.
+1. If a warning is given to a candidate regarding a certain action and the same action is performed again, they will be disqualified.
 
 ## Disqualifications
-1. The CRO has the sole authority to disqualify a candidate or Designate if they receive warnings for three (3) separate breaches, or for other reasons presented in this Chapter.
-1. The CRO has the authority to disqualify a candidate or Designate if it is deemed that an infraction of the rules has caused irreparable harm to the integrity of the election.
-1. The CRO has the authority to disqualify a candidate or Designate for knowingly, blatantly or maliciously acting against the principles of the elections or breaching any election rule.
-   1. Upon severe violations (at the discretion of the CRO) performed by a Designate, the CRO may remove the referendum from the ballot.
-1. A disqualified candidate or referendum will not be removed from the ballot, unless they wish to withdraw. However, a note shall be added stating they have been disqualified but the decision is subject to appeal.
-1. A disqualified candidate or Designate may petition to have their disqualification reviewed. Information regarding this process will be included in the disqualification notice.
-
-## Fines for Referenda
-1. The CRO has the sole authority to levy a fine against a referendum campaign in accordance with the presented regulations.
-1. If a warning is given to a campaign regarding a certain action and the same action is performed again, the campaign will be fined ten dollars ($10).
-1. If a campaign receives warnings for three (3) separate breaches, the campaign will be fined fifteen dollars ($15). A further fine of five dollars ($5) will be levied for each subsequent warning.
-1. Campaigns may petition to have their warnings, and subsequent fines, reviewed. Information regarding this process will be included in the disqualification notice.
+1. The CRO has the sole authority to disqualify a candidate if they receive warnings for three (3) separate breaches, or for other reasons presented in this Chapter.
+1. The CRO has the authority to disqualify a candidate if it is deemed that an infraction of the rules has caused irreparable harm to the integrity of the election.
+1. The CRO has the authority to disqualify a candidate for knowingly, blatantly or maliciously acting against the principles of the elections or breaching any election rule.
+1. A disqualified candidate will not be removed from the ballot, unless they wish to withdraw. However, a note shall be added stating they have been disqualified but the decision is subject to appeal.
+1. A disqualified candidate may petition to have their disqualification reviewed. Information regarding this process will be included in the disqualification notice.
 
 # Appeals and Complaints
 
