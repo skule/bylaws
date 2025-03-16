@@ -39,8 +39,13 @@ jobs:
           git checkout "$BASE" -- **/*.py scripts/requirements.txt
           pip install -r scripts/requirements.txt
           {
-            echo 'md<<EOF'
-            git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- **/*.md | python scripts/diff_to_table.py
+            echo 'ghmd<<EOF'
+            git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- **/*.md | python scripts/diff_to_table.py del ins
+            echo EOF
+          } >> "$GITHUB_OUTPUT"
+          {
+            echo 'gdmd<<EOF'
+            git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- **/*.md | python scripts/diff_to_table.py s u
             echo EOF
           } >> "$GITHUB_OUTPUT"
 
@@ -53,15 +58,15 @@ jobs:
             <details>
             <summary>Full table of differences</summary>
 
-            ${{ steps.diff.outputs.md }}
+            ${{ steps.diff.outputs.ghmd }}
 
             </details>
 
             <details>
-            <summary>Markdown source of the table for copying</summary>
+            <summary>Markdown source of the table for copying into Google Docs</summary>
 
             ```md
-            ${{ steps.diff.outputs.md }}
+            ${{ steps.diff.outputs.gdmd }}
             ```
 
             </details>
