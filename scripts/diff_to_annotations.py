@@ -1,3 +1,4 @@
+from __future__ import annotations
 from dataclasses import dataclass, field
 from glob import glob
 import io
@@ -5,7 +6,9 @@ from itertools import permutations, zip_longest
 from pathlib import Path
 import re
 import sys
-from typing import LiteralString, TextIO
+from typing import LiteralString, TextIO, Iterable, Self
+
+from mds_to_html import Section, get_data
 
 @dataclass
 class Hunk:
@@ -21,6 +24,24 @@ class File:
     name: str
     hunks: list[Hunk] = field(default_factory=list)
     add_linenos: set[int] = field(default_factory=set)
+
+@dataclass(frozen=True)
+class FrozenSection:
+    title: str
+    body: tuple[FrozenSection, ...]
+
+    @classmethod
+    def from_section(cls, section: Section) -> Self:
+        title = section['title']
+        body = tuple(FrozenSection.from_section(s) for s in section['body'])
+        return cls(title, body)
+
+def lines_to_chapters(lines: Iterable[str]) -> tuple[dict[str, str], tuple[FrozenSection, ...]]:
+    sio = io.StringIO()
+    sio.writelines(line + '\n' for line in lines)
+    sio.seek(0)
+    meta, chapters = get_data(sio)
+    return meta, tuple(FrozenSection.from_section(chapter) for chapter in chapters)
 
 def update_mod(file: File):
     for hunk in file.hunks:

@@ -1,14 +1,13 @@
 from __future__ import annotations
-from dataclasses import dataclass
 from difflib import SequenceMatcher
-from io import StringIO, TextIOWrapper
+from io import TextIOWrapper
 from itertools import zip_longest
 import sys
-from typing import Iterable, Literal, Self
+from typing import Iterable, Literal
 
-from diff_to_annotations import gather_diff
+from diff_to_annotations import gather_diff, FrozenSection, lines_to_chapters
 from lineno_to_section import section_to_str
-from mds_to_html import Section, get_data, clean_html
+from mds_to_html import clean_html
 
 START = """
 <table border="1" frame="border">
@@ -19,24 +18,6 @@ SAME_ROW = '''<tr>
 <td>{0}</td>
 <td>{1}</td>
 </tr>'''
-
-@dataclass(frozen=True)
-class FrozenSection:
-    title: str
-    body: tuple[FrozenSection, ...]
-
-    @classmethod
-    def from_section(cls, section: Section) -> Self:
-        title = section['title']
-        body = tuple(FrozenSection.from_section(s) for s in section['body'])
-        return cls(title, body)
-
-def lines_to_chapters(lines: Iterable[str]) -> tuple[dict[str, str], tuple[FrozenSection, ...]]:
-    sio = StringIO()
-    sio.writelines(line + '\n' for line in lines)
-    sio.seek(0)
-    meta, chapters = get_data(sio)
-    return meta, tuple(FrozenSection.from_section(chapter) for chapter in chapters)
 
 def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, ...],
                   prefix1: tuple[int, ...] = (), prefix2: tuple[int, ...] = (),
