@@ -33,5 +33,8 @@ jobs:
           python scripts/md_to_crossrefs.py > crossrefs-src.txt
           git checkout "$BASE"
           python scripts/md_to_crossrefs.py > crossrefs-base.txt
-          git diff --no-index crossrefs-base.txt crossrefs-src.txt > crossref.diff || echo '::debug::At least one reference changed'
+          if git diff --no-index crossrefs-base.txt crossrefs-src.txt > crossref.diff; then
+            echo "No cross-references changed; exiting cleanly"
+            exit 0
+          fi
           python scripts/diff_to_annotations.py crossref.diff md.diff
