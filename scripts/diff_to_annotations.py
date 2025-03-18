@@ -25,16 +25,25 @@ class File:
     hunks: list[Hunk] = field(default_factory=list)
     add_linenos: set[int] = field(default_factory=set)
 
+Prefix = tuple[int, ...]
+
 @dataclass(frozen=True)
 class FrozenSection:
     title: str
-    body: tuple[FrozenSection, ...]
+    body: tuple[Self, ...]
 
     @classmethod
     def from_section(cls, section: Section) -> Self:
         title = section['title']
         body = tuple(FrozenSection.from_section(s) for s in section['body'])
         return cls(title, body)
+
+    def __getitem__(self, index: int | Prefix) -> Self:
+        if isinstance(index, int):
+            return self.body[index]
+        for i in index:
+            self = self.body[i]
+        return self
 
 def lines_to_chapters(lines: Iterable[str]) -> tuple[dict[str, str], tuple[FrozenSection, ...]]:
     sio = io.StringIO()
