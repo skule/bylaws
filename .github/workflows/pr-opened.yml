@@ -5,6 +5,8 @@ on:
       - '**/*.md'
       - '.github/workflows/generate-html-pdfs.yml'
       - 'scripts/**/*'
+      - '!**/README.md'
+      - '!**/LICENSE*'
     branches-ignore:
       - gh-pages
     types:

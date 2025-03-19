@@ -1,11 +1,14 @@
+from __future__ import annotations
 from dataclasses import dataclass, field
 from glob import glob
 import io
-from itertools import permutations, zip_longest
 from pathlib import Path
 import re
 import sys
-from typing import LiteralString, TextIO
+from typing import Literal, TextIO, Iterable, Self, assert_never
+
+from mds_to_html import Section, get_data
+from lineno_to_section import section_to_lineno, Section as _Section, section_to_str
 
 @dataclass
 class Hunk:
@@ -21,6 +24,33 @@ class File:
     name: str
     hunks: list[Hunk] = field(default_factory=list)
     add_linenos: set[int] = field(default_factory=set)
+
+Prefix = tuple[int, ...]
+
+@dataclass(frozen=True)
+class FrozenSection:
+    title: str
+    body: tuple[Self, ...]
+
+    @classmethod
+    def from_section(cls, section: Section) -> Self:
+        title = section['title']
+        body = tuple(FrozenSection.from_section(s) for s in section['body'])
+        return cls(title, body)
+
+    def __getitem__(self, index: int | Prefix) -> Self:
+        if isinstance(index, int):
+            return self.body[index]
+        for i in index:
+            self = self.body[i]
+        return self
+
+def lines_to_chapters(lines: Iterable[str]) -> tuple[dict[str, str], tuple[FrozenSection, ...]]:
+    sio = io.StringIO()
+    sio.writelines(line + '\n' for line in lines)
+    sio.seek(0)
+    meta, chapters = get_data(sio)
+    return meta, tuple(FrozenSection.from_section(chapter) for chapter in chapters)
 
 def update_mod(file: File):
     for hunk in file.hunks:
@@ -49,146 +79,142 @@ def gather_diff(f: TextIO) -> list[File]:
         update_mod(file)
     return files
 
-def gather_crossrefs_diff(file: File) -> list[tuple[str, int, str, str, LiteralString]]:
-    added: dict[tuple[str, int, str], tuple[str, str]] = {}
-    deled: dict[tuple[str, int, str], tuple[str, str]] = {}
-    for hunk in file.hunks:
-        for line in hunk.add_lines:
-            if not (m := re.match(r'\+([^:]+):(\d+): ([^:]+): ([^:]+:\d+): ?(.*)', line)):
-                continue
-            added[m.group(1), int(m.group(2)), m.group(3)] = (m.group(4), m.group(5))
-        for line in hunk.del_lines:
-            if not (m := re.match(r'-([^:]+):(\d+): ([^:]+): ([^:]+:\d+): ?(.*)', line)):
-                continue
-            deled[m.group(1), int(m.group(2)), m.group(3)] = (m.group(4), m.group(5))
-    lines_moded: dict[tuple[str, int], tuple[set[str], set[str]]] = {}
-    for filename, ln, section in added.keys():
-        lines_moded.setdefault((filename, ln), (set(), set()))[0].add(section)
-    for filename, ln, section in deled.keys():
-        lines_moded.setdefault((filename, ln), (set(), set()))[1].add(section)
-    lines_changed: dict[tuple[str, int], tuple[set[str], set[str], set[str]]] \
-        = {src: (a - b, b - a, a & b) for src, (a, b) in lines_moded.items()}
-    result: set[tuple[str, int, str, str, LiteralString]] = set()
-    for (filename, ln), (src_added, src_deled, src_moded) in lines_changed.items():
-        perm = max(permutations(
-            max(src_added, src_deled, key=len),
-            r=min(len(src_added), len(src_deled))
-        ), key=lambda p: sum(
-            added[filename, ln, a][1] == deled[filename, ln, b][1]
-            for a, b in (
-                zip(src_added, p)
-                if len(src_added) < len(src_deled)
-                else zip(p, src_deled)
-            )
-        ))
-        for a, b in (
-            zip_longest(src_added, perm, fillvalue=None)
-            if len(src_added) < len(src_deled)
-            else zip_longest(perm, src_deled, fillvalue=None)
-        ):
-            if a is None:
-                assert b is not None
-                dest, text = deled[filename, ln, b]
-                result.add((filename, ln, b, text[:len(dest) - 3] + '...', 'deleted'))
-            elif b is None:
-                dest, text = added[filename, ln, a]
-                result.add((filename, ln, a, dest, 'added' if text else 'broken'))
+def gather_crossrefs(
+    body: tuple[FrozenSection, ...], file: str, prefix: Prefix = ()
+) -> Iterable[tuple[str, Prefix, str, Prefix]]:
+    for i, section in enumerate(body):
+        _prefix = (*prefix, i)
+        for m in re.finditer(r'<a href="([^"#]*\.html)?#(\d+(?:-\d+)*)">', section.title):
+            if m.group(1):
+                href = str((Path(file).parent / Path(m.group(1).replace('.html', '.md'))).resolve().relative_to(Path.cwd()))
             else:
-                assert a != b
-                add_dest, add_text = added[filename, ln, a]
-                del_dest, del_text = deled[filename, ln, b]
-                item = (filename, ln, f'{b} -> {a}', add_dest)
-                if not add_text:
-                    result.add((*item, 'broken'))
-                elif add_dest == del_dest:
-                    if add_text == del_text:
-                        result.add((*item, 'section changed'))
-                    else:
-                        result.add((*item, 'text and section changed'))
-                else:
-                    if add_text == del_text:
-                        result.add((*item, 'dest and section changed'))
-                    else:
-                        result.add((*item, 'text and dest and section changed'))
-        for section in src_moded:
-            add_dest, add_text = added[filename, ln, section]
-            del_dest, del_text = deled[filename, ln, section]
-            item = (filename, ln, section, add_dest)
-            if not add_text:
-                result.add((*item, 'broken'))
-            elif add_dest == del_dest:
-                if add_text == del_text:
-                    result.add((*item, 'whitespaced'))
-                else:
-                    result.add((*item, 'text changed'))
-            else:
-                if add_text == del_text:
-                    result.add((*item, 'dest changed'))
-                else:
-                    result.add((*item, 'text and dest changed'))
-    return sorted(result)
+                href = file
+            sect = tuple(map(int, m.group(2).split('-')))
+            yield file, _prefix, href, sect
+        yield from gather_crossrefs(section.body, file, _prefix)
 
-def main(crossrefs_diff: str, files_diff: str):
-    with open(files_diff, encoding='utf8') as f:
-        files = {Path(filename).name: File(filename)
-                 for filename in glob('**/*.md', recursive=True)}
-        files.update({Path(file.name).name: file for file in gather_diff(f)})
-    with open(crossrefs_diff, encoding='utf8') as f:
-        crossrefs = gather_diff(f)[0]
-    for filename, lineno, section, dest, status in gather_crossrefs_diff(crossrefs):
-        if m := re.match(r'([^:]+):(\d+)', dest):
-            dest = f'{files[m.group(1)].name}:{m.group(2)}'
-        file = files[filename]
-        if status == 'broken':
-            print(f'::error file={file.name},line={lineno}::'
-                  f'Please fix this invalid reference to {section!r} ({dest}).')
-        elif status == 'added':
-            if lineno in file.add_linenos: # this file added this reference
-                print(f'::notice file={file.name},line={lineno}::'
-                      f'New reference to {section} ({dest}).')
+def p2s(prefix: Prefix) -> _Section:
+    prefix += (-1,) * (5 - len(prefix))
+    return (prefix[0], prefix[1], prefix[2], prefix[3], prefix[4])
+
+def mknotice[T](level: T, df: str, ds: Prefix, sf: str, ss: Prefix,
+                files: dict[str, list[str]]) -> tuple[T, str, str, str, str, str, str]:
+    try:
+        sl = str(section_to_lineno(p2s(ss), files[sf]) + 1)
+    except ValueError:
+        sl = '??'
+    try:
+        dl = str(section_to_lineno(p2s(ds), files[df]) + 1)
+    except ValueError:
+        dl = '??'
+    return (level, sf, section_to_str(p2s(ss)), sl, df, section_to_str(p2s(ds)), dl)
+
+def notices():
+    a_files: dict[str, list[str]] = {}
+    a_bodies: dict[str, FrozenSection] = {}
+    b_files: dict[str, list[str]] = {}
+    b_bodies: dict[str, FrozenSection] = {}
+    for file in gather_diff(sys.stdin):
+        path = file.name
+        if 'README' in path or 'LICENSE' in path:
+            continue
+        for hunk in file.hunks:
+            a_lines = a_files[path] = [line[1:] for line in hunk.del_lines]
+            b_lines = b_files[path] = [line[1:] for line in hunk.add_lines]
+            _, a_body = lines_to_chapters(a_lines)
+            _, b_body = lines_to_chapters(b_lines)
+            a_bodies[path] = FrozenSection('', a_body)
+            b_bodies[path] = FrozenSection('', b_body)
+    for filename in glob('**/*.md', recursive=True):
+        path = filename
+        if 'README' in path or 'LICENSE' in path:
+            continue
+        if path not in a_files and path not in b_files:
+            with open(filename, encoding='utf8') as f:
+                a_files[path] = b_files[path] = f.readlines()
+                _, body = lines_to_chapters(a_files[path])
+                a_bodies[path] = b_bodies[path] = FrozenSection('', body)
+    a_refses: dict[tuple[str, Prefix], list[tuple[str, Prefix]]] = {}
+    for path, body in a_bodies.items():
+        for sf, ss, df, ds in gather_crossrefs(body.body, path):
+            a_refses.setdefault((df, ds), []).append((sf, ss))
+    b_refses: dict[tuple[str, Prefix], list[tuple[str, Prefix]]] = {}
+    for path, body in b_bodies.items():
+        for sf, ss, df, ds in gather_crossrefs(body.body, path):
+            b_refses.setdefault((df, ds), []).append((sf, ss))
+    return gen_notices(a_bodies, b_bodies, a_refses, b_refses, b_files)
+
+def gen_notices(
+    a_bodies: dict[str, FrozenSection],
+    b_bodies: dict[str, FrozenSection],
+    a_refses: dict[tuple[str, Prefix], list[tuple[str, Prefix]]],
+    b_refses: dict[tuple[str, Prefix], list[tuple[str, Prefix]]],
+    files: dict[str, list[str]],
+) -> Iterable[tuple[
+    Literal['notice-text', 'notice-ref', 'notice-both', 'error', 'warning', 'debug'],
+    str, str, str, str, str, str
+]]:
+    for (df, ds), sources in b_refses.items():
+        try:
+            b_section = b_bodies[df][ds]
+        except IndexError:
+            # invalid reference altogether
+            for sf, ss in sources:
+                yield mknotice('error', df, ds, sf, ss, files)
+            continue
+        try:
+            a_section = a_bodies[df][ds]
+        except IndexError:
+            # reference to newly added section
+            for sf, ss in sources:
+                yield mknotice('notice-text', df, ds, sf, ss, files)
+            continue
+        if a_section.title != b_section.title:
+            level = 'warning'
+            b_texts = {b_bodies[sf][ss].title for sf, ss in sources}
+            try:
+                a_sources = a_refses[df, ds]
+            except KeyError:
+                level = 'notice-ref'
             else:
-                print(f'::error file={file.name},line={lineno}::'
-                      f'Reference to {section!r} ({dest}) magically appeared.')
-        elif status == 'deleted':
-            print(f'::debug::{file.name}:{lineno}: '
-                  f'Reference to {section} ({dest}) deleted.')
-        elif status == 'whitespaced':
-            print(f'::debug::{file.name}:{lineno}: {section}: {dest}: '
-                  f'Lockfile whitespace changed')
-        elif status.endswith('changed'):
-            if lineno in file.add_linenos: # referrer line newly added
-                level = 'notice'
-            else: # reference changed without referrer change
-                level = 'warning'
-            if 'section' in status:
-                fr, to = section.split(' -> ', 1)
-                changed = []
-                if 'text' in status:
-                    changed.append('text')
-                if 'dest' in status:
-                    changed.append('location')
-                if changed:
-                    changed = f' Referenced {" and ".join(changed)} ' \
-                        f'{"have" if len(changed) > 1 else "has"} also changed.'
-                else:
-                    changed = ''
-                print(f'::{level} file={file.name},line={lineno}::'
-                      f'Line now refers to {to} ({dest}) instead of {fr}.{changed} '
-                      'Make sure your reference is up to date.')
-            else:
-                changed = []
-                if 'text' in status:
-                    changed.append('text')
-                if 'dest' in status:
-                    changed.append('location')
-                changed = ' and '.join(changed).capitalize()
-                print(f'::{level} file={file.name},line={lineno}::'
-                      f'{changed} of {section} ({dest}) changed in this diff. '
-                      'Make sure your reference to it here is up to date.')
+                a_texts = {a_bodies[sf][ss].title for sf, ss in a_sources}
+                if a_texts != b_texts:
+                    level = 'notice-both'
+            for sf, ss in sources:
+                yield mknotice(level, df, ds, sf, ss, files)
         else:
-            raise ValueError(status)
+            for sf, ss in sources:
+                yield mknotice('debug', df, ds, sf, ss, files)
+
+def main():
+    # [ds][fsl]: destination/source file/section/line of reference
+    for level, sf, ss, sl, df, ds, dl in notices():
+        dest_ref = f'section {ds} ({df}:{dl})'
+        if df != sf:
+            dest_ref = f'{df} {dest_ref}'
+        if level == 'notice-text':
+            msg = f'Section {ss}: Reference {dest_ref} is newly added.'
+        elif level == 'notice-ref':
+            msg = f'Section {ss}: New reference to recently changed text of ' \
+                f'{dest_ref}. Make sure it is up to date.'
+        elif level == 'notice-both':
+            msg = f'Section {ss}: Newly refers to recently changed text of ' \
+                f'{dest_ref}. Make sure it is up to date.'
+        elif level == 'error':
+            msg = f'Section {ss}: Please fix this invalid reference to {dest_ref}.'
+        elif level == 'warning':
+            msg = f'Section {ss}: Text of {dest_ref} has changed. ' \
+                'Make sure your reference to it here is up to date.'
+        elif level == 'debug':
+            print(f'::debug::{sf}:{sl}: Section {ss}: All good for {dest_ref}.')
+            continue
+        else:
+            assert_never(level)
+        print(f'::{level.split('-')[0]} file={sf},line={sl}::{msg}')
 
 if __name__ == '__main__':
+    if isinstance(sys.stdin, io.TextIOWrapper):
+        sys.stdin.reconfigure(encoding='utf8')
     if isinstance(sys.stdout, io.TextIOWrapper):
         sys.stdout.reconfigure(encoding='utf8')
-    main(*sys.argv[1:])
+    main()
