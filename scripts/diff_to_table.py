@@ -115,6 +115,8 @@ def diff_lines(a_line: str, b_line: str) -> tuple[str, str]:
 def main() -> None:
     print(START)
     for file in gather_diff(sys.stdin):
+        if 'README' in file.name or 'LICENSE' in file.name:
+            continue # not part of the diff
         for hunk in file.hunks:
             _, a_chapters = lines_to_chapters(line[1:] for line in hunk.del_lines)
             meta, b_chapters = lines_to_chapters(line[1:] for line in hunk.add_lines)

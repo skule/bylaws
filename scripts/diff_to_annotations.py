@@ -115,8 +115,10 @@ def notices():
     b_files: dict[str, list[str]] = {}
     b_bodies: dict[str, FrozenSection] = {}
     for file in gather_diff(sys.stdin):
+        path = file.name
+        if 'README' in path or 'LICENSE' in path:
+            continue
         for hunk in file.hunks:
-            path = file.name
             a_lines = a_files[path] = [line[1:] for line in hunk.del_lines]
             b_lines = b_files[path] = [line[1:] for line in hunk.add_lines]
             _, a_body = lines_to_chapters(a_lines)
