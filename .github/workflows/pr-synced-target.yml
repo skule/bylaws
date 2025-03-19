@@ -3,8 +3,8 @@ on:
   pull_request_target:
     paths:
       - '**/*.md'
-      - '.github/workflows/generate-html-pdfs.yml'
-      - 'scripts/**/*'
+      - '!**/README.md'
+      - '!**/LICENSE*'
     branches-ignore:
       - gh-pages
 

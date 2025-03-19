@@ -3,6 +3,8 @@ on:
   pull_request:
     paths:
       - '**/*.md'
+      - '!**/README.md'
+      - '!**/LICENSE*'
     branches-ignore:
       - gh-pages
 
