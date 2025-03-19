@@ -102,6 +102,9 @@ ol ol ol li {
 	.find-handle {
 		display: none;
 	}
+	hr.contents {
+		visibility: hidden;
+	}
 }
 @page {
 	margin: 1in;
@@ -153,6 +156,9 @@ section.contents {
 	grid-template-columns: min-content 1fr min-content;
 	gap: 1em;
 	counter-reset: chapter -1;
+}
+hr.contents {
+	counter-set: chapter -1;
 }
 section.contents span:nth-child(3n+1)::before {
 	counter-increment: chapter;
