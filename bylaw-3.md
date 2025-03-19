@@ -1,5 +1,5 @@
 ---
-revdate: February 27, 2025
+revdate: March 29, 2025
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -413,14 +413,14 @@ subtitle: The Elections Bylaw
 1. The CRO shall maintain a document containing voter statements and platforms of all candidates who wish to submit such materials. The permitted lengths of each shall be announced prior to the beginning of the nomination period. The maximum length of a platform shall be left to the discretion of the CRO, however the maximum shall be no less than five-hundred (500) words.
    1. Notwithstanding section 8.2, the link to this document, as well as statements which would be permitted under section 8.7, may be posted on any social media platform during the election period.
 1. Should campaigning activities occur for which permissibility is not explicitly addressed under the Bylaws of the Society, and the CRO judges these activities to violate the spirit of this Bylaw, the CRO may rule such conduct to be prohibited.
-1. All candidates, regardless of whether they are running opposed or unopposed, must establish a campaign presence and engage with voters.
-   1. All candidates must submit a voter statement, at an absolute minimum of one (1) word. This statement must be submitted to the CRO through a means specified by the Nomination Package, which is due at the close of the Nomination Period.
-   1. All candidates must provide an electronic means of contact in the voter statement to facilitate voter engagement and inquiries. Acceptable forms of contact include an email address, a social media account handle (The CRO shall approve social media platforms deemed acceptable), and/or a telephone number.
    1. Any ruling under this section must be immediately communicated by the CRO to the Speaker, who may approve or overturn the CRO’s ruling
       1. Should a ruling be overturned by the Speaker, it is deemed null and void
       1. Should the Speaker take no action on the ruling within 24 hours, it shall be deemed to be approved.
    1. These rulings must be communicated to all candidates, and posted publicly on Skule Digest, if approved by the Speaker.
    1. A candidate shall not be punished for conduct prohibited under these rulings unless said conduct occurs after the ruling has been made publicly known.
+1. All candidates, regardless of whether they are running opposed or unopposed, must establish a campaign presence and engage with voters.
+   1. All candidates must submit a voter statement, at an absolute minimum of one (1) word. This statement must be submitted to the CRO through a means specified by the Nomination Package, which is due at the close of the Nomination Period.
+   1. All candidates must provide an electronic means of contact in the voter statement to facilitate voter engagement and inquiries. Acceptable forms of contact include an email address, a social media account handle (The CRO shall approve social media platforms deemed acceptable), and/or a telephone number.
 
 ## Materials
 1. For Officer candidates, posters are limited to twenty-five (25) letter-size pages or the equivalent area using letter and tabloid-size only.
@@ -436,7 +436,7 @@ subtitle: The Elections Bylaw
    1. Be put up in computer labs, on tables or any glass surfaces;
    1. Be posted outdoors unless on a public message board;
    1. Obstruct other notices while they are current;
-   1. Be placed in locations that are not the Sandford Fleming, Mechanical Engineering, Lassonde Mining, Wallberg Memorial, Galbraith, Rosebrugh, Haultain, D.L. Pratt Buildings, the Engineering Annex,, or the Bahen Centre of Information Technology. Notably, they may not be placed in the Myhal Centre for Engineering Innovation and Entrepreneurship.
+   1. Be placed in locations that are not the Sandford Fleming, Mechanical Engineering, Lassonde Mining, Wallberg Memorial, Galbraith, Rosebrugh, Haultain, D.L. Pratt Buildings, the Engineering Annex, or the Bahen Centre of Information Technology. Notably, they may not be placed in the Myhal Centre for Engineering Innovation and Entrepreneurship.
 1. Candidates shall not leave posters for longer than one week after the election, else they will be fined $1/day per poster that is not taken down.
 1. Banners are not permitted.
 1. The CRO may disqualify any campaign materials (e.g. posters, social media posts) that contain content which could damage the reputation and/or legal standing of the society, including but not limited to:
