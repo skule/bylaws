@@ -184,6 +184,7 @@ section.contents span:nth-child(3n+3) {
 		background-color: #ffc;
 	}
 	100% {
+		border-radius: .5rem;
 		background-color: none;
 	}
 }
