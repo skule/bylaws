@@ -23,7 +23,10 @@ jobs:
           shopt -s globstar
           git config user.name "$GITHUB_ACTOR"
           git config user.email "$GITHUB_ACTOR_ID+$GITHUB_ACTOR@users.noreply.github.com"
-          git rm -r "branch/$BRANCH/"
+          if ! git rm -r "branch/$BRANCH/"; then
+            echo "Nothing to remove; exiting cleanly"
+            exit 0
+          fi
           if [ -z "$(git status --porcelain=2)" ]; then
             echo "Nothing to commit; exiting cleanly"
             exit 0

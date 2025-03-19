@@ -1,0 +1,4 @@
+*.pdf linguist-generated
+*.md linguist-detectable
+README.md -linguist-detectable linguist-documentation
+LICENSE* -linguist-detectable linguist-documentation

@@ -29,9 +29,4 @@ jobs:
         run: |
           shopt -s globstar
           pip install -r scripts/requirements.txt
-          git diff "$BASE" HEAD -- '**/*.md' > md.diff
-          python scripts/md_to_crossrefs.py > crossrefs-src.txt
-          git checkout "$BASE"
-          python scripts/md_to_crossrefs.py > crossrefs-base.txt
-          git diff --no-index crossrefs-base.txt crossrefs-src.txt > crossref.diff || echo '::debug::At least one reference changed'
-          python scripts/diff_to_annotations.py crossref.diff md.diff
+          git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- '*.md' | python scripts/diff_to_annotations.py

@@ -57,6 +57,7 @@
 		<span></span> <a href="#{{ loop.index0 }}">{{ chapter.title }}</a> <span></span>
 	{% endfor %}
 	</section>
+	<hr class="contents" />
 	{% for chapter in chapters %}
 		{% set c = loop.index0 %}
 		<h1 id="{{ c }}">{{ chapter.title }} <a title="Permalink to this chapter" href="#{{ c }}">#</a></h1>

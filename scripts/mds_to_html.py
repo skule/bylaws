@@ -2,13 +2,10 @@ from __future__ import annotations
 from glob import glob
 from io import StringIO
 import json
-import os
 from pathlib import Path
 import re
 import shutil
-import sys
 from typing import Never, TextIO, TypedDict
-from pprint import pprint
 
 import cmarkgfm
 import lxml.etree as etree
