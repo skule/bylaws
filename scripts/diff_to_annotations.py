@@ -116,7 +116,7 @@ def notices():
     b_bodies: dict[str, FrozenSection] = {}
     for file in gather_diff(sys.stdin):
         path = file.name
-        if 'README' in path or 'LICENSE' in path:
+        if 'README' in path or 'LICENSE' in path or 'index' in path:
             continue
         for hunk in file.hunks:
             a_lines = a_files[path] = [line[1:] for line in hunk.del_lines]
@@ -127,7 +127,7 @@ def notices():
             b_bodies[path] = FrozenSection('', b_body)
     for filename in glob('**/*.md', recursive=True):
         path = filename
-        if 'README' in path or 'LICENSE' in path:
+        if 'README' in path or 'LICENSE' in path or 'index' in path:
             continue
         if path not in a_files and path not in b_files:
             with open(filename, encoding='utf8') as f:

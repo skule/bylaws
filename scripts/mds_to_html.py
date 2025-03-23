@@ -184,7 +184,7 @@ def main() -> None:
     # generate htmls
     index: dict[str, tuple[str, dict[str, tuple[str, str]]]] = {}
     for filename in glob('**/*.md', recursive=True):
-        if 'README' in filename or 'LICENSE' in filename:
+        if 'README' in filename or 'LICENSE' in filename: # NOTE: index.md is included
             continue
         htmlname = Path(re.sub(r'\.md$', '.html', filename))
         outpath = build_dir / htmlname
