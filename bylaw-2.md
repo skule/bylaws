@@ -204,6 +204,15 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. There shall be an Environmental Sustainability Director, who shall be responsible for working in collaboration with students, clubs, and faculty to assess and improve the environmental impact of EngSoc practices.
 1. The Environmental Sustainability Director shall be overseen by the President.
 
+## Skule™ Patrol Directors
+1. There shall be two (2) Skule™ Patrol Directors responsible for:
+   1. Recruiting, managing, coordinating, and training as applicable of Skule™ Patrol volunteers and Head Patrollers.
+   1. Supplying and maintaining first aid supplies owned by the Engineering Society and its Directorships.
+   1. Offering first aid supplies to Affiliated Entities and Engineering Society Affiliated Clubs.
+   1. Offering First Aid courses to members of the Skule™ community at minimum once per semester of the Academic Year, including maintaining at least one (1) active Red Cross Standard First Aid Instructors certification for that purpose.
+1. The Skule™ Patrol Directors shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training before the August month of their term, provided by the University of Toronto and their resources or an external organization deemed reliable at a meeting of the Board of Directors.
+1. The Skule™ Patrol Directors shall be overseen by the Vice-President Student Life.
+
 # Associated Entities
 
 ## General
