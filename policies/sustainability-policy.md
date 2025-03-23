@@ -8,7 +8,7 @@ subtitle: Sustainability Policy
 # General
 
 ## Purpose
-1. To implement the mandate of the Sustainability Directorship as defined in Bylaw 2, Section 1.28 by:
+1. To implement the mandate of the Sustainability Directorship as defined in [Bylaw 2, Section 1.28](../bylaw-2.md) by:
    1. Affirming the University of Toronto Engineering Society’s commitment to sustainability and environmental stewardship,
    1. Recognizing all students’ and faculties’ right to a healthy and safe environment, in accordance with the Canadian Environmental Protection Act,
    1. Establishing formal channels through which students may ask questions and raise comments and concerns regarding environmental practices at the University of Toronto Engineering Society, the Faculty of Applied Science and Engineering, and broadly, the University of Toronto.
@@ -25,7 +25,7 @@ subtitle: Sustainability Policy
 1. Any constituent who observes a need for new or revised sustainability policies, an opportunity to promote sustainability and stewardship in academic courses, or action targeting generally unsustainable practices pertaining to Engineering Society, Faculty, University, or other student group activities may move to address this need through a Sustainability Directorship initiative.
    1. Constituents may propose the establishment of a new initiative to the Sustainability Director or a representative of the Sustainability Directorship.
    1. It is the responsibility of the Director (and representatives of the Directorship) to inform constituents of their right to raise an official complaint with the Engineering Society Ombudsperson, should the constituent deem the concern serious enough.
-   1. Refer to Section 3.1 on how constituents should contact the Sustainability Director.
+   1. Refer to Chapter 3 on how constituents should contact the Sustainability Director.
 1. When a proposal is brought forward, the Director and/or the President will decide on whether to approve the the initiative based on:
    1. The merits of the proposal,
    1. The perceived benefits of the initiative,
