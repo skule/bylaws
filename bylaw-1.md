@@ -66,7 +66,7 @@ subtitle: The Constitution
 
 ## Fees
 1. Regular Members shall have paid in full, or successfully deferred, their Membership Fees for the Fall and/or Winter semesters in which they are considered a Member.
-1. The Membership Fee shall be $31.55 in each of the Fall and Winter Semesters for Full Time Students and $29.67 in each of the Fall and Winter Semesters for Part Time Students in the year 2025-2026, and $0.00 for the summer semester of 2024, for both Full Time Students and Part Time Students, provided the student continues to meet the other conditions of membership.
+1. The Membership Fee shall be $31.55 in each of the Fall and Winter Semesters for Full Time Students and $29.67 in each of the Fall and Winter Semesters for Part Time Students in the year 2025-2026, and $0.00 for the summer semester of 2026, for both Full Time Students and Part Time Students, provided the student continues to meet the other conditions of membership.
 1. Upon a resolution of the Board of Directors, the Membership Fee for each subsequent year shall include a cost of living adjustment as approved by the Governing Council.
 1. The Membership Fee shall be non-refundable.
 1. Any fees to be created or increased except as specified in Section 1.3.3 shall be done so by the Membership through a referendum.
