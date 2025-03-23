@@ -10,13 +10,13 @@ subtitle: Index of Documents
 ## Bylaws
 
 1. Bylaw 1 is amended as given in [Bylaw 1, section 7.1](bylaw-1.md). Other Bylaws are amended as given in [Bylaw 1, section 7.2](bylaw-1.md).
-	1. [Bylaw 1](bylaw-1.md): The Constitution
-	1. [Bylaw 2](bylaw-2.md): The Directors, Associated Entities, and Neutral Officers Bylaw
-	1. [Bylaw 3](bylaw-3.md): The Elections Bylaw
-	1. [Bylaw 4](bylaw-4.md): The Officers Bylaw
-	1. [Bylaw 5](bylaw-5.md): The Commercial Operations Bylaw
-	1. [Bylaw 6](bylaw-6.md): The Search and Review Committee Bylaw
-	1. [Bylaw 7](bylaw-7.md): The Discipline Clubs and Class Representatives Bylaw
+	1. [Bylaw 1](bylaw-1.md)
+	1. [Bylaw 2](bylaw-2.md)
+	1. [Bylaw 3](bylaw-3.md)
+	1. [Bylaw 4](bylaw-4.md)
+	1. [Bylaw 5](bylaw-5.md)
+	1. [Bylaw 6](bylaw-6.md)
+	1. [Bylaw 7](bylaw-7.md)
 
 ## Policies
 
@@ -27,6 +27,4 @@ subtitle: Index of Documents
 	1. [Orientation Governance Policy](policies/orientation-governance-policy.md)
 	1. [Policy on Affiliated Clubs](policies/policy-on-affiliated-clubs.md)
 	1. [Policy on Complaints](policies/policy-on-complaints.md)
-	1. [Policy on SUDS Operation](policies/suds-policy.md)
-	1. [Sustainability Policy](policies/sustainability-policy.md)
 	1. [Transition Policy](policies/transition-policy.md)
