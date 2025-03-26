@@ -98,24 +98,26 @@ def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, 
 def diff_lines(a_line: str, b_line: str) -> tuple[str, str]:
     _a_line: list[str] = []
     _b_line: list[str] = []
-    for tag, i1, j1, i2, j2 in SequenceMatcher(a=a_line, b=b_line).get_opcodes():
+    a = a_line.split()
+    b = b_line.split()
+    for tag, i1, j1, i2, j2 in SequenceMatcher(a=a, b=b).get_opcodes():
         if tag == 'equal':
-            _a_line.append(a_line[i1:j1])
-            _b_line.append(b_line[i2:j2])
+            _a_line.extend(a[i1:j1])
+            _b_line.extend(b[i2:j2])
         if tag == 'delete' or tag == 'replace':
             _a_line.append('<b>')
-            _a_line.append(a_line[i1:j1])
+            _a_line.extend(a[i1:j1])
             _a_line.append('</b>')
         if tag == 'insert' or tag == 'replace':
             _b_line.append('<b>')
-            _b_line.append(b_line[i2:j2])
+            _b_line.extend(b[i2:j2])
             _b_line.append('</b>')
-    return ''.join(_a_line), ''.join(_b_line)
+    return ' '.join(_a_line), ' '.join(_b_line)
 
 def main() -> None:
     print(START)
     for file in gather_diff(sys.stdin):
-        if 'README' in file.name or 'LICENSE' in file.name:
+        if 'README' in file.name or 'LICENSE' in file.name or 'index' in file.name:
             continue # not part of the diff
         for hunk in file.hunks:
             _, a_chapters = lines_to_chapters(line[1:] for line in hunk.del_lines)

@@ -29,9 +29,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 ## Temporary Internal Directors
 1. Temporary Internal Director positions may be created by the Board, as needed.
 1. Temporary Internal Directors shall be subject to the same eligibility requirements as Project Directors, as defined in 0.0.
-1. Temporary Internal Directors shall be overseen by the President, unless delegated to another Officer.
-1. All Temporary Internal Director positions shall cease to exist at the adjournment of their term, unless renewed by resolution of the Board.
-   1. The overseeing Officer shall submit motions for the renewal of each Temporary Internal Director at the February Board Meeting.
+1. Temporary Internal Directors shall be overseen by an Officer of the Society.
+   1. The overseeing Officer shall be specified in the motion which creates the Directorship.
+1. The motion which creates a Temporary Internal Directorship may set the Term of Office for the Directorship.
+   1. Unless otherwise specified, a Temporary Internal Directorship shall cease to exist at the adjournment of the April Board of Directors meeting.
+1. For each Temporary Internal Director, unless the Term of Office is otherwise specified, the overseeing Officer shall submit a motion to renew that Directorship at the February Board Meeting.
 
 # Project Directors
 
