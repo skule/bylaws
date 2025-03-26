@@ -1,5 +1,5 @@
 ---
-revdate: November 30, 2024
+revdate: March 29, 2025
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
@@ -171,11 +171,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. The Equity and Inclusivity Director shall be overseen by the President.
 
 ## Social Media Coordinator
-1. There shall be a Social Media Coordinator, who shall be responsible for:
+1. There shall be one (1) or two (2) Social Media Coordinator(s), who shall be responsible for:
    1. Coordinating the Society’s programming on social media platforms;
    1. Developing content for the promotion of the Society’s events and projects; and
    1. Engaging Members in the Society’s activities through social media.
-1. The Social Media Coordinator shall be overseen by the Vice-President Communications.
+1. The Social Media Coordinator(s) shall be overseen by the Vice-President Communications.
 
 ## International Transition Director
 1. There shall be an International Transition Director, who shall be responsible for coordinating initiatives that:
