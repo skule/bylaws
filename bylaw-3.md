@@ -242,7 +242,6 @@ subtitle: The Elections Bylaw
 1. The CRO shall determine the order in which positions are considered; however, the position of CRO shall be the last position considered at the Winter Ratification Meeting.
    1. Each candidate for the position of Orientation Chair shall be given the opportunity to speak for two (2) minutes before the election for this position.
 1. Any election details not specified in Section 5.1 shall follow the provisions in Chapter 7 of this Bylaw.
-   1. Notwithstanding Section 7.2.8.a, nominations shall not be required to be reopened for the position of Orientation Chair(s) if only one (1) Orientation Chair is elected.
 1. For the purposes of forming the hiring committees, the Incoming and Outgoing Officers as specified under section 7.2.1 shall be the overseeing Officer for the position and another currently serving Officer, chosen at the discretion of the CRO.
    1. The overseeing Officer for the CRO hiring committee shall be the Speaker.
 
@@ -374,7 +373,7 @@ subtitle: The Elections Bylaw
 1. The recommendation report shall completely and accurately provide all reasoning for the recommendation provided, including discussion and concerns raised among the members of the hiring committee.
 1. The outgoing Officer on the committee, or their replacement as specified in Section 7.2.3,  shall be tasked with ensuring the recommendation report maintains a professional and respectful tone for all the candidates. The report shall accurately reflect the discussion held during the interview, to the best of the hiring committee’s ability.
 1. From the nominated candidates, the hiring committee shall recommend a number of candidates less than the number of positions available, a number of candidates equal to the number of positions available, a number of candidates greater than the number of positions available, or to re-open nominations.
-   1. Should the number of candidates elected be greater than zero, but less than the number of positions available, nominations shall be reopened only for the unfilled positions.
+   1. Should the number of candidates elected be greater than zero, but less than the number of positions available, nominations shall be reopened only for the unfilled positions, unless the smaller number of candidates elected is permitted for the position as specified in [Bylaw 2](bylaw-2.md). For example, [Bylaw 2](bylaw-2.md) permits only one (1) Orientation Chair to be elected, despite two (2) positions being available.
 
 ## Board Meeting
 1. Each recommendation report shall be circulated to Members of the Board of Directors and candidates as soon as is reasonably possible.
@@ -394,7 +393,7 @@ subtitle: The Elections Bylaw
    1. If a candidate receives a majority of votes, they win the election;
    1. If no candidate receives a majority of votes, then the candidate with the fewest votes shall be removed from consideration and another vote shall be held;
    1. In all cases of ties, the CRO or the person acting as CRO, as the case may be, shall cast the deciding vote;
-   1. When only one (1) candidate is nominated, voters shall vote either ?Yes? or ?No?; and
+   1. When only one (1) candidate is nominated, voters shall vote either "Yes" or "No"; and
    1. In the event that there is more than one (1) director sought for a project, the process shall be repeated with the winner of the previous election removed.
    1. Members of the Board of Directors (including Officers) shall be barred from voting in the election of a position for which they sat on the hiring committee.
 
