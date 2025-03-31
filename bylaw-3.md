@@ -92,7 +92,7 @@ subtitle: The Elections Bylaw
    1. The names, student numbers, and signatures of twenty-five (25) Nominators, all of whom shall be Members; and
    1. A fifty dollar ($50) cash deposit.
 1. Potential candidates must submit a voter's statement, through a means specified by the Nomination Package, which is due at the close of the Nomination Period.
-   1. The voter's statement must have at least one (1) word, and is limited to two-hundred and fifty (250) words in length, in accordance with 8.0.8.
+   1. The voter's statement must have at least one (1) word, and is limited to two-hundred and fifty (250) words in length, in accordance with section 8.0.7.
 1. The CRO shall produce a certified list of candidates within seventy-two (72) hours from the close of the Nomination Period.
 1. No Member may be nominated for more than one Officer position.
 1. The Campaign Period shall:
@@ -140,7 +140,7 @@ subtitle: The Elections Bylaw
 1. The following apply to all elections outlined in this Chapter, except for the Winter Election and the Election for the Speaker of the Board of Directors:
    1. An All Candidates Meeting (ACM) will be held pursuant to the description in 2.2.1;
    1. Potential candidates must submit a voter's statement, through a means specified by the Nomination Package, which is due at the close of the Nomination Period; and
-      1. The voter’s statement must have at least one (1) word, and is limited to one-hundred (100) words in length, in accordance with 8.0.8.
+      1. The voter’s statement must have at least one (1) word, and is limited to one-hundred (100) words in length, in accordance with section 8.0.7.
    1. The CRO shall produce a certified list of candidates within seventy-two (72) hours from the close of the Nomination Period.
 
 ## Board of Directors Election Period
@@ -192,7 +192,7 @@ subtitle: The Elections Bylaw
 1. The following apply to all elections outlined in this Chapter:
    1. An All Candidates Meeting (ACM) will be held pursuant to the description in 2.2.1; and
    1. Potential candidates must submit a voter's statement, through a means specified by the Nomination Package, which is due at the close of the Nomination Period; and
-      1. The voter’s statement must have at least one (1) word, and is limited to one-hundred (100) words in length, in accordance with 8.0.8.
+      1. The voter’s statement must have at least one (1) word, and is limited to one-hundred (100) words in length, in accordance with section 8.0.7.
    1. The CRO shall produce a certified list of candidates within seventy-two (72) hours from the close of the Nomination Period.
 
 ## First Year Board of Directors Election Period
@@ -249,7 +249,7 @@ subtitle: The Elections Bylaw
 1. The Nomination Period for the Valedictorian shall commence at 9:00am on the nearest Monday before February 1st and shall close at 5:00pm on the Friday of the same week.
 1. A Member, who must be in their Final Year, shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature
-1. Potential candidates must submit a voter’s statement in accordance with 8.0.8, through a means specified by the Nomination Package, which is due at the close of the Nomination Period; and
+1. Potential candidates must submit a voter’s statement in accordance with section 8.0.7, through a means specified by the Nomination Package, which is due at the close of the Nomination Period; and
 1. An All Candidates Meeting (ACM) shall be held pursuant to the description in 2.2.1.
 1. The Campaign Period shall:
    1. Commence between twenty four (24) and seventy-two (72) hours after the ACM; and
@@ -317,7 +317,7 @@ subtitle: The Elections Bylaw
 1. The question text of such a referendum shall be: "Do you support recalling [name] from their position as [discipline and year] Class Representative?" where "[name]" is the name of the Class Representative in question and "[discipline and year]" is the constituency they represent.
 1. The voting period for such a referendum shall begin between seven (7) and fourteen (14) days after it is called, at the CRO's discretion, and shall last at least three (3) days. If possible within these constraints, the voting period shall be aligned with the voting period of any other ongoing election cycle.
 1. There shall be no campaigning for such a referendum. Campaigning in any form by either the party calling the referendum or the Class Representative in question, beyond the voter statements outlined below, will result in a warning to the campaigning party, in accordance with Section 9.1.
-1. Both the party calling such a referendum and the Class Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.8.
+1. Both the party calling such a referendum and the Class Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.7.
    1. For the party calling the referendum, this statement is limited in content to specifying how the Class Representative has neglected their duties as specified in [Bylaw 7 Section 3.0.3](bylaw-7.md). This statement must be provided at the same time as the referendum is called.
    1. For the Class Representative in question, this statement is limited in content to rebutting the calling party's statement and/or otherwise defending their conduct. This statement must be provided to the CRO at least twenty-four (24) hours before the start of the voting period.
    1. If approved by the CRO as compliant with the above rules, these voter statements will be displayed alongside the referendum question when it is presented to voters.
@@ -330,7 +330,7 @@ subtitle: The Elections Bylaw
 1. The question text of such a referendum shall be: "Do you support recalling [name] from their position as [constituency] Board Representative?" where "[name]" is the name of the Board Representative in question and "[constituency]" is the constituency they represent (e.g. "At-Large", "First Year").
 1. The voting period for such a referendum shall begin at most eleven (11) business days after it is called, at the CRO's discretion, and shall last at least three (3) days. If possible within these constraints, the voting period shall be aligned with the voting period of any other ongoing election cycle.
 1. There shall be no campaigning for such a referendum. Campaigning in any form by either the party calling the referendum or the Board Representative in question, beyond the voter statements outlined below, will result in a warning to the campaigning party, in accordance with Section 9.1.
-1. Both the party calling such a referendum and the Board Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.8.
+1. Both the party calling such a referendum and the Board Representative in question may provide a voter statement of at most one-hundred (100) words in length, in accordance with section 8.0.7.
    1. For the party calling the referendum, this statement is limited in content to specifying how the Board Representative has breached the standard of conduct in [Bylaw 1 section 4.11.3](bylaw-1.md). This statement must be provided at the same time as the referendum is called.
    1. For the Board Representative in question, this statement is limited in content to rebutting the calling party's statement and/or otherwise defending their conduct. This statement must be provided to the CRO at least twenty-four (24) hours before the start of the voting period.
    1. If approved by the CRO as compliant with the above rules, these voter statements will be displayed alongside the referendum question when it is presented to voters.
