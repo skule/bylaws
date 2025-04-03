@@ -55,7 +55,7 @@ pdf: Standing Rules of Order
    1. The *in camera* session ends immediately.
    1. Any persons previously required to leave should be invited to return.
 1. Minutes are still kept during *in camera* sessions, but they shall not normally be published, and members permitted to remain are obliged to not divulge discussions made *in camera*.
-   1. Notwithstanding the above, a motion disposed of *in camera* must have its text and disposition published, unless its text was never publicized *in camera* and implementing its effects does not require disclosing its disposition.
+   1. Notwithstanding the above, a motion disposed of *in camera* must have its text and disposition published, unless its text was never publicized *ex camera* and implementing its effects does not require disclosing its disposition.
 1. These standing rules on *in camera* sessions replace the provisions of Robert’s Rules relating to executive sessions.
 1. While the correct Latin pronunciation of *camera* is /ˈkamera/, in the Engineering Society the word is pronounced [kʰ(ə)ˈmɛɹə], for historical reasons.
 
