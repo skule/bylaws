@@ -30,3 +30,7 @@ subtitle: Index of Documents
 	1. [Policy on SUDS Operation](policies/suds-policy.md)
 	1. [Sustainability Policy](policies/sustainability-policy.md)
 	1. [Transition Policy](policies/transition-policy.md)
+
+## Other
+
+1. [Standing Rules of Order](standing-rules.md)
