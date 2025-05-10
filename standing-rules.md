@@ -8,13 +8,16 @@ pdf: Standing Rules of Order
 
 ## Order of Business
 
-1. Reading and approval of minutes
-1. Reports of Officers and Standing Committees
-1. Reports of Special Committees
-1. Special Orders
-1. Business arising from reports of Standing Committees or Special Committees
-1. Unfinished Business and General Orders
-1. New Business
+1. Adoption of the agenda
+1. Approval of minutes
+1. Reports (see section 0.5.2)
+1. Business arising from reports
+1. General Orders (business postponed to this meeting or un-disposed-of when a previous meeting in the same session adjourned)
+1. Business on the agenda of the current meeting
+1. Consent agenda (see section 0.6)
+1. Other discussion items (see section 0.5)
+1. Other business brought without notice
+1. Adjournment
 
 ## Standing
 
@@ -66,3 +69,25 @@ pdf: Standing Rules of Order
 ## Submission of Documents
 
 1. All documents, reports, and appendices shall be submitted at least seventy-two (72) hours prior to the commencement of each regular meeting of the Board of Directors, unless otherwise specified in the Bylaws or barring extraneous circumstances at the discretion of the Speaker.
+
+## Reports and Discussion Items
+
+1. Members may submit discussion items for inclusion on the agenda. These are treated the same as regular motions, with the following exceptions:
+   1. The Speaker need not read out the text of a discussion item, only announce that it has commenced.
+   1. No text may be submitted with a discussion item other than the topic of discussion (no WHEREAS clauses or resolutions).
+   1. No seconder is required (but a member may move to object to the consideration of the item as usual).
+   1. No voting is done and no action results from the conclusion of the discussion (but members may make main motions as a result of the discussion, as usual).
+   1. There being no resulting action, it is out of order to amend a discussion item.
+   1. There being no voting, it is out of order to reconsider or indefinitely postpone a discussion item.
+1. Reports are a special form of discussion item with precedence on the agenda. They may only be submitted when demanded by Bylaws, Policies, or motion of the Board or a General Meeting. The proper form of a report is "REPORT by (reporter)" or "REPORT by (reporter) on (topic)".
+1. The proper form of all other discussion items is "DISCUSSION by (submitter) on (topic)".
+
+## Consent Agenda
+
+1. The Speaker shall submit to each meeting of the Board a motion "to adopt the consent agenda" (a.k.a. a "motion to consent" to the consent agenda), which shall be the last motion on the agenda except for discussion items and adjournnment. All motions on the agenda that follow the motion to consent, except discussion items and the final motion to adjourn, are part of the "consent agenda", unless the motion specifies otherwise.
+1. If any voting member of the Board objects to the motion to consent, it fails and the consent agenda will be considered sequentially in the usual manner. Otherwise, i.e. if the motion to consent is adopted unanimously, all of the motions on the consent agenda are simultaneously adopted unanimously.
+1. At any point before the motion to consent is disposed of, any EngSoc Member may cause an item on the consent agenda to be removed therefrom, by requesting that the Speaker do so.
+   1. If the request is made before the motion to consent is taken up, the item shall be placed just before the motion to consent.
+   1. If the request is made after the motion to consent is taken up, the item shall be placed just after the last item that remains on the consent agenda, and shall be taken up after the motion to consent is disposed of.
+   1. Other than such requests, the motion to consent is undebatable and unamendable.
+1. Only an affirmative vote on the motion to consent may be reconsidered, and it cannot have any subsidiary motions applied to it. Since a single objection defeats the motion, no seconder is required.
