@@ -109,3 +109,4 @@ pdf: Standing Rules of Order
 1. At any point before the motion to consent is disposed of, any EngSoc Member may cause an item on the consent agenda to be removed therefrom, by requesting that the Speaker do so.
    1. If the request is made before the motion to consent is taken up, the meeting agenda shall be amended to place the item just before the motion to consent.
    1. If the request is made after the motion to consent is taken up, the meeting agenda shall be amended in the same manner, and the requested item shall be immediately considered and disposed of, as if the motion to consent had been laid on the table to consider it, and then taken from the table after it is disposed of.
+   1. The Speaker shall prompt for such requests during the adoption of the agenda (as described in section 0.0.1) and before the motion to consent is considered.
