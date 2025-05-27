@@ -1,5 +1,5 @@
 ---
-revdate: April 5, 2025
+revdate: May 29, 2025
 title: Standing Rules of Order
 pdf: Standing Rules of Order
 ---
@@ -9,7 +9,8 @@ pdf: Standing Rules of Order
 ## Order of Business
 
 1. Adoption of the agenda
-1. Approval of minutes
+1. Motions regarding minuting, including to record the meeting
+1. Approval of minutes (if not in the consent agenda when the full agenda is adopted)
 1. Reports (see section 0.5.2)
 1. Business arising from reports
 1. Business postponed to this meeting or left over when a previous meeting in the same session adjourned
@@ -79,7 +80,7 @@ pdf: Standing Rules of Order
    1. No voting is done and no action results from the conclusion of the discussion (but members may make main motions as a result of the discussion, as usual).
    1. There being no resulting action, discussion items are unamendable.
    1. There being no voting, discussion items may not be reconsidered or indefinitely postponed.
-   1. There being no "question", the motion to "call the question" may also be termed the motion to "end discussion".
+   1. There being no "question", the motion to "call the question" may also be termed the motion to "end discussion", and its effect is simply to close debate, not prompt a vote.
 1. Reports are a special form of discussion item with precedence on the agenda as outlined in section 0.0.
    1. Reports may only be submitted when demanded by Bylaws, Policies, or motion of the Executive Committee, the Board, or a General Meeting.
    1. The proper form of a report is "REPORT by (reporter)" or "REPORT by (reporter) on (topic)".
@@ -104,6 +105,7 @@ pdf: Standing Rules of Order
    1. Motions to suspend the rules (including to make a special order)
 1. The effect of adopting the motion to consent is that all of the motions on the consent agenda are also simultaneously adopted unanimously. Otherwise, the consent agenda will be considered sequentially in the usual manner.
    1. Motions in the consent agenda may be reconsidered individually without reconsidering the motion to consent.
+   1. Any motions that take effect "immediately" or upon adoption shall take effect in the order in which they appear on the agenda.
 1. At any point before the motion to consent is disposed of, any EngSoc Member may cause an item on the consent agenda to be removed therefrom, by requesting that the Speaker do so.
    1. If the request is made before the motion to consent is taken up, the meeting agenda shall be amended to place the item just before the motion to consent.
    1. If the request is made after the motion to consent is taken up, the meeting agenda shall be amended in the same manner, and the requested item shall be immediately considered and disposed of, as if the motion to consent had been laid on the table to consider it, and then taken from the table after it is disposed of.
