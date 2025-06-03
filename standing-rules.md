@@ -1,5 +1,5 @@
 ---
-revdate: April 5, 2025
+revdate: May 29, 2025
 title: Standing Rules of Order
 pdf: Standing Rules of Order
 ---
@@ -8,13 +8,16 @@ pdf: Standing Rules of Order
 
 ## Order of Business
 
-1. Reading and approval of minutes
-1. Reports of Officers and Standing Committees
-1. Reports of Special Committees
-1. Special Orders
-1. Business arising from reports of Standing Committees or Special Committees
-1. Unfinished Business and General Orders
-1. New Business
+1. Adoption of the agenda
+1. Motions regarding minuting, including to record the meeting
+1. Approval of minutes
+1. Reports (see section 0.5.2)
+1. Business arising from reports
+1. Business postponed to this meeting or left over when a previous meeting in the same session adjourned
+1. Business on the agenda of the current meeting
+1. Other discussion items (see section 0.5)
+1. Other business brought without notice
+1. Adjournment
 
 ## Standing
 
@@ -66,3 +69,18 @@ pdf: Standing Rules of Order
 ## Submission of Documents
 
 1. All documents, reports, and appendices shall be submitted at least seventy-two (72) hours prior to the commencement of each regular meeting of the Board of Directors, unless otherwise specified in the Bylaws or barring extraneous circumstances at the discretion of the Speaker.
+
+## Reports and Discussion Items
+
+1. Members may submit discussion items for inclusion on the agenda. These are treated the same as regular main motions, with the following exceptions:
+   1. The Speaker need not read out the text of a discussion item, only announce that it has commenced.
+   1. No text may be submitted with a discussion item other than the topic of discussion (no WHEREAS clauses or resolutions).
+   1. No seconder is required (but a member may move to object to the consideration of the item as usual).
+   1. No voting is done and no action results from the conclusion of the discussion (but members may make main motions as a result of the discussion, as usual).
+   1. There being no resulting action, discussion items are unamendable.
+   1. There being no voting, discussion items may not be reconsidered or indefinitely postponed.
+   1. There being no "question", the motion to "call the question" may also be termed the motion to "end discussion", and its effect is simply to close debate, not prompt a vote.
+1. Reports are a special form of discussion item with precedence on the agenda as outlined in section 0.0.
+   1. Reports may only be submitted when demanded by Bylaws, Policies, or motion of the Executive Committee, the Board, or a General Meeting.
+   1. The proper form of a report is "REPORT by (reporter)" or "REPORT by (reporter) on (topic)".
+1. The proper form of all other discussion items is "DISCUSSION by (submitter) on (topic)".
