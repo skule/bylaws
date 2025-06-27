@@ -367,10 +367,7 @@ subtitle: The Constitution
 
 ## General
 1. The Council shall be composed of the Board Members, Project Directors, Class Representatives, one (1) representative selected by each Ancillary Organization, Internal Representatives, and Spirit Heads.
-
-## Quorum
-1. Quorum at a meeting of the Council shall be fifty percent (50%) of voting members present.
-1. Proxy votes shall count towards Quorum.
+1. The Council is not a formal body of the Society but simply a single term encompassing all the listed roles.
 
 # Employees
 
@@ -383,14 +380,15 @@ subtitle: The Constitution
    1. Maintaining the day-to-day financial records of the Society; and
    1. Other duties as may be specified in Bylaws and Policies.
 
-# Amendments, Bylaws, and Policies
+# Governing Documents and their Amendments
 
 ## General
-1. There shall be three levels of documents specifying the organization of the Society;
+1. There shall be four levels of documents specifying the organization of the Society;
    1. Bylaw 1 (Constitution);
-   1. Other Bylaws; and
-   1. Policies.
-1. All of the documents contained under each of the levels of documents listed in 7.0.1 must be written using gender neutral pronouns.
+   1. Other Bylaws;
+   1. Policies; and
+   1. Manuals.
+1. All of the documents contained under each of the levels of documents listed in section 7.0.1 must be written using gender neutral pronouns.
 
 ## Bylaw 1 (The Constitution of the University of Toronto Engineering Society)
 1. Bylaw 1 shall specify the fundamental organization of the Society.
@@ -406,7 +404,7 @@ subtitle: The Constitution
    1. A General Meeting; or
    1. A meeting of the Board of Directors.
 
-## Amendments
+## Amendments to Bylaws
 1. A bylaw amendment made by the Board of Directors is effective only until the next Annual General Meeting or a General Meeting called for the purpose of its ratification unless confirmed thereat, and in default of confirmation thereat, ceases to have effect at and from that time, and in that case no new bylaw of the same or like substance has any effect until confirmed at a General Meeting. If such approval has not occurred by the next Annual General Meeting the amendment is struck down and neither it nor any substantially similar amendment may be proposed at a meeting of the Board for one year following the date of the Annual General Meeting.
 
 ## Policies
@@ -423,3 +421,27 @@ subtitle: The Constitution
 1. Policies passed, repealed, or amended at a meeting of the Board of Directors may only be repealed, re-instated, or amended at another meeting of the Board, or a General Meeting for a period of one (1) year.
 1. Policies passed, repealed, or amended at a meeting of the Officers may be repealed, amended, or re-instated at another meeting of the Officers, a Board of Directors meeting, or a General Meeting for a period of one (1) year.
 1. One (1) year after a policy has been passed, repealed, or amended; it may again be amended or repealed by anybody outlined in Section 7.4.2.
+
+## Manuals
+1. Each role (including members of bodies) defined in the Bylaws shall have a Manual, named "(Name of Role) Manual", with role name suffixes such as "Director" or "Manager" removed (unless the resulting title would be too confusing).
+1. Manuals shall be considered descriptions of the corresponding roles which supersede neither their Bylaw-mandated responsibilities nor specific Policies describing their responsibilities.
+1. Manuals shall:
+   1. Summarize the role's purpose;
+   1. Describe the role's typical operations, including executive structure and responsibilities as applicable;
+   1. List the role's responsibilities, whether ongoing, time-fixed, or optional; and
+   1. Contain enough detail to allow an incumbent with no experience in the Society to fulfill its basic functions.
+1. Manuals may only be amended by:
+   1. A simple majority vote of a General Meeting;
+   1. A simple majority vote of the Board of Directors;
+   1. A simple majority vote of the Executive Committee;
+   1. A simple majority vote of the incumbents in the corresponding role, with the consent of the Officer overseeing the role (directly or indirectly); or
+   1. A simple majority vote of the Policy and Structures Committee.
+1. Manuals shall be passed or repealed when the corresponding role is created or removed, respectively, by the same body creating or removing the role.
+   1. It shall be out of order to amend the Bylaws to create or remove a role without simultaneously passing or repealing, respectively, the corresponding Manual.
+   1. The parties listed in section 7.5.4 shall pass a Manual when a role previously created is discovered to be lacking its Manual, and shall repeal a Manual when a role previously removed is discovered to still have a Manual.
+      1. In the latter case, the role being nonexistent, the consent of the incumbents as described in section 7.5.4.d is not required.
+      1. Notwithstanding section 7.5.5.a, the delay in passing or repealing the Manual does not void the creation or removal, respectively, of the corresponding role.
+   1. Changes to the number or Constituency makeup of a role shall not be considered creation or removal of a role (e.g. the creation of Class Representatives for the PEY Constituency does not create a new role).
+1. When a Manual is amended, it shall be noted which of the parties listed in section 7.5.4 did so.
+1. Notice shall be given to the Board of Directors when a Manual is amended by a party listed after the Board of Directors in section 7.5.4.
+1. Amendments to Manuals by a party listed in section 7.5.4 may not be reversed or substantively defeated by parties which come after them in the same list until one (1) year after the amendment was made.

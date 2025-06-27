@@ -36,3 +36,24 @@ subtitle: Transition Policy
 1. A Transition Meeting should be completed prior to an incoming Officer taking on their role.
    1. Between Transition Meetings prior to formally taking on their role, incoming Officers are encouraged to familiarize themselves with the responsibilities of their new role.
 1. A Transition Meeting should be scheduled within three (3) weeks following the Board of Directors meeting at which a Project Director, Speaker, or Chief Returning Officer is elected.
+
+# Manuals
+
+## General
+1. Manuals are defined in [Bylaw 1 section 7.5](../bylaw-1.md).
+
+## Contents
+1. Each Manual shall contain the following chapters:
+   1. "Summary and Structure" - which shall contain the following sections:
+      1. "Role Summary" - which shall summarize the role
+      1. "Transition" - which shall describe the transition process, by referencing this Policy, and where appropriate by giving role-specific details.
+      1. "Executive Structure"
+      1. "Executive Responsibilities"
+      1. "Reporting Structure"
+   1. "Manual of Responsibilities" - which shall contain the following sections:
+      1. "Ongoing Responsibilities" - listing all tasks for which the role is responsible on an on-going basis, and the conditions triggering such tasks when applicable.
+      1. "Time-fixed Responsibilities" - listing all tasks for which the role is responsible at a certain point in time, and the respective points in time, in chronological order. This list shall include an item describing that the role reviews the Manual and relevant Policies, and submits any updates to the Policy and Structures Committee.
+      1. "Optional Responsibilities" - listing all tasks for which the role has, from time to time in its history, been responsible, but without which the role may still be considered to have functioned at a basic level.
+      1. A "Manual on (Responsibility)" section for each responsibility described in the previous three sections which requires more detailed description
+   1. Any other chapters as necessary to fully describe the role.
+1. Manuals may delegate to Policies for even more detailed descriptions of specific responsibilities as necessary.
