@@ -26,16 +26,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-	<h1 class="cover-heading">
+	<h1 class="cover-page">
 		{{ title }}
 		<br/>{{ subtitle }}
 		<br/>University of Toronto Engineering Society
 	</h1>
+	<p class="screen-only cover-page">Last Revision: {{ revdate }}</p>
 	<h1 class="contents">Contents</h1>
 	<div class="screen-only">
 		{% if pdf|lower == 'index' %}
 		<fieldset>
-			<legend>Search the Bylaws and Policies</legend>
+			<legend>Search the governing documents</legend>
 			<p>
 				<label>
 					Find:
@@ -49,7 +50,7 @@
 			<ul id="search-results"><li>Enter a search term above.</li></ul>
 		</fieldset>
 		{% else %}
-		<p>For a list of all Bylaws and Policies, see the <a href="/">index</a>.</p>
+		<p>For a list of all governing documents, see the <a href="/">index</a>.</p>
 		{% endif %}
 	</div>
 	<section class="contents">
