@@ -36,10 +36,10 @@ def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, 
                 for i, j in zip_longest(range(i1, j1), range(i2, j2), fillvalue=None):
                     if i is None:
                         assert j is not None
-                        uneq_ops.append(('insert', j1, j1+1, j, j+1))
+                        uneq_ops.append(('insert', i1+j-i2, i1+j-i2, j, j+1))
                     elif j is None:
                         assert i is not None
-                        uneq_ops.append(('delete', i, i+1, j2, j2+1))
+                        uneq_ops.append(('delete', i, i+1, j2, j2))
                     else:
                         if body1[i].title != body2[j].title:
                             uneq_ops = ops
@@ -86,14 +86,15 @@ def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, 
                         prefixj = (*prefix2, j)
                         if body1[i].title != body2[j].title:
                             yield tag, prefixi, body1[i].title, prefixj, body2[j].title
+                        else:
+                            yield 'equal', prefixi, body1[i].title, prefixj, body2[j].title
                         yield from diff_sections(body1[i].body, body2[j].body, prefixi, prefixj, contextualized or _contextualized)
             elif tag == 'equal':
                 for i, j in zip(range(i1, j1), range(i2, j2), strict=True):
                     prefixi = (*prefix1, i)
                     prefixj = (*prefix2, j)
-                    if body1[i].title == body2[j].title:
-                        yield tag, prefixi, body1[i].title, prefixj, body2[j].title
-                    yield from diff_sections(body1[i].body, body2[j].body, prefixi, prefixj, contextualized or _contextualized)
+                    assert body1[i].title == body2[j].title
+                    yield tag, prefixi, body1[i].title, prefixj, body2[j].title
 
 def diff_lines(a_line: str, b_line: str) -> tuple[str, str]:
     _a_line: list[str] = []
@@ -125,7 +126,7 @@ def main() -> None:
             title = meta['subtitle'] if 'policies' in meta['pdf'].casefold() else meta['title']
             tag = None
             for tag, a_prefix, a_line, b_prefix, b_line in diff_sections(a_chapters, b_chapters):
-                if a_prefix is None:
+                if not a_prefix:
                     a_prefix = ''
                 else:
                     a_prefix = section_to_str(a_prefix + (-1,) * (5 - len(a_prefix))) # type: ignore
@@ -134,7 +135,8 @@ def main() -> None:
                     print(SAME_ROW.format(a_prefix, a_line))
                     continue
                 if tag == 'context':
-                    print(f'<tr><th colspan="2">{title} § {a_prefix}</th></tr>')
+                    th = f'{title} § {a_prefix}' if a_prefix else title
+                    print(f'<tr><th colspan="2">{th}</th></tr>')
                     continue
                 if b_prefix is None:
                     b_prefix = ''
