@@ -435,13 +435,12 @@ subtitle: The Constitution
    1. A simple majority vote of the Board of Directors;
    1. A simple majority vote of the Executive Committee;
    1. A simple majority vote of the incumbents in the corresponding role, with the consent of the Officer overseeing the role (directly or indirectly); or
-   1. A simple majority vote of the Policy and Structures Committee.
 1. Manuals shall be passed or repealed when the corresponding role is created or removed, respectively, by the same body creating or removing the role.
    1. It shall be out of order to amend the Bylaws to create or remove a role without simultaneously passing or repealing, respectively, the corresponding Manual.
    1. The parties listed in section 7.5.4 shall pass a Manual when a role previously created is discovered to be lacking its Manual, and shall repeal a Manual when a role previously removed is discovered to still have a Manual.
       1. In the latter case, the role being nonexistent, the consent of the incumbents as described in section 7.5.4.d is not required.
       1. Notwithstanding section 7.5.5.a, the delay in passing or repealing the Manual does not void the creation or removal, respectively, of the corresponding role.
    1. Changes to the number or Constituency makeup of a role shall not be considered creation or removal of a role (e.g. the creation of Class Representatives for the PEY Constituency does not create a new role).
-1. When a Manual is amended, it shall be noted which of the parties listed in section 7.5.4 did so.
+1. When a Manual is amended, it shall be noted, within the relevant Manual, which of the parties listed in section 7.5.4 did so.
 1. Notice shall be given to the Board of Directors when a Manual is amended by a party listed after the Board of Directors in section 7.5.4.
 1. Amendments to Manuals by a party listed in section 7.5.4 may not be reversed or substantively defeated by parties which come after them in the same list until one (1) year after the amendment was made.
