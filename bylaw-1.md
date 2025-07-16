@@ -433,8 +433,8 @@ subtitle: The Constitution
 1. Manuals may only be amended by:
    1. A simple majority vote of a General Meeting;
    1. A simple majority vote of the Board of Directors;
-   1. A simple majority vote of the Executive Committee;
-   1. A simple majority vote of the incumbents in the corresponding role, with the consent of the Officer overseeing the role (directly or indirectly); or
+   1. A simple majority vote of the Executive Committee; or
+   1. A simple majority vote of the incumbents in the corresponding role, with the consent of the Officer overseeing the role (directly or indirectly).
 1. Manuals shall be passed or repealed when the corresponding role is created or removed, respectively, by the same body creating or removing the role.
    1. It shall be out of order to amend the Bylaws to create or remove a role without simultaneously passing or repealing, respectively, the corresponding Manual.
    1. The parties listed in section 7.5.4 shall pass a Manual when a role previously created is discovered to be lacking its Manual, and shall repeal a Manual when a role previously removed is discovered to still have a Manual.
