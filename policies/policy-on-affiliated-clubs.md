@@ -1,5 +1,5 @@
 ---
-revdate: April 14, 2023
+revdate: June 27, 2025 by the Executive Committee
 title: Policy Number "2015-06-21"
 pdf: policies/Policy on Affiliated Clubs
 subtitle: Policy on Affiliated Clubs
@@ -40,6 +40,7 @@ subtitle: Policy on Affiliated Clubs
 1. Members of affiliated clubs must not:
    1. Violate the University of Toronto Student Code of Conduct Section B-1.
    1. Commit other forms of harassment (as defined in the University of Toronto Statement on Prohibited Discrimination and Discriminatory Harassment).
+   1. Misuse funds granted by the Engineering Society or the Skule Endowment Fund, including without limitation by spending funds in a manner other than approved by the Board of Directors.
    1. Commit or attempt to commit other acts deemed inappropriate by both the President and Vice-President Student Life.
    1. Fail to report violations of this standard of behaviour to an appropriate authority (whether to appropriate individuals the Engineering Society, to appropriate individuals within the University of Toronto, or appropriate law enforcement authorities).
 1. If a club leader is made aware that a member of their club has committed a violation outlined in Section 0.3.8, they should report the incident to the Ombudsperson in accordance with the Society’s [Policy on Complaints](policy-on-complaints.md).
@@ -115,11 +116,14 @@ subtitle: Policy on Affiliated Clubs
 
 ## Process of Loss of Engineering Club Status
 1. Full Status Affiliation can only be removed prematurely by a two-thirds majority vote at a meeting of the Board of Directors. Trial Status Affiliation may be removed by the Vice-President Student Life at the next Club Affiliation Committee meeting.
+   1. Once de-affiliated, a club may not re-apply for affiliation until one (1) year after de-affiliation.
+   1. Re-affiliation, if granted, will be at Trial Status.
 1. The Vice President Student Life will maintain a record of all violations committed by Affiliated Clubs in the history of their affiliation.
    1. All violations are either in an ‘active’ or ‘inactive’ state. All violations added to the club’s record shall be in an ‘active’ state. Any violation older than 9 years shall be rendered ‘inactive’.
 1. If the Ombudsperson determines that any affiliated club in either trial status or full status violates the standards set forth in the policy Section 1 (Standards for Affiliation), the following process shall be followed:
-   1. The Vice-President Student Life will alert the club of the details of the violation, ask the club for a second time to rectify the situation in a proper and timely manner and note the violation in their record of affiliation violations.
-   1. If the club does not rectify the situation in a proper and timely manner and the club already has an active violation on their record, the Vice-President Student Life shall submit a motion to the Board of Directors to remove their affiliation status. The club will lose access to funding and resources from the Society until the situation has been rectified.
+   1. The Affiliation Committee will alert the club of the details of the violation, demand that the club rectify the situation in a proper and timely manner and take steps to prevent recurrence, in a manner that may be specified by the Affiliation Committee, and note the violation in their record of affiliation violations.
+      1. For cases of misuse of funds (as defined in the Standards for Affiliation), the Affiliation Committee shall, at a minimum, demand that the specific executives responsible for the misuse step down or be removed, and the club will lose access to all Engineering Society and Skule Endowment Fund funding until the Committee's demands are met.
+   1. If the club does not comply, or the issue recurs, and the club already has an active violation on their record, the Vice-President Student Life shall submit a motion to the Board of Directors to remove their affiliation status. The club will lose access to the privileges of affiliation until the situation has been rectified.
    1. If the club decides to appeal the decision of the Vice-President Student Life at the meeting of the Board of Directors, the Board of Directors can decide on one of the following recommended outcomes:
       1. Agree with the decision of the Vice-President Student Life and remove the club’s Affiliation Status.
       1. Disagree with the decision of the Vice-President Student Life and reinstate the club’s Affiliation Status to what it was before the offense in question. The violation will not be added to the club’s record.
