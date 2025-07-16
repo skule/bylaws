@@ -1,5 +1,5 @@
 ---
-revdate: February 27, 2025
+revdate: July 29, 2025
 title: Bylaw 1
 pdf: Bylaw 1
 subtitle: The Constitution
@@ -411,16 +411,13 @@ subtitle: The Constitution
 1. Policies shall:
    1. Describe details of the functioning of the Society; and
    1. Provide continuity in the Society.
-1. Policies may only be passed, repealed, or amended by a majority vote of:
-   1. A General Meeting;
-   1. A meeting of the Board of Directors; or
-   1. A meeting of the Officers.
-1. When a policy is passed, repealed, or amended, it shall be noted which governing body of the Society did so (i.e., a General Meeting, Board of Directors, or the Officers).
-1. A notice shall be given to the Board of Directors when a policy is repealed, reinstated or amended at a Meeting of the Officers.
-1. Policies passed, repealed, or amended at a General Meeting may only be repealed, re-instated, or amended at another General Meeting for a period of one (1) year.
-1. Policies passed, repealed, or amended at a meeting of the Board of Directors may only be repealed, re-instated, or amended at another meeting of the Board, or a General Meeting for a period of one (1) year.
-1. Policies passed, repealed, or amended at a meeting of the Officers may be repealed, amended, or re-instated at another meeting of the Officers, a Board of Directors meeting, or a General Meeting for a period of one (1) year.
-1. One (1) year after a policy has been passed, repealed, or amended; it may again be amended or repealed by anybody outlined in Section 7.4.2.
+1. Policies may only be passed, repealed, or amended by:
+   1. A simple majority vote of a General Meeting;
+   1. A simple majority vote of the Board of Directors; or
+   1. A simple majority vote of the Executive Committee.
+1. When a policy is passed, repealed, or amended, it shall be noted, within the relevant Policy, which of the parties listed in section 7.4.2 did so.
+1. A notice shall be given to the Board of Directors when a policy is passed, repealed, or amended by a party listed after the Board of Directors in section 7.4.2.
+1. Policies passed, Policies repealed, and Policy amendments by a party listed in 7.4.2 may not be repealed, passed, or reversed or substantively defeated, respectively, by parties which come after them in the same list until one (1) year after the amendment was made.
 
 ## Manuals
 1. Each role (including members of bodies) defined in the Bylaws shall have a Manual, named "(Name of Role) Manual", with role name suffixes such as "Director" or "Manager" removed (unless the resulting title would be too confusing).

@@ -4,8 +4,7 @@
 	"files.trimTrailingWhitespace": true,
 	"markdown.extension.orderedList.marker": "one",
 	"[markdown]": {
-		"editor.wordWrap": "bounded",
-		"editor.wordWrapColumn": 100,
+		"editor.wordWrap": "on",
 		"editor.fontFamily": "Arial",
 		"editor.tabSize": 3,
 		"editor.insertSpaces": true,
