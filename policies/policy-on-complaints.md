@@ -1,5 +1,5 @@
 ---
-revdate: February 27, 2025 by the Board of Directors
+revdate: July 29, 2025 by the Board of Directors
 title: Policy Number "2013-02-01"
 pdf: policies/Policy-on-Complaints
 subtitle: Policy on Complaints
@@ -21,6 +21,7 @@ subtitle: Policy on Complaints
    1. any form of sexual violence or sexual harassment in the University of Toronto Policy on Sexual Violence and Sexual Harassment
    1. any form of harassment outlined in the University of Toronto Statement on Prohibited Discrimination and Discriminatory Harassment
    1. any violation of the Standard of Behavior defined in the [Orientation Governance Policy](orientation-governance-policy.md), for complaints against members of the Orientation Committee
+   1. any violation of the Standards for Affiliation defined in the [Policy on Affiliated Clubs](policy-on-affiliated-clubs.md)
    1. any form of defamation or slander that injures the complainant's reputation with false statements of fact
    1. failure to perform duties as required by the position held by the subject of the complaint, or as directed by an overseeing body with the authority to so direct them
 
@@ -87,7 +88,7 @@ subtitle: Policy on Complaints
       1. information not germane to the complaint
    1. The possible recommendations mentioned in section 4.0.3.a.v are to:
       1. Recall subject of complaint from their position.
-      1. Revoke affiliation of club for which subject of complaint was acting.
+      1. Take steps under the [Policy on Affiliated Clubs, section 0.9](policy-on-affiliated-clubs.md).
       1. Mandate additional training.
       1. Require subject of complaint to issue official apology.
       1. Escalate matter to campus police.
@@ -106,6 +107,7 @@ subtitle: Policy on Complaints
    1. The body in section 4.0.3.d.iv shall consider the recommendation(s) and decide whether to execute it/them fully, partially, or not at all.
       1. For Project Directors and Neutral Officers, this body is the Board of Directors.
       1. For Directors of the Board and Officers, this body is a General Meeting, unless the Board dispenses of this requirement by failing to pass the motion calling such a General Meeting.
+      1. For members of Affiliated Clubs, this body is the Affiliation Committee.
 1. All complaints and related documents will be archived by the investigator, for the possibility of reopening a withdrawn case or for the use of reference as a precedent.
 
 # Appeals Process
