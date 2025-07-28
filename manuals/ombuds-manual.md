@@ -5,6 +5,31 @@ pdf: policies/Ombuds Manual
 subtitle: A Manual for the Ombudsperson
 ---
 
+# For Candidates
+
+## Role Summary
+1. The Ombudsperson is a Neutral Officer chiefly responsible for the investigation of complaints against EngSoc roles, but also for running the Census, enforcing training requirements, and other impartial duties.
+
+## General Responsibilities
+1. The Ombudsperson receives all formal complaints (except against themself) and investigates most of them in accordance with the [Policy on Complaints](../policies/policy-on-complaints.md).
+1. The Ombudsperson hosts the Fall and Spring EngSoc Meet & Greet events to allow Members to familiarize themselves with EngSoc and its roles.
+1. The Ombudsperson runs the Skule™ Census annually and reports to the Board of Directors on its results.
+1. The Ombudsperson has other responsibilities listed in Chapter 2 of this Manual.
+
+## Required Qualifications
+1. The Ombudsperson must be impartial in all aspects of the role.
+
+## Useful Qualifications
+1. Skills and/or experience in the following are beneficial for the Ombudsperson to have:
+   1. Dispute resolution
+   1. Research, especially surveying a population
+   1. Investigation and fact-finding
+1. Knowledge of the workings of the Engineering Society is an asset.
+
+## Role Takeaways
+1. An Ombudsperson missing qualifications listed in section 0.3 may gain them by exercising the role.
+1. The Ombudsperson role is useful experience for a prospective candidate for [Speaker of the Board](speaker-manual.md) to have.
+
 # Summary and Structure
 
 ## Role Summary
