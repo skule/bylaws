@@ -39,7 +39,7 @@ subtitle: A Manual for the Ombudsperson
 1. The Ombudsperson shall transition their successor as described in the [Transition Policy](../policies/transition-policy.md).
 
 ## Executive Structure
-1. The Ombudsperson has no regular executive structure.
+1. The Ombudsperson does not typically have executives.
 
 ## Executive Responsibilities
 1. All responsibilities of the role fall on the Ombudsperson.
