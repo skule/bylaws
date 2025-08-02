@@ -51,7 +51,7 @@ subtitle: Transition Policy
       1. "Useful Qualifications" - which shall list qualifications, including experience, that will make it easier for the candidate to succeed in the role, or which will amplify their success.
       1. "Role Takeaways" - which shall list benefits of holding the position - including without limitation experience, pathways to EngSoc roles with greater influence, hard/soft skills for future career prospects, etc. - and which may refer to the "Useful Qualifications" section to indicate that qualifications absent at hire may be gained through the role.
    1. "Summary and Structure" - which shall contain the following sections:
-      1. "Role Summary" - which shall summarize the role as a reminder for the incumbent.
+      1. "Role Summary" - which shall summarize the role as a reminder for the incumbent and refer the reader to the Bylaw definition of the role.
       1. "Transition" - which shall describe the transition process, by referencing this Policy, and where appropriate by giving role-specific details.
       1. "Executive Structure"
       1. "Executive Responsibilities"
