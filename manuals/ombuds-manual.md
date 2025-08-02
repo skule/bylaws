@@ -1,7 +1,7 @@
 ---
 revdate: May 31, 2025
 title: Ombuds Manual
-pdf: policies/Ombuds Manual
+pdf: manuals/Ombuds Manual
 subtitle: A Manual for the Ombudsperson
 ---
 
