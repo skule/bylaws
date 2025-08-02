@@ -1,45 +1,49 @@
 ---
 revdate: April 30, 2026
-title: Ombuds Manual
-pdf: manuals/Ombuds Manual
-subtitle: A Manual for the Ombudsperson
+title: Speaker Manual
+pdf: manuals/Speaker Manual
+subtitle: A Manual for the Speaker of the Board
 ---
 
 # For Candidates
 
 ## Role Summary
-1. The Ombudsperson is a Neutral Officer chiefly responsible for the investigation of complaints against EngSoc roles, but also for running the Census, enforcing training requirements, and other impartial duties.
+1. The Speaker of the Board is a Neutral Officer chiefly responsible for chairing meetings of the Board of Directors, but also for interpreting Bylaws and Rules of Order, overseeing and supporting other Neutral Officers, and other impartial duties.
 
 ## General Responsibilities
-1. The Ombudsperson receives all formal complaints (except against themself) and investigates most of them in accordance with the [Policy on Complaints](../policies/policy-on-complaints.md).
-1. The Ombudsperson hosts the Fall and Spring EngSoc Meet & Greet events to allow Members to familiarize themselves with EngSoc and its roles.
-1. The Ombudsperson runs the Skule™ Census annually and reports to the Board of Directors on its results.
-1. The Ombudsperson has other responsibilities listed in Chapter 2 of this Manual.
+1. The Speaker organizes and chairs all meetings of the Board of Directors, and chairs General Meetings, in accordance with the Bylaws, the [Standing Rules](../standing-rules.md), and Robert's Rules of Order.
+1. The Speaker makes rulings on the interpretation of Bylaws and Rules of Order both during meetings and asynchronously.
+1. The Speaker oversees the [Ombudsperson](ombuds-manual.md) and [Chief Returning Officer](returning-manual.md), and takes over their responsibilities in certain situations.
+1. The Speaker has other responsibilities listed in Chapter 2 of this Manual.
 
 ## Required Qualifications
-1. The Ombudsperson must be impartial in all aspects of the role.
+1. The Speaker must be impartial in all aspects of the role.
+1. The Speaker must be familiar with the Bylaws of the Society.
 
 ## Useful Qualifications
-1. Skills and/or experience in the following are beneficial for the Ombudsperson to have:
-   1. Dispute resolution
-   1. Research, especially surveying a population
-   1. Investigation and fact-finding
+1. Skills and/or experience in the following are beneficial for the Speaker to have:
+   1. Meetings with formal rules of order, e.g. Model United Nations
+   1. Attendance at meetings of the Board of Directors
+   1. Chairing meetings
+   1. Policy interpretation
+   1. All qualifications mentioned in the [Ombuds Manual, section 0.3](ombuds-manual.md)
+   1. All qualifications mentioned in the [Returning Manual, section 0.3](returning-manual.md)
 1. Knowledge of the workings of the Engineering Society is an asset.
 
 ## Role Takeaways
-1. An Ombudsperson missing qualifications listed in section 0.3 may gain them by exercising the role.
-1. The Ombudsperson role is useful experience for a prospective candidate for [Speaker of the Board](speaker-manual.md) to have.
+1. A Speaker missing qualifications listed in section 0.3 may gain them by exercising the role.
+1. The Speaker role is useful experience for a prospective candidate for [President](president-manual.md) to have.
 
 # Summary and Structure
 
 ## Role Summary
-1. The Ombudsperson is an impartial role, defined in [Bylaw 2 section 3.2](../bylaw-2.md), chiefly responsible for the investigation of complaints against EngSoc roles, but also for other miscellaneous tasks demanding neutrality and impartiality.
+1. The Ombudsperson is an impartial role chiefly responsible for the investigation of complaints against EngSoc roles, but also for other miscellaneous tasks demanding neutrality and impartiality.
 
 ## Transition
 1. The Ombudsperson shall transition their successor as described in the [Transition Policy](../policies/transition-policy.md).
 
 ## Executive Structure
-1. The Ombudsperson does not typically have executives.
+1. The Ombudsperson has no regular executive structure.
 
 ## Executive Responsibilities
 1. All responsibilities of the role fall on the Ombudsperson.

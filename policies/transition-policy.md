@@ -51,11 +51,11 @@ subtitle: Transition Policy
       1. "Useful Qualifications" - which shall list qualifications, including experience, that will make it easier for the candidate to succeed in the role, or which will amplify their success.
       1. "Role Takeaways" - which shall list benefits of holding the position - including without limitation experience, pathways to EngSoc roles with greater influence, hard/soft skills for future career prospects, etc. - and which may refer to the "Useful Qualifications" section to indicate that qualifications absent at hire may be gained through the role.
    1. "Summary and Structure" - which shall contain the following sections:
-      1. "Role Summary" - which shall summarize the role as a reminder for the incumbent.
+      1. "Role Summary" - which shall summarize the role as a reminder for the incumbent and refer the reader to the Bylaw definition of the role.
       1. "Transition" - which shall describe the transition process, by referencing this Policy, and where appropriate by giving role-specific details.
-      1. "Executive Structure"
-      1. "Executive Responsibilities"
-      1. "Reporting Structure"
+      1. "Executive Structure" - which shall either describe the structure of the executive team which reports to the role (including formal direct reports defined in the Bylaws, if applicable); state that the role's executive structure varies enough due to its nature so as to defy consistent description; or state that the role has no executives.
+      1. "Executive Responsibilities" - which shall either briefly summarize the responsibilities of each executive listed in the "Executive Structure" section, or repeat the statement of the "Executive Structure" section.
+      1. "Reporting Structure" - which shall list all direct reports from the role, and/or any roles to which the role is informally subordinate.
    1. "Manual of Responsibilities" - which shall contain the following sections:
       1. "Ongoing Responsibilities" - listing all tasks for which the role is responsible on an on-going basis, and the conditions triggering such tasks when applicable.
       1. "Time-fixed Responsibilities" - listing all tasks for which the role is responsible at a certain point in time, and the respective points in time, in chronological order. This list shall include an item describing that the role reviews the Manual and relevant Policies, and submits any updates to the Policy and Structures Committee.
