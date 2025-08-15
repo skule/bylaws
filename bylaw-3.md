@@ -1,5 +1,5 @@
 ---
-revdate: March 29, 2025
+revdate: August 18, 2025
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -220,7 +220,6 @@ subtitle: The Elections Bylaw
 1. The Nomination, Campaign, and Voting Periods for the following Internal Representative positions shall be the same as those for the First Year Board of Directors election:
    1. The First Year Chair, elected by the First Year student body;
    1. The Fourth Year Chair, elected by the Fourth Year student body; and
-   1. The Part Time Students' Chair, elected by the Part Time Membership.
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
 
@@ -477,6 +476,7 @@ subtitle: The Elections Bylaw
    1. Ask the President of the Society for a mention during a meeting;
    1. Usage of any logo in a candidate's campaign material; and
    1. A public statement by a club executive makes endorsing a candidate.
+1. Candidates are not permitted to directly reference other candidates in their campaign; descriptions of candidates must only be of themselves, such as "I am the only candidate who ..." et cetera.
 
 ## In-Class Speeches
 1. In-class speeches before a class starts or after it ends are permitted, but permission needs to be granted from the lecturer. In-class speeches are not permitted for all candidates in any courses in which any candidates are lecturers.
