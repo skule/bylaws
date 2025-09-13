@@ -110,10 +110,6 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. The Gradball Director shall attend a form of or equivalent of Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
 1. The Gradball Director shall be overseen by the Vice-President Finance.
 
-## Community Outreach Director
-1. There shall be a Community Outreach Director, who shall be responsible for the Society's activities surrounding volunteerism, community service and charity.
-1. The Community Outreach Director shall be overseen by the Vice-President Student Life.
-
 ## Sponsorship Director
 1. There shall be a Sponsorship Director, who shall be responsible for:
    1. The development and maintenance of sponsorship packages for Engineering Society activities, including Orientation, Cannonball, and Gradball;
