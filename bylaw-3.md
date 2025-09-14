@@ -456,7 +456,7 @@ subtitle: The Elections Bylaw
    1. Any additional criteria deemed necessary by the CRO.
       1. The CRO will disclose these requirements to all candidates at the All Candidates Meeting. Failure to adhere to undisclosed criteria will not be considered a penalizable offense.
 1. Any content posted in approved social media locations must satisfy all other applicable sections of Bylaw 3.
-1. Campaign material may not be reposted or shared by any other account. It is the candidate’s responsibility to ensure their campaign material is not redistributed by any account that has not been approved by the CRO for that election period.
+1. Campaign material may not be reposted or shared by any other account, including the candidate’s personal account. It is the candidate’s responsibility to ensure their campaign material is not redistributed by any account that has not been approved by the CRO for that election period.
 1. All activity on campaign accounts must cease at the conclusion of the campaign period and remain inactive until the release of the election results. Following the announcement of results, candidates may use their campaign accounts at their discretion.
 1. The CRO shall be as permissible as is reasonable in their approval of campaign activities under this section.
    1. Should unforeseeable and extenuating circumstances require it, approval of social media campaigning activities may be revoked by the CRO at any time, at which point further campaigning activities must cease in the location(s) in question.
@@ -485,10 +485,15 @@ subtitle: The Elections Bylaw
 
 ## Campaign Assistants
 1. A Campaign Assistant is any person asked by a candidate to help, as a volunteer, in their campaign.
-   1. A candidate may have a maximum of one (1) campaign assistant.
+   1. A candidate may have a maximum of one (1) Campaign Assistant.
+   1. A person may not serve as a Campaign Assistant for more than one candidate in the same election cycle.
 1. Campaign Assistants must be Members.
-1. Campaign Assistants may not be Members of the EngSoc Board of Directors, EngSoc Officers, or UTSU Executives.
-1. Campaign Assistants may not be incumbent in the role in which their candidate is running for.
+1. Campaign Assistants may not be:
+   1. Members of the EngSoc Board of Directors
+   1. EngSoc Officers
+   1. UTSU Executives
+   1. Candidates for positions for which Campaign Assistants are permitted in the same election cycle (e.g. elected positions)
+   1. The incumbent in the role for which their candidate is running
 1. Candidates must submit the information of their Campaign Assistant (Name, Discipline/Year, and Student Number) to the CRO prior to the Campaign Assistant performing any duties of the role.
 1. Candidates are expected to ensure their Campaign Assistants are aware of and comply with the rules of the election.
 1. Any violation of the rules by the Campaign Assistant is understood to be a violation on behalf of the candidate.
@@ -513,7 +518,7 @@ subtitle: The Elections Bylaw
    1. Playing loud music; and/or
    1. Creating a mess for cleaning staff.
 1. Candidates are not allowed to create any campaign videos.
-1. The official language of campaigning is English. Should a candidate wish to create materials and/or deliver speeches in another language, they must provide an accurate and equivalent English translation that appears in advance of any such content.
+1. The official language of campaigning is English. Candidates wishing to use another language must supply an accurate and equivalent English translation, to be provided prior to the dissemination or delivery of the non-English material.
    1. Providing a false or misleading translation shall constitute a blatant breach of this rule.
 1. Campaigning messages and/or campaigning material may not be posted in group chats/servers whose original purpose of creation was not campaigning.
 
