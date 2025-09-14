@@ -51,9 +51,11 @@ subtitle: The Discipline Clubs and Class Representatives Bylaw
 
 ## Class Representatives
 1. There shall be at most two (2) Class Representatives per discipline per year. Class Representatives for a PEY constituency shall be optional at the discretion of the appropriate Discipline Club.
-   1. Class Representatives shall have the option to be a Faculty Council Representative, holding one (1) vote on the Council.
-      1. If there are two (2) Class Representatives for a particular discipline or year, at most one may hold a vote on Faculty Council as determined by the representatives themselves. This decision shall be communicated to the Vice-President Academic at least three weeks prior to  the first Faculty Council meeting of their term. In the event Class Representatives do not communicate a decision to the Vice-President Academic within this time frame, then the Vice-President Academic shall appoint a Class Representative to Faculty Council by their own prerogative.
-      1. If Class Representatives do not wish to participate in Faculty Council, they must communicate this decision to the Vice-President Academic at least three weeks prior to the first Faculty Council meeting of their term. In the event of a Class Representative choosing not to participate in Faculty Council, the Vice-President Academic shall appoint a Faculty Council Representative through an application process made accessible to all students in the relevant year and discipline.
+1. Class Representatives shall have the option to be a Faculty Council Representative, holding one (1) vote on the Council. A decision not to serve on Faculty Council shall be communicated to the Vice-President Academic at least three weeks prior to the first Council meeting of their term.
+   1. If there are two (2) Class Representatives for a particular discipline or year, at most one may hold a vote on Faculty Council as determined by the representatives themselves and communicated within the same time frame.
+   1. The Vice-President Academic shall appoint a Faculty Council Representative through an application process made accessible to all students in the relevant year and discipline in the event that:
+      1. the decision is not communicated within the given time frame, or
+      1. no eligible Class Representatives wish to serve on Faculty Council.
 1. A Class Representative shall be automatically recalled upon cessation of their membership of the constituency that elected them.
 1. The role of a class representative includes, but is not limited to:
    1. Regularly soliciting feedback from their constituency regarding academic matters and present said feedback to the appropriate parties (e.g. Professors, Teaching Assistants, and/or Relevant Faculty Members).
