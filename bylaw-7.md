@@ -65,5 +65,5 @@ subtitle: The Discipline Clubs and Class Representatives Bylaw
    1. Preparing a transition document for onboarding future class representatives of their respective constituency.
 1. At the discretion of their Discipline Club Chair and the Vice-President Academic or the President, a Class Representative shall be moved to be recalled at a subsequent meeting of the Board under the following circumstances:
    1. Cessation of their membership of the constituency or constituencies which elected them.
-   1. Neglect of their duties as described in Section 3.0.3.
+   1. Neglect of their duties as described in Section 3.0.4.
 1. A Class Representative may be recalled by referendum of the constituency that elected them, as described in [Bylaw 3 section 6.2](bylaw-3.md).
