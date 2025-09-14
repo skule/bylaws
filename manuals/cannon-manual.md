@@ -143,4 +143,13 @@ subtitle: A Manual for the Cannon Editor
 1. TODO
 
 ## Time-fixed Responsibilities
-1. TODO
+1. Upon being hired, the Cannon Editor begins recruiting executives to fill the structure described in section 1.2 by means of short interviews.
+1. By **TODO** of their term, the Summer issue of *The Cannon* is finalized and sent for printing.
+1. By **TODO** of their term, the printed issues of *The Cannon* are provided to the Orientation Committee for inclusion in F!rosh Kits.
+1. By September 1st of their term, the Summer issue of *The Cannon* is published.
+1. By **TODO** of their term, the Fall issue of *The Cannon* is finalized and sent for printing.
+1. By November 15th of their term, the Fall issue of *The Cannon* is published.
+1. By **TODO** of their term, the Winter issue of *The Cannon* is finalized and sent for printing.
+1. By January 15th of their term, the Winter issue of *The Cannon* is published.
+1. By **TODO** of their term, the Spring issue of *The Cannon* is finalized and sent for printing.
+1. By March 15th of their term, the Spring issue of *The Cannon* is published.
