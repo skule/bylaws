@@ -152,13 +152,8 @@ subtitle: The Constitution
 ## General
 1. The Officers of the Society shall be the President, the Vice-President Finance, the Vice-President Communications, the Vice-President Academic and the Vice-President Student Life.
 1. Each Officer shall be elected by the Membership, as defined in [Bylaw 3](bylaw-3.md).
-1. In case of infirmity, death, resignation, or other form of ineligibility of an Officer:
-   1. The President shall assume said Officer's responsibilities, unless the President's position is the one in question, in which case the Vice-President Finance shall assume the President's responsibilities;
-   1. An Election for said Officer's position shall be held as early as possible, as described in [Bylaw 3](bylaw-3.md); and
-   1. Should the Vice-President Finance be unable to fulfill these responsibilities, the following order of succession shall apply: Vice-President Communications, Vice-President Academic, Vice-President Student Life, and Speaker; and
-   1. All other Officers may be candidates to replace said Officer, by resigning from their positions.
 1. An Officer, once elected, will not be considered eligible to run in an election for the same or substantially similar position.
-1. Except in cases of Section 3.0.3, no person may hold two Officer positions simultaneously.
+1. Except in cases of Section 3.8, no person may hold two Officer positions simultaneously.
 1. The term of office for each Officer shall commence when they take the Oath of Office and shall end upon the respective incoming Officer's Oath of Office the following year.
 1. Each Officer shall oversee Directors, as specified in [Bylaw 2](bylaw-2.md).
 1. Each Officer shall have such other duties as may be outlined in Bylaws or Policies.
@@ -217,6 +212,25 @@ subtitle: The Constitution
 ## Recall
 1. An Officer shall be automatically recalled upon cessation of their membership of the Society.
 1. An Officer may only be recalled by a two-thirds vote at a General Meeting called for that purpose.
+
+## Succession
+1. In case of infirmity, death, resignation, recall, or other form of vacancy of a Vice-President position, the President shall become simultaneously the Interim Vice-President in question.
+1. In case of infirmity, death, resignation, recall, or other form of vacancy of the President position, the first non-vacant role in the following order of succession shall become simultaneously both the Interim President and Interim Vice-Presidents corresponding to all vacant Vice-President roles:
+   1. Vice-President Finance
+   1. Vice-President Communications
+   1. Vice-President Academic
+   1. Vice-President Student Life
+   1. Speaker
+1. An Interim Officer assumes all the rights and responsibilities of the corresponding vacant Officer position, except as described in section 3.8.5.
+1. An Election for each vacant Officer's position shall be held as early as possible, in accordance with [Bylaw 3 section 2.4](bylaw-3.md).
+   1. All other Officers may be candidates to replace said Officer only by resigning from their positions.
+1. In case of vacancy of any Officer position, the Board may appoint Acting Vice-Presidents at a Special Meeting called for that purpose or at a regular meeting.
+   1. Only the Interim President may move to appoint a corresponding Acting Vice-President for the Vice-President role to which they were elected.
+   1. Only the Interim Vice-President in question may move to appoint a corresponding Acting Vice-President.
+   1. Only Members of the Society, or Alumni who previously held the Vice-President role in question, may be appointed Acting Vice-President.
+   1. If approved by the Board with a two-thirds majority vote, at the end of the meeting the new Acting Vice-President assumes all the rights and responsibilities of the corresponding (elected or Interim) Vice-President instead of that Vice-President, with the exceptions of signing authority and of voting at the Board or in committees, which become the only remaining rights and responsibilities of that Vice-President until the end of the Acting Vice-President's term.
+   1. The term of an Acting Vice-President who replaces an Interim Vice-President ends automatically at the ratification of the election of the corresponding Vice-President.
+   1. The term of an Acting Vice-President who replaces an elected Vice-President ends automatically at the ratification of the election of the President.
 
 # Board of Directors
 
