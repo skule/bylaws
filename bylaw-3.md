@@ -125,7 +125,7 @@ subtitle: The Elections Bylaw
 1. In the case where there is only a single candidate for a position, the candidate will be given two (2) minutes to make a speech, with the appropriate time to field questions from Members, as stated above.
 
 ## By-Elections
-1. Should an Officer position become vacant at least four (4) months before the end of their term, the CRO shall call a by-election as soon as possible.
+1. The CRO shall call a by-election in every month during which an Officer position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
 1. Notification of the By-Election shall be sent by email to all Members.
 1. The Nomination Period shall be five (5) business days.
    1. If no nominations have been received by the deadline, the CRO shall re-open nominations for at least three (3) business days.
