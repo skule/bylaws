@@ -28,7 +28,6 @@ subtitle: The Officers Bylaw
    1. Liaising with external student organizations.
 1. The President shall wear the white firefighter’s hardhat for the entire duration of all General Meetings and Meetings of the Board of Directors.
 1. The President shall have the authority to execute any action or act on the Society’s behalf in any matter authorized by legislation, the Constitution, Bylaws, or Resolution of the Board unless it has been specifically assigned to another person.
-1. The President shall strike the Student Choice Awards Committee no later than the September Board of Directors meeting.
 1. The President is responsible for the oversight of the Orientation Chair and aiding in the creation of an Orientation Report, as outlined in [Bylaw 2](bylaw-2.md).
 
 # Vice-Presidents
