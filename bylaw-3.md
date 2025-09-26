@@ -220,7 +220,6 @@ subtitle: The Elections Bylaw
 1. The Nomination, Campaign, and Voting Periods for the following Internal Representative positions shall be the same as those for the First Year Board of Directors election:
    1. The First Year Chair, elected by the First Year student body;
    1. The Fourth Year Chair, elected by the Fourth Year student body; and
-   1. The Part Time Students' Chair, elected by the Part Time Membership.
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
 
@@ -477,6 +476,7 @@ subtitle: The Elections Bylaw
    1. Ask the President of the Society for a mention during a meeting;
    1. Usage of any logo in a candidate's campaign material; and
    1. A public statement by a club executive makes endorsing a candidate.
+1. Candidates are not permitted to directly reference other candidates in their campaign; descriptions of candidates must only be of themselves, such as "I am the only candidate who ..." et cetera.
 
 ## In-Class Speeches
 1. In-class speeches before a class starts or after it ends are permitted, but permission needs to be granted from the lecturer. In-class speeches are not permitted for all candidates in any courses in which any candidates are lecturers.
@@ -579,13 +579,14 @@ subtitle: The Elections Bylaw
 
 ## General
 1. Voters shall rank candidates on their ballot in order of preference. Voters may rank as many candidates as they prefer.
-1. There shall be a "Re-Open Nominations" option on each ballot.
+1. There shall be a "Re-Open Nominations" option on each ballot whose effect is described in section 11.1.7.
+1. There shall be an option on each ballot to spoil it entirely. The number of spoiled ballots in each election is recorded, but otherwise spoiled ballots do not count towards the results in any way (except in referenda, as specified in section 6.0.1).
 1. Ballots that contain a mark for only one candidate shall be considered to contain a single first-place vote for that candidate.
 1. The following elections shall be held under a Gregory method of Single Transferable Vote system: Officers, Board of Directors, Discipline Club Chairs, Class Representatives, and any other electronic elections at the discretion of the CRO, as described in Section 11.1.
 
 ## Voting Method
 1. Each voter's first preference candidate receives one (1) vote.
-1. The quota of votes needed to win is calculated using the Droop quota, (N/(S+1)))+1, where N is the number of valid first-preference votes in the first round and S is the total number of seats needed to be filled in the election (i.e., fractional votes are dropped). The quota does not change through subsequent rounds.
+1. The quota of votes needed to win is calculated using the Droop quota, (N/(S+1))+1, where N is the number of valid first-preference votes in the first round and S is the total number of seats needed to be filled in the election (i.e., fractional votes are dropped). The quota does not change through subsequent rounds.
 1. If, after all the votes have been transferred, a candidate achieves the quota, then:
    1. They are elected to a seat and are ineligible to receive any more votes.
    1. Their votes are transferred to the voter's next preference at a value of V(C-Q)/C where V is the value of the vote when the candidate was elected, C is the candidate's vote-total when elected, and Q is quota.
@@ -597,7 +598,7 @@ subtitle: The Elections Bylaw
    1. If the voter has not listed any additional preference or was unable to do so, their ballot is exhausted.
 1. Section 11.1.3. through Section 11.1.5. are repeated until:
    1. All of the seats are filled by election; or
-   1. At the end of Section 11.1.4., if the number of eligible candidates is equal to or less than the number of unfilled seats and there is no candidate who can reach the quota, then the election is stopped and those seats are considered vacant and a by-election is held immediately following with the timeline at the CRO's discretion.
+   1. At the end of Section 11.1.4., if the number of eligible candidates is equal to or less than the number of unfilled seats and there is no candidate who can reach the quota, then the election is stopped, the unfilled seats are considered vacant, and a by-election is held immediately following with the timeline at the CRO's discretion.
 1. If "Re-Open Nominations" receives equal to or more than Q votes, the election iterations are stopped and the unfilled seats are reopened in a by-election.
 1. In the event a candidate withdraws or is disqualified between the start of the voting period and the ratification of election results:
    1. Any votes cast where the candidate was the first-preference and there were no further preferences stated will be nullified and will not count towards the quota.
