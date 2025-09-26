@@ -11,7 +11,7 @@ subtitle: Orientation Governance Policy
 1. To aid the Engineering Society in maintaining strong internal control over Orientation while protecting the institutional independence of Orientation and ensuring a quality Orientation experience for incoming first-year students.
 
 ## Overview
-1. The Orientation Chair is the Project Director responsible for F!rosh Week as outlined in [Bylaw 2, Section 1.16](../bylaw-2.md).
+1. The Orientation Chair is the Project Director responsible for F!rosh Week as outlined in [Bylaw 2, Section 1.15](../bylaw-2.md).
 1. The Orientation Chair directly oversees the Orientation budget, a group of upper-year volunteers, and the well-being of the registered incoming students during Orientation Week. The Orientation Chair (or appointed delegates) represents the Engineering Society to the Faculty, other campus groups and divisions, and external stakeholders in the City of Toronto.
 1. Given the substantial amount of discretionary authority the Orientation Chair possesses and the vast number of volunteers involved with Orientation, it is necessary for the Engineering Society to remain actively involved throughout the process.
 1. Given the large number of individuals who hold positions in Orientation as well as other positions within the Engineering Society and the resulting conflicts of interest, it is necessary for Orientation to maintain institutional independence to protect the experience of incoming first-year students.
