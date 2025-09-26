@@ -1,5 +1,5 @@
 ---
-revdate: July 29, 2025
+revdate: September 25, 2025
 title: Bylaw 1
 pdf: Bylaw 1
 subtitle: The Constitution
@@ -228,7 +228,7 @@ subtitle: The Constitution
    1. Only the Interim President may move to appoint a corresponding Acting Vice-President for the Vice-President role to which they were elected.
    1. Only the Interim Vice-President in question may move to appoint a corresponding Acting Vice-President.
    1. Acting Vice-Presidents are subject to the same eligibility requirements and recall provisions as elected Vice-Presidents, with the following exceptions:
-      1. Alumni and EngSoc Members who previously held the Vice-President role in question may also be appointed Acting Vice-President.
+      1. Alumni who previously held the Vice-President role in question, as well as all EngSoc Members, may also be appointed Acting Vice-President.
       1. Acting Vice-Presidents are not subject to automatic recall as described in section 3.7.1.
       1. An Acting Vice-President Finance need not be, nor need the Speaker verify that they are, in their Final Year of an undergraduate program.
       1. Acting Vice-Presidents shall attend within the first month after their appointment, or shall have attended, a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training as described in section 3.0.11.
