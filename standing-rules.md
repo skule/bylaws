@@ -84,3 +84,34 @@ pdf: Standing Rules of Order
    1. Reports may only be submitted when demanded by Bylaws, Policies, or motion of the Executive Committee, the Board, or a General Meeting.
    1. The proper form of a report is "REPORT by (reporter)" or "REPORT by (reporter) on (topic)".
 1. The proper form of all other discussion items is "DISCUSSION by (submitter) on (topic)".
+
+## Elections by Resolution
+
+1. When a resolution directs the Speaker to conduct "the nominations and election process" (henceforth a "motion to conduct elections") for one or more positions, the process in question is the one described below in this section, unless a different process specified in the Bylaws applies.
+   1. If such resolution directs a person other than the Speaker to do so, the same process applies, with references to the Speaker substituted by the person directed.
+1. The Speaker shall first call for nominations.
+   1. Any eligible candidate may nominate themself, without requiring a second.
+   1. Any Member may nominate any eligible candidate who accepts the nomination.
+   1. The Speaker shall continue to prompt for nominations until none are supplied.
+1. After nominations have been made, the Speaker shall offer each nominee the opportunity to speak for their candidacy.
+   1. The order of the speeches is at the Speaker's discretion.
+   1. Candidates nominated by others may yield their speech to their nominator, with the latter's consent.
+   1. The length of the speeches may be limited by the Bylaws or else at the Speaker's discretion.
+   1. The Speaker may at their discretion allow time for questions to candidates.
+1. After speeches and questions, the Speaker:
+   1. sends all candidates out of the (physical or online) room, and
+   1. may allow time for discussion of candidates.
+1. If there are no more candidates than positions available, then after any discussion has concluded:
+   1. The Speaker shall ask for objections to the election of all candidates.
+   1. If there are no objections from voters, all candidates shall be elected.
+   1. If any voter objects, the Speaker shall sequentially conduct voting for each candidate as if on a motion to elect that individual candidate.
+1. If there are more candidates than positions available, then after any discussion has concluded:
+   1. The Speaker may, at their discretion based on the discussion, ask for objections to the election of a particular subset of candidates.
+      1. If there are no objections from voters, that subset shall be elected and the process ends here.
+      1. If any voter objects, section 0.6.6.b proceeds as normal.
+   1. The Speaker shall prompt for, and record, votes for each candidate and abstentions.
+   1. If a candidate receives a majority, they shall be elected immediately and section 0.6.6.d shall proceed with that candidate removed.
+   1. The Speaker shall sequentially conduct voting for each candidate as if on a motion to elect that individual candidate.
+      1. The order of this sequence shall be in descending order of the votes in section 0.6.6.b.
+      1. Ties in this order shall be broken by the Speaker's discretion.
+      1. Voters abstaining in section 0.6.6.b shall be barred from voting in section 0.6.6.d.
