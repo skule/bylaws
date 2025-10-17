@@ -89,6 +89,7 @@ pdf: Standing Rules of Order
 
 1. When a resolution directs the Speaker to conduct "the nominations and election process" (henceforth a "motion to conduct elections") for one or more positions, the process in question is the one described below in this section, unless a different process specified in the Bylaws applies.
    1. If such resolution directs a person other than the Speaker to do so, the same process applies, with references to the Speaker substituted by the person directed.
+   1. If such resolution omits the reference to nominations, by instead specifying the nominees, section 0.6.2 shall be skipped.
 1. The Speaker shall first call for nominations.
    1. Any eligible candidate may nominate themself, without requiring a second.
    1. Any Member may nominate any eligible candidate who accepts the nomination.
@@ -102,8 +103,7 @@ pdf: Standing Rules of Order
    1. sends all candidates out of the (physical or online) room, and
    1. may allow time for discussion of candidates.
 1. If there are no more candidates than positions available, then after any discussion has concluded:
-   1. The Speaker shall ask for objections to the election of all candidates.
-   1. If there are no objections from voters, all candidates shall be elected.
+   1. The Speaker may ask if there are objections to the election of all candidates, and if there are no objections from voters, all candidates shall be elected.
    1. If any voter objects, the Speaker shall sequentially conduct voting for each candidate as if on a motion to elect that individual candidate.
 1. If there are more candidates than positions available, then after any discussion has concluded:
    1. The Speaker may, at their discretion based on the discussion, ask for objections to the election of a particular subset of candidates.
@@ -115,3 +115,5 @@ pdf: Standing Rules of Order
       1. The order of this sequence shall be in descending order of the votes in section 0.6.6.b.
       1. Ties in this order shall be broken by the Speaker's discretion.
       1. Voters abstaining in section 0.6.6.b shall be barred from voting in section 0.6.6.d.
+1. An affirmative vote on the motion to conduct elections may not be reconsidered.
+1. A negative vote on the motion to conduct elections leaves the positions vacant.
