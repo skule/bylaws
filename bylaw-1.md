@@ -232,6 +232,7 @@ subtitle: The Constitution
       1. Acting Vice-Presidents are not subject to automatic recall as described in section 3.7.1.
       1. An Acting Vice-President Finance need not be, nor need the Speaker verify that they are, in their Final Year of an undergraduate program.
       1. Acting Vice-Presidents shall attend within the first month after their appointment, or shall have attended, a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training as described in section 3.0.11.
+      1. The Board may recall an Acting Vice-President by a two-thirds vote.
    1. If approved by the Board unanimously (not counting abstentions), at the end of the meeting the new Acting Vice-President assumes all the rights and responsibilities of the corresponding (elected or Interim) Vice-President instead of that Vice-President, with the exceptions of signing authority and of voting at the Board or in committees, which become the only remaining rights and responsibilities of that Vice-President until the end of the Acting Vice-President's term.
    1. The term of an Acting Vice-President who replaces an Interim Vice-President ends automatically when the corresponding elected Vice-President takes office.
    1. The term of an Acting Vice-President who replaces an elected Vice-President ends automatically when the elected President takes office.
