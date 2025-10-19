@@ -104,11 +104,11 @@ pdf: Standing Rules of Order
 1. After any discussion has concluded:
    1. The Speaker may, at their discretion based on the discussion or on previous rounds of voting, ask for objections to the election of a particular set of candidates.
       1. If there are no objections from voters, that set shall be elected and the election ends.
-      1. If any voter objects, section 0.6.6.b onwards shall proceed as normal.
+      1. If any voter objects, section 0.6.5.b onwards shall proceed as normal.
    1. The Speaker shall prompt for, and record, votes for each candidate, votes to reopen nominations, and abstentions.
    1. If a candidate receives a majority, they shall be elected and removed from consideration.
    1. If "reopen nominations" receives a majority, any remaining vacant positions shall remain vacant, and the election ends.
    1. If no option receives a majority, the candidate with the fewest votes shall be removed from consideration.
-   1. If vacant positions remain after electing or eliminating a candidate, then the process shall be repeated from section 0.6.6.a.
+   1. If vacant positions remain after electing or eliminating a candidate, then the process shall be repeated from section 0.6.5.a.
 1. An affirmative vote on the motion to conduct elections may not be reconsidered.
 1. A negative vote on the motion to conduct elections leaves the positions vacant.
