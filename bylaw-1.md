@@ -1,5 +1,5 @@
 ---
-revdate: September 25, 2025
+revdate: October 29, 2025
 title: Bylaw 1
 pdf: Bylaw 1
 subtitle: The Constitution
