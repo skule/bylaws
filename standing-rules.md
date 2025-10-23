@@ -1,5 +1,5 @@
 ---
-revdate: May 29, 2025
+revdate: October 29, 2025
 title: Standing Rules of Order
 pdf: Standing Rules of Order
 ---
