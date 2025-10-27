@@ -229,7 +229,7 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Materials Science and Engineering Discipline Club;
    1. Mechanical Discipline Club;
    1. Mineral Discipline Club; and
-   1. TrackOne Committee.
+   1. TrackOne Club.
 1. The following Ancillary Organizations will have the Vice-President Student Life as a point of contact for their activities that fall within the Society's jurisdiction:
    1. Engineering Athletics Association; and
    1. Skule Nite.
