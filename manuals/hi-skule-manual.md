@@ -171,12 +171,12 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. The Director meets weekly with the executive team and, separately, with the Vice Directors.
 
 ## Time-fixed Responsibilities
+1. Immediately after being elected, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In mid-March of their term, the Directorship runs an event of their choice strongly focused on equity, diversity, and inclusion.
-1. Immediately after the April Board of Directors meeting, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In late May of their term, the Directorship runs Pre-F!rosh.
-1. In June of their term, the Director hires the Vice Directors.
+1. By June of their term, the Director hires the Vice Directors.
 1. In June of their term, the Director submits a preliminary, rough budget to the Finance Committee.
-1. In July of their term, the Director hires all of the Coordinators.
+1. By July of their term, the Director hires all of the Coordinators.
 1. In August of their term, the Director establishes communication and partnership with ESROO.
 1. In August of their term, the Director opens recruitment for the First Year Executive(s) and mentors.
 1. In August of their term, the Director attends Clubs Fair.
@@ -188,11 +188,14 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. During Godiva Week, the Directorship runs the "Are You Smarter Than a Fifth Grader?" event.
 1. In mid-February of their term, the Directorship runs Designapalooza.
 
-## Mentorship Coffeehouse Responsibilities
+## Pre-F!rosh Responsibilities
 1. By SOME POINT, do X
 
 ## Mentorship Coffeehouse Responsibilities
 1. By SOME POINT, do X
 
-## Mentorship Coffeehouse Responsibilities
+## UTHSDC Responsibilities
+1. By SOME POINT, do X
+
+## Designapalooza Responsibilities
 1. By SOME POINT, do X
