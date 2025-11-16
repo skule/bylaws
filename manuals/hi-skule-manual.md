@@ -171,7 +171,6 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. The Director meets weekly with the executive team and, separately, with the Vice Directors.
 
 ## Time-fixed Responsibilities
-1. In mid-February of their term, the Directorship runs Designapalooza.
 1. In mid-March of their term, the Directorship runs an event of their choice strongly focused on equity, diversity, and inclusion.
 1. Immediately after the April Board of Directors meeting, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In late May of their term, the Directorship runs Pre-F!rosh.
@@ -187,6 +186,7 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. In late September of their term, the Directorship runs Mentorship Coffeehouse.
 1. In mid-November of their term, the Directorship runs UTHSDC.
 1. During Godiva Week, the Directorship runs the "Are You Smarter Than a Fifth Grader?" event.
+1. In mid-February of their term, the Directorship runs Designapalooza.
 
 ## Mentorship Coffeehouse Responsibilities
 1. By SOME POINT, do X
