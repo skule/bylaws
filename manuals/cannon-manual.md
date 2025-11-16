@@ -152,4 +152,5 @@ subtitle: A Manual for the Cannon Editor
 1. By **TODO** of their term, the Winter issue of *The Cannon* is finalized and sent for printing.
 1. By January 15th of their term, the Winter issue of *The Cannon* is published.
 1. By **TODO** of their term, the Spring issue of *The Cannon* is finalized and sent for printing.
+1. Before the February Policy and Structures Committee meeting in their term, the Cannon Editor reviews this Manual and submits any updates to the Committee.
 1. By March 15th of their term, the Spring issue of *The Cannon* is published.
