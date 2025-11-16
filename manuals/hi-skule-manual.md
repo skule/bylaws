@@ -37,8 +37,8 @@ subtitle: A Manual for the Hi-Skule™ Director
 
 ## Transition
 1. The Hi-Skule™ Director shall transition their successor as described in the [Transition Policy](../policies/transition-policy.md).
-1. The Hi-Skule™ Director shadows and delegates to the previous Director during the Winter semester, and takes on the full workload of the Directorship at the end of the Winter semester. However, the incumbent Director is always the signing authority for the Directorship and is still ultimately responsible for the Directorship during their true term.
-1. The Hi-Skule™ Director runs Pre-F!rosh with the assistance of the previous Director
+1. The Hi-Skule™ Director runs the Director's-choice event in March with the previous Director shadowing.
+1. The Hi-Skule™ Director runs Pre-F!rosh with the assistance of the previous Director, if the latter is available.
 
 ## Executive Structure
 1. The Vice Director, Events reports to the Director.
