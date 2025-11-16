@@ -92,7 +92,7 @@ subtitle: A Manual for the Speaker of the Board
    1. decides the dates for those meetings,
    1. books rooms, schedules online meetings, and sends electronic calendar invitations for those dates.
 1. Before November of their term, the Speaker shall complete a form of Equity Training and Sexual Violence Prevention and Response Training mandated by the Ombudsperson.
-1. In March of their term, the Speaker reviews this Manual and submits any updates to the Policy and Structures Committee
+1. Before the March Policy and Structures Committee meeting in their term, the Speaker reviews this Manual and submits any updates to the Committee for comment before adopting them in accordance with [Bylaw 1 section 7.5.4.d](../bylaw-1.md).
 1. Before the first day of classes of the first sub-session of Summer, the interim Speaker:
    1. surveys the Directors of the Board for their availability for the May, June, July, and August regular Board meetings,
    1. decides the date for the May regular meeting,
