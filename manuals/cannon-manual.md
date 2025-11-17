@@ -52,6 +52,7 @@ subtitle: A Manual for the Cannon Editor
    1. Distribution Coordinator;
    1. Webmaster; and
    1. Social Media Manager.
+1. The Cannon Editor often also serves as Layout Manager, to give them more control over the final look of the publication.
 
 ## Executive Responsibilities
 1. The Managing Editor is responsible for:
@@ -140,17 +141,28 @@ subtitle: A Manual for the Cannon Editor
 # Manual of Responsibilities
 
 ## Ongoing Responsibilities
-1. TODO
+1. The Cannon Editor represents *The Cannon* externally, including responding to outside inquiries, managing news-stand locations, organizing LeighComm, etc.
+1. The Cannon Editor manages the relationship with the printer and advertising agency, including sending finalized issues for printing, coordinating pickup of printed issues, meeting printing and advertising deadlines, etc.
+   1. The printer is currently All Solutions Printing.
+   1. The advertising agency is currently CU Advertising.
+1. The Cannon Editor maintains the well-being of the executives listed in section 1.2, including:
+   1. planning meetings (for editing, writing, socials, etc.)
+   1. checking in regularly for status, assistance, and feedback as applicable
+   1. generally ensuring that executives feel welcome and included
 
 ## Time-fixed Responsibilities
 1. Upon being hired, the Cannon Editor begins recruiting executives to fill the structure described in section 1.2 by means of short interviews.
-1. By **TODO** of their term, the Summer issue of *The Cannon* is finalized and sent for printing.
-1. By **TODO** of their term, the printed issues of *The Cannon* are provided to the Orientation Committee for inclusion in F!rosh Kits.
-1. By September 1st of their term, the Summer issue of *The Cannon* is published.
-1. By **TODO** of their term, the Fall issue of *The Cannon* is finalized and sent for printing.
-1. By November 15th of their term, the Fall issue of *The Cannon* is published.
-1. By **TODO** of their term, the Winter issue of *The Cannon* is finalized and sent for printing.
-1. By January 15th of their term, the Winter issue of *The Cannon* is published.
-1. By **TODO** of their term, the Spring issue of *The Cannon* is finalized and sent for printing.
+1. In June of their term, the Cannon Editor submits an operating budget to the EngSoc Finance Committee.
+1. By the second Monday of July of their term, the Summer issue of *The Cannon* is finalized and sent for printing.
+1. By the Orientation Committee distribution deadline, or August 1st of their term, whichever is earlier, the printed issues of *The Cannon* are provided to the Orientation Committee for inclusion in F!rosh Kits.
+1. By the first Monday of September of their term, the Summer issue of *The Cannon* is published.
+1. After receiving an invoice for the Summer issue, the Cannon Editor reviews their operating budget in light of Summer issue actuals and submits updates to the budget if necessary.
+1. By the first Monday of November of their term, the Fall issue of *The Cannon* is finalized and sent for printing.
+1. By the third Monday of November of their term, the Fall issue of *The Cannon* is published.
+1. After receiving an invoice for the Fall issue, the Cannon Editor reviews their operating budget in light of Fall issue actuals and submits updates to the budget if necessary.
+1. By the second Monday of January of their term, the Winter issue of *The Cannon* is finalized and sent for printing.
+1. By the fourth Monday of January of their term, the Winter issue of *The Cannon* is published.
+1. After receiving an invoice for the Winter issue, the Cannon Editor reviews their operating budget in light of Winter issue actuals and submits updates to the budget if necessary.
+1. By the first Monday of March of their term, the Spring issue of *The Cannon* is finalized and sent for printing.
 1. Before the February Policy and Structures Committee meeting in their term, the Cannon Editor reviews this Manual with the Vice President, Communications and submits any updates to the Committee for comment before adopting them in accordance with [Bylaw 1 section 7.5.4.d](../bylaw-1.md).
-1. By March 15th of their term, the Spring issue of *The Cannon* is published.
+1. By the third Monday of March of their term, the Spring issue of *The Cannon* is published.
