@@ -55,6 +55,23 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. The First Year Executive(s) report(s) to the Director, the Vice Director, Operations, and the Mentorship Coordinator.
 
 ## Executive Responsibilities
+1. The Vice Director, Events oversees the Events portfolio, including the Logistics, Marketing, and Content Coordinators. Responsibilities include:
+   1. Meeting regularly with the Events team to check in on progress and provide direction.
+   1. Working with the Director to develop a shared vision and event strategy, and translating those into actionable tasks for each Coordinator.
+   1. Reviewing and approving event proposals, timelines, and promotional materials before release, consistent with the overall vision set by the Director.
+   1. Ensuring that branding and messaging across all event communications and materials remain consistent with the overall vision set by the Director.
+   1. Working with the Logistics Coordinator on high-level event logistics such as room bookings, event schedules, and external groups and vendors.
+   1. Supporting the Marketing and Content Coordinators in developing social media campaigns, outreach materials, and event branding.
+   1. Communicating regularly with the Vice Director, Operations to facilitate cross-team coordination (e.g. between Logistics and Finance, or Marketing and Outreach).
+1. The Vice Director, Operations oversees the Operations portfolio, including the Outreach, Mentorship, Webmaster, and Finance Coordinators. Responsibilities include:
+   1. Meeting regularly with the Operations team to monitor progress and provide support.
+   1. Working with the Director to establish operational priorities, and translating those into actionable objectives for each Coordinator.
+   1. Ensuring overall operational efficiency, effective resource management, and strong external engagement.
+   1. Overseeing financial tracking and budgeting together with the Finance Coordinator.
+   1. Ensuring that all outreach and mentorship initiatives remain consistent with the overall vision set by the Director.
+   1. Working with the Webmaster to maintain the Hi-Skule™ website and ensure consistent updates for events and opportunities.
+   1. Managing inventory and procurement of materials for events and workshops.
+   1. Communicating regularly with the Vice Director, Events to facilitate cross-team coordination (e.g. between Finance and Logistics, or Outreach and Marketing).
 1. The Logistics Coordinator(s) is/are responsible for managing all event logistics, including tracking registration, coordinating catering, and ensuring the day of an event runs smoothly. Responsibilities also include:
    1. Creating event registration pages for students.
    1. Creating a detailed schedule of the day(s) and responsibilities of executives and mentors for each event.
@@ -119,6 +136,20 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. Attending all Hi-Skule™ events as a volunteer.
 
 ## Executive Qualifications
+1. The Vice Director, Events should have:
+   1. Strong leadership and organizational skills
+   1. Excellent communication and creative problem-solving abilities
+   1. Ability to manage multiple people and synthesize feedback from diverse teams
+   1. A collaborative mindset and openness to cross-functional teamwork
+   1. Experience with at least some of Google Workspace (Docs, Sheets, Drive), Canva, Zeffy, Slack, and email marketing tools (Mailchimp or equivalent)
+   1. Ideally, experience with event planning, project management, or marketing campaigns
+1. The Vice Director, Operations should have:
+   1. Strong leadership and analytical skills
+   1. Excellent communication and interpersonal abilities
+   1. Strong attention to detail and organizational capabilities
+   1. Ability to manage multiple internal teams and oversee workflows
+   1. Experience with at least some of Google Workspace (Docs, Drive), Zeffy & Stripe, Slack, Wix or WordPress (for website management), and budgeting tools (such as Google Sheets or Microsoft Excel)
+   1. Ideally, experience with budgeting, mentorship programming, or administrative coordination
 1. The Logistics Coordinator(s) should have:
    1. Strong verbal and written communication skills
    1. Good time management and organizational skills
