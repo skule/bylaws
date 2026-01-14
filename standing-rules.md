@@ -1,5 +1,5 @@
 ---
-revdate: May 29, 2025
+revdate: October 29, 2025
 title: Standing Rules of Order
 pdf: Standing Rules of Order
 ---
@@ -84,3 +84,31 @@ pdf: Standing Rules of Order
    1. Reports may only be submitted when demanded by Bylaws, Policies, or motion of the Executive Committee, the Board, or a General Meeting.
    1. The proper form of a report is "REPORT by (reporter)" or "REPORT by (reporter) on (topic)".
 1. The proper form of all other discussion items is "DISCUSSION by (submitter) on (topic)".
+
+## Elections by Resolution
+
+1. When a resolution directs the Speaker to conduct "the nominations and election process" (henceforth a "motion to conduct elections") for one or more positions, the process in question is the one described below in this section, unless a different process specified in the Bylaws applies.
+   1. If such resolution directs a person other than the Speaker to do so, the same process applies, with references to the Speaker substituted by the person directed.
+1. If no nominees were specified by the motion to conduct elections or any appendices, the Speaker shall first call for nominations.
+   1. Any eligible candidate may nominate themself, without requiring a second.
+   1. Any Member may nominate any eligible candidate who accepts the nomination.
+   1. The Speaker shall continue to prompt for nominations until none are supplied.
+1. After nominations have been made, the Speaker shall offer each nominee the opportunity to speak for their candidacy.
+   1. The order of the speeches is at the Speaker's discretion.
+   1. Candidates nominated by others may yield their speech to their nominator, with the latter's consent.
+   1. The length of the speeches may be limited by the Bylaws or else at the Speaker's discretion.
+   1. The Speaker may at their discretion allow time for questions to candidates.
+1. After speeches and questions, the Speaker:
+   1. shall send all candidates out of the (physical or online) room, in the process barring any voters who are also candidates from voting, and
+   1. may allow time for discussion of candidates.
+1. After any discussion has concluded:
+   1. The Speaker may, at their discretion based on the discussion or on previous rounds of voting, ask for objections to the election of a particular set of candidates.
+      1. If there are no objections from voters, that set shall be elected and the election ends.
+      1. If any voter objects, section 0.6.5.b onwards shall proceed as normal.
+   1. The Speaker shall prompt for, and record, votes for each candidate, votes to reopen nominations, and abstentions.
+   1. If a candidate receives a majority, they shall be elected and removed from consideration.
+   1. If "reopen nominations" receives a majority, any remaining vacant positions shall remain vacant, and the election ends.
+   1. If no option receives a majority, the candidate with the fewest votes shall be removed from consideration.
+   1. If vacant positions remain after electing or eliminating a candidate, then the process shall be repeated from section 0.6.5.a.
+1. An affirmative vote on the motion to conduct elections may not be reconsidered.
+1. A negative vote on the motion to conduct elections leaves the positions vacant.

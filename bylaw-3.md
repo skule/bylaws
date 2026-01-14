@@ -381,21 +381,13 @@ subtitle: The Elections Bylaw
    1. At least one member of each hiring committee must be present at the Board meeting to motivate their respective recommendation report and answer questions from the Board.
    1. Any position for which the associated recommendation report was not presented to the Board in accordance with the requirements in Section 7.3.1.a and Section 7.3.1.b shall not be elected, and the motion to elect the position shall be tabled until the next meeting of the Board of Directors.
 1. The Board of Directors shall be responsible for electing each Project Director in accordance with the recommendation (or recommendations) provided by the hiring committee.
-1. Any Member may move to amend the recommendation for any particular Project Director in accordance with the Bylaws and Rules of Procedure governing the consideration of motions at a Board of Directors meeting.
-1. If a recommendation report supports multiple candidates, no candidate, or is undecided as to whom should be hired as the Project Director, then the Board may, on their own judgement after considering the recommendation report, elect a candidate or re-open nominations, as per the process outlined in Section 7.4.
+1. Any Member may move to amend the recommendation for any particular Project Director in accordance with the Bylaws and Rules of Order governing the consideration of motions at a Board of Directors meeting.
+1. If a recommendation report supports more candidates than positions, or is undecided, then the motion to adopt the recommendation shall be treated as a motion to conduct elections in accordance with [section 0.6.3 onwards of the Standing Rules of Order](standing-rules.md).
+   1. If the recommendation report supports any candidates, those candidates shall be the ones under consideration in the election.
+   1. If the recommendation report is undecided, then all candidates who applied shall be the candidates under consideration in the election.
 1. If a Member receives a position, they shall be removed from consideration for any others. If a candidate that received the recommendation withdraws, then they shall provide notice to the Speaker as soon as possible and that position shall be elected, or nominations re-opened, at the discretion of the Board of Directors after considering the recommendation report.
 1. The CRO shall determine the order in which positions are considered.
    1. Nominees nominated for two (2) positions may request the CRO to elect their preferred position first, which must be done at least one (1) day before the Board of Directors Meeting.
-
-## Elections
-1. If a condition outlined in Section 7.3.4 is met, then any candidates for the position in question who are present shall be sent out of the room and the Project Director shall be elected by a show of hands from Board Members using the following method:
-   1. Votes for each candidate, and to re-open nominations, shall be counted;
-   1. If a candidate receives a majority of votes, they win the election;
-   1. If no candidate receives a majority of votes, then the candidate with the fewest votes shall be removed from consideration and another vote shall be held;
-   1. In all cases of ties, the CRO or the person acting as CRO, as the case may be, shall cast the deciding vote;
-   1. When only one (1) candidate is nominated, voters shall vote either "Yes" or "No"; and
-   1. In the event that there is more than one (1) director sought for a project, the process shall be repeated with the winner of the previous election removed.
-   1. Members of the Board of Directors (including Officers) shall be barred from voting in the election of a position for which they sat on the hiring committee.
 
 # Campaigning
 
