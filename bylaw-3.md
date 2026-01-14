@@ -1,5 +1,5 @@
 ---
-revdate: October 29, 2025
+revdate: November 26, 2025
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -182,7 +182,7 @@ subtitle: The Elections Bylaw
    1. Materials Science and Engineering Discipline Club (positions elected by the Materials Science and Engineering constituency);
    1. Mechanical Discipline Club (positions elected by the Mechanical Engineering constituency);
    1. Mineral Discipline Club (positions elected by the Mineral Engineering constituency); and
-   1. TrackOne Committee (positions elected by the TrackOne General Engineering constituency).
+   1. TrackOne Club (positions elected by the TrackOne General Engineering constituency).
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
 
