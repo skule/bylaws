@@ -1,5 +1,5 @@
 ---
-revdate: September 25, 2025
+revdate: November 26, 2025
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
