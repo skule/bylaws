@@ -141,11 +141,13 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. There shall be a Skule Kup Director who shall be responsible for organizing the Skule Kup, a year-round interdisciplinary competition to encourage discipline pride and camaraderie.
 1. The Skule Kup Director shall be overseen by Vice President Student Life
 
-## Alumni Outreach Director
-1. There shall be an Alumni Outreach Director, who shall be responsible for:
-   1. Connecting engineering student groups and organizations to Alumni Members through the "Connect" platform; and
-   1. Working with the Office of Advancement and Alumni Relations to create and explore opportunities between students and Alumni Members.
-1. The Alumni Outreach Director shall be overseen by the President.
+## Alumni & Graduate Outreach Director
+1. There shall be an Alumni & Graduate Outreach Director, who shall be responsible for:
+   1. Connecting Members and Engineering student groups to Alumni;
+   1. Working with the Office(s) of Advancement and Alumni Relations to create and explore opportunities between Members and Alumni;
+   1. Connecting Members and Engineering student groups to Engineering graduate students; and
+   1. Working with the Graduate Engineering Council of Students, and optionally the School of Graduate Studies and/or graduate departments, to create and explore opportunities between Members and Engineering graduate students.
+1. The Alumni & Graduate Outreach Director shall be overseen by the President.
 
 ## Mental Wellness Director
 1. There shall be a Mental Wellness Director, who shall be responsible for:
