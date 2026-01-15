@@ -28,8 +28,7 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. A General Meeting called for such purpose.
 1. In case of infirmity, death, resignation, removal, vacancy, or other form of ineligibility of a Project Director:
    1. Responsibilities of the Director shall be performed by their overseeing Officer; and
-   1. If there are more than four (4) months remaining in the Director’s Term of Office, a by-election shall be held as soon as possible.
-   1. If there are less than four (4) months remaining in the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
+   1. A by-election may be required in accordance with [Bylaw 3 section 7.4](bylaw-3.md).
 
 ## Temporary Internal Directors
 1. Temporary Internal Director positions may be created by the Board, as needed.
