@@ -1,5 +1,5 @@
 ---
-revdate: February 27, 2025
+revdate: November 26, 2025
 title: Bylaw 7
 pdf: Bylaw 7
 subtitle: The Discipline Clubs and Class Representatives Bylaw
@@ -9,36 +9,43 @@ subtitle: The Discipline Clubs and Class Representatives Bylaw
 
 ## General
 1. All Discipline Clubs shall be privy to the benefits of Affiliated Clubs.
-1. There shall be one (1) Discipline Club per program of study as defined by the Faculty, with the exception of the Electrical and Computer Engineering Discipline club which shall represent both Electrical Engineering and Computer Engineering.
-   1. The TrackOne Committee shall serve as the Discipline Club for TrackOne General Engineering.
-1. The Discipline Club shall be represented by the Club Chair or Co-Chairs.
-1. Each Discipline Club shall be required to have an Academic Director (or equivalent role), with whom the Vice-President Academic shall consult on relevant matters of academic advocacy.
-   1. Further details regarding this position and its structure can be found in the Constitution of the respective Discipline Club.
+1. There shall be one (1) Discipline Club per program of study as defined by the Faculty, with the exception of the Electrical and Computer Engineering Discipline Club which shall represent both Electrical Engineering and Computer Engineering.
+   1. The TrackOne Club shall serve as the Discipline Club for TrackOne General Engineering.
+1. The Discipline Club shall be represented by one Chair or multiple Co-Chairs. Where these Bylaws refer to the Chair, Co-Chairs are included in the reference.
+1. Each Discipline Club shall have an Academic Director or equivalent role, which reports dually to the EngSoc Vice-President Academic and to the Discipline Club Chair.
 
 # Finances
 
 ## Finances
 1. Financial support for Discipline Clubs from the Engineering Society shall be allocated according to the following formula: $1419.63 per discipline, plus $6.42 per student. If the Engineering Society increases membership fees to adjust for cost of living, as per [Bylaw 1 Section 1.3.3](bylaw-1.md), then the funding for Discipline Clubs shall be adjusted by the same percentage.
-   1. Notwithstanding section 1.0.1. the formula for the TrackOne Committee shall be $354.91 plus $6.42 per student.
-1. Financial support shall be delivered in the form of three cheques.
-1. All discipline club funding shall be withheld until its release is approved by the Board. The Board may decline to release funding for the following reasons:
+   1. Notwithstanding section 1.0.1. the formula for the TrackOne Club shall be $354.91 plus $6.42 per student.
+1. Discipline club funding may be withheld by resolution of the Board of Directors, with Board members of the discipline in question barred from voting. The Board may decline to release funding for the following reasons:
    1. The club has graduate pranks from previous years which are in a state of disrepair.
-   1. The club does not have a constitution that has been ratified by the Board or is not in compliance with its Board-approved constitution.
-   1. The club does not have an operating budget that has been approved by the Finance Committee.
-   1. The club's chair or co-chairs are not in their Final Year.
-      1. This section does not apply to the TrackOne Committee.
-   1. The club has not run elections in compliance with the Society's bylaws.
-      1. Each Discipline Club Constitution shall clearly state that the Discipline Club Chair must be elected through the Engineering Society, barring extraneous circumstances, as defined in [Bylaw 3](bylaw-3.md).
-1. In cases where no Chair has been elected, an Interim Chair may be appointed and the requirements for funding in 1.0.3.d and 1.0.3.e be waived.
-   1. Should a Discipline Club choose to appoint an Interim Chair, the process for doing so must be clearly outlined in their constitution.
-   1. In cases where an Interim Chair is appointed, the position of Chair must be opened for nominations in the next applicable election cycle regardless.
-      1. This section does not apply to the TrackOne Committee.
-1. A two-thirds majority of members of the Board of Directors, not of the discipline in question, at a meeting of the Board of Directors shall be required to release a club's funding.
-1. A Discipline Club is required, upon the request of the Board of Directors, to release a current budget and up-to-date record of financial transactions within thirty (30) days of such a request.
+   1. The club is not in compliance with its Board-approved constitution, as described in Chapter 2.
 
-# TrackOne Committee
+# Constitutions
 
-## *Repealed*, merged into Chapter 1.
+## General
+1. Discipline Club Constitutions shall be required to include the provisions described in this chapter.
+1. It shall be out of order for the Board to ratify Discipline Club Constitutions that contravene these requirements.
+
+## Elections
+1. Except for the TrackOne Club, Discipline Club Constitutions shall require elected Chairs to be in their Final Year.
+1. Discipline Club Constitutions shall clearly state that the Chair must be elected through the Engineering Society as defined in [Bylaw 3](bylaw-3.md).
+1. Discipline Club Constitutions shall clearly specify a process by which an Interim Chair is appointed to assume the duties of Chair when no Chair has been elected.
+1. Except for the TrackOne Club, Discipline Club Constitutions shall require nominations for Chair to be reopened in at least one subsequent election cycle when the position is not filled during the regular election cycle.
+
+## Finances
+1. Discipline Club Constitutions shall clearly specify the roles with signing authority over the club bank account(s).
+1. Discipline Club Constitutions shall require no fewer than two (2) signatures to release funding from the club bank account(s).
+1. Discipline Club Constitutions shall include the President of the Engineering Society as one of the no fewer than three (3) signing authorities.
+   1. The President shall not make signing decisions on Discipline Club matters unless another incumbent Discipline Club signing authority requests it or only one Discipline Club signing authority remains.
+1. Discipline Club Constitutions shall require the club to submit financial transaction records to the Vice-President Finance in April of each year.
+1. Discipline Club Constitutions shall require the club to produce a current budget and up-to-date financial transaction records within thirty (30) days of a request for such by the Board of Directors.
+
+## Ratification
+1. Discipline Club Constitutions shall specify that amendments do not take effect until the amended Constitution is ratified by the Board of Directors.
+1. Except for the TrackOne Club, Discipline Club Constitutions shall specify that amendments shall be presented to the EngSoc Policy and Structures Committee for review and thence to the Board of Directors for ratification by the/a corresponding Discipline Board Representative.
 
 # Class Representatives
 

@@ -19,11 +19,23 @@ SAME_ROW = '''<tr>
 <td>{1}</td>
 </tr>'''
 
-def diff_sections(body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, ...],
-                  prefix1: tuple[int, ...] = (), prefix2: tuple[int, ...] = (),
-                  contextualized: bool = False) -> Iterable[tuple[Literal['insert', 'delete', 'replace', 'context', 'equal'], tuple[int, ...] | None, str, tuple[int, ...] | None, str]]:
+def diff_sections(
+    body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, ...],
+    prefix1: tuple[int, ...] = (), prefix2: tuple[int, ...] = (),
+    contextualized: bool = False
+) -> Iterable[tuple[
+    Literal['insert', 'delete', 'replace', 'context', 'equal'],
+    tuple[int, ...] | None, str, tuple[int, ...] | None, str
+]]:
     sm = SequenceMatcher(a=body1, b=body2)
     for ops in sm.get_grouped_opcodes():
+        # skip through single-section nodes
+        if ops == [('replace', 0, 1, 0, 1)] and len(body1) == len(body2) == 1 and body1[0].title == body2[0].title:
+            prefixi = (*prefix1, 0)
+            prefixj = (*prefix2, 0)
+            yield 'equal', prefixi, body1[0].title, prefixj, body2[0].title
+            yield from diff_sections(body1[0].body, body2[0].body, prefixi, prefixj, contextualized)
+            return
         # find whether any of the changes are actually at this level;
         # if none are (i.e. the only changes are in sub-sections), narrow the
         # group down to just the subsection changes
@@ -124,24 +136,44 @@ def main() -> None:
             _, a_chapters = lines_to_chapters(line[1:] for line in hunk.del_lines)
             meta, b_chapters = lines_to_chapters(line[1:] for line in hunk.add_lines)
             title = meta['subtitle'] if 'policies' in meta['pdf'].casefold() else meta['title']
+            contexts = [
+                (a_prefix, b_prefix)
+                for tag, a_prefix, _, b_prefix, _ in diff_sections(a_chapters, b_chapters)
+                if tag == 'context'
+            ][::-1]
             tag = None
             for tag, a_prefix, a_line, b_prefix, b_line in diff_sections(a_chapters, b_chapters):
-                if not a_prefix:
-                    a_prefix = ''
-                else:
-                    a_prefix = section_to_str(a_prefix + (-1,) * (5 - len(a_prefix))) # type: ignore
-                a_line = clean_html(a_line)
-                if tag == 'equal':
-                    print(SAME_ROW.format(a_prefix, a_line))
-                    continue
                 if tag == 'context':
-                    th = f'{title} § {a_prefix}' if a_prefix else title
-                    print(f'<tr><th colspan="2">{th}</th></tr>')
-                    continue
-                if b_prefix is None:
-                    b_prefix = ''
+                    continue # already handled
+                if not a_prefix:
+                    a_prefix_s = ''
                 else:
-                    b_prefix = section_to_str(b_prefix + (-1,) * (5 - len(b_prefix))) # type: ignore
+                    a_prefix_s = section_to_str(a_prefix + (-1,) * (5 - len(a_prefix))) # type: ignore
+                if b_prefix is None:
+                    b_prefix_s = ''
+                else:
+                    b_prefix_s = section_to_str(b_prefix + (-1,) * (5 - len(b_prefix))) # type: ignore
+                a_line = clean_html(a_line)
+                if contexts and a_prefix in {contexts[-1][0], None} and b_prefix in {contexts[-1][1], None}:
+                    if a_prefix:
+                        if b_prefix:
+                            if a_prefix != a_prefix:
+                                th = f'{title} § {a_prefix_s} → {b_prefix_s}'
+                            else:
+                                th = f'{title} § {a_prefix_s}'
+                        else:
+                            th = f'{title} § {a_prefix_s} (deleted)'
+                    elif b_prefix:
+                        th = f'{title} § {b_prefix_s} (deleted)'
+                    else:
+                        th = title
+                    print(f'<tr><th colspan="2">{th}</th></tr>')
+                    contexts.pop()
+                a_prefix = a_prefix_s
+                b_prefix = b_prefix_s
+                if tag == 'equal':
+                    print(SAME_ROW.format(a_prefix_s, a_line))
+                    continue
                 b_line = clean_html(b_line)
                 if tag == 'replace':
                     a_line, b_line = diff_lines(a_line, b_line)
