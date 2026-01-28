@@ -1,5 +1,5 @@
 ---
-revdate: October 19, 2024
+revdate: January 26, 2026
 title: Bylaw 4
 pdf: Bylaw 4
 subtitle: The Officers Bylaw
