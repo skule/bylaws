@@ -31,6 +31,7 @@ subtitle: The Elections Bylaw
 1. Elections must not occur within the Fall or Winter Exam Periods.
 1. Elections requiring a Voting Period shall not occur within the Summer Months.
 1. Where nominations are required for a position, candidates for that position may not be nominators for the same position.
+1. No more than one election shall be held in a given month.
 
 ## Principles
 1. In general, the goal of any election is to:
@@ -389,6 +390,11 @@ subtitle: The Elections Bylaw
 1. If a Member receives a position, they shall be removed from consideration for any others. If a candidate that received the recommendation withdraws, then they shall provide notice to the Speaker as soon as possible and that position shall be elected, or nominations re-opened, at the discretion of the Board of Directors after considering the recommendation report.
 1. The CRO shall determine the order in which positions are considered.
    1. Nominees nominated for two (2) positions may request the CRO to elect their preferred position first, which must be done at least one (1) day before the Board of Directors Meeting.
+
+## By-Elections
+1. The CRO shall call a by-election in every month during which a Project Directorship position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
+1. The CRO shall add any Project Directorship positions which become vacant at least four (4) months before the end of the term of that position, and at least three (3) days before the end of the Nomination Period of an ongoing election, to that election as an additional by-election, unless the election is an Officer Election.
+1. If no by-election can be held or amended at least four (4) months before the end of the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
 
 # Campaigning
 
