@@ -204,27 +204,60 @@ subtitle: A Manual for the Hi-Skule™ Director
 ## Time-fixed Responsibilities
 1. Immediately after being elected, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In mid-March of their term, the Directorship runs an event of their choice strongly focused on equity, diversity, and inclusion.
-1. In late May of their term, the Directorship runs Pre-F!rosh.
+1. Over early April to late May of their term, the Directorship runs Pre-F!rosh, as described in section 2.2.
 1. By June of their term, the Director hires the Vice Directors.
 1. In June of their term, the Director submits a preliminary, rough budget to the Finance Committee.
 1. By July of their term, the Director hires all of the Coordinators.
 1. In August of their term, the Director establishes communication and partnership with ESROO.
 1. In August of their term, the Director opens recruitment for the First Year Executive(s) and mentors.
-1. In August of their term, the Director attends Clubs Fair.
+1. By the 3rd week of August of their term, the Directorship opens hiring for the First Year Executive(s).
+1. In August of their term, the Director attends Clubs Fair to promote the Directorship and the First Year Executive(s) posting.
+1. Over August to September of their term, the Directorship runs Mentorship Coffeehouse, as described in section 2.3.
 1. In September of their term, the Director hires the First Year Executive(s).
 1. In September of their term, the Director runs an in-person kickoff meeting, takes pictures of the executive team, and goes on a boba run to Coco with the team.
 1. In September of their term, the Director meets with ESROO to discuss their application to CPSIF involving youth under 19 years of age, and subsequently submits the CPSIF application.
-1. In late September of their term, the Directorship runs Mentorship Coffeehouse.
 1. In mid-November of their term, the Directorship runs UTHSDC.
 1. During Godiva Week, the Directorship runs the "Are You Smarter Than a Fifth Grader?" event.
 1. Before the January Policy and Structures Committee meeting in their term, the Director reviews this Manual with the Vice President, Academic and submits any updates to the Committee for comment before adopting them in accordance with [Bylaw 1 section 7.5.4.d](../bylaw-1.md).
 1. In mid-February of their term, the Directorship runs Designapalooza.
 
 ## Pre-F!rosh Responsibilities
-1. By SOME POINT, do X
+1. Pre-F!rosh is an afternoon event which follows the FASE Welcome 2 Engineering event in the morning, which is always in late May and is meant to convince OUAC students to accept their UofT Engineering offer before the June deadline to do so.
+1. By the start of Winter exam season, the Director reaches out to ESROO to introduce themself as the new Director, ask for a date for Pre-F!rosh, ask for ESROO to book rooms on the Directorship's behalf, and to establish the desired participant count for the event.
+   1. The last known ESROO contact is tyler.schilz@utoronto.ca
+   1. The usual rooms needing booking are:
+      1. MY 150 for Matriculation
+      1. MY 3rd/4th floor tutorial rooms for the design activity
+      1. Bahen Patio, Front Campus, or MY 150 for cheer off
+   1. If at most 278 participants are expected, BA 1160 and BA tutorial rooms can be used instead of MY 150 and MY tutorial rooms.
+1. By the start of Winter exam season, the Director invites previous Hi-Skule executives to help run Pre-F!rosh. This also serves the purpose of gauging the extent to which they are interested, and identifying candidates for Vice-Director positions, who should be subtly invited to apply.
+1. By the start of May, the Director invites the following groups to participate in Pre-F!rosh:
+   1. Lady Godiva Memorial Bnad lgmb@skule.ca
+   1. Ye Old Mighty Skule Cannon kaboom@skule.ca
+   1. Mario's Bakery mb@mariosbakery.ca
+   1. [Orientation Committee](orientation-manual.md) orientation@skule.ca
+   1. Blue & Gold Committee blueandgold@skule.ca
+   1. Mr. Blue & Gold, Godiva's Crown, and Ultimate F!rosh skulespiritheads@g.skule.ca
+1. By the 1st/2nd week of May, the schedule for the event is complete and the above groups should agree with the Directorship on when, where, and how they will be participating. Events at Pre-F!rosh normally include:
+   1. The Bnad plays, after which the Cannon fires
+   1. The Bakery does something (the Director is advised to wear something they don't mind getting dirty)
+   1. The Orientation Committee promotes F!rosh Week (and generally observes Pre-F!rosh)
+   1. The Blue & Gold Committee runs build battle, where the F!rosh build something in competition with other F!rosh groups
+1. As soon as the schedule is complete, the Directorship publishes a signup form for Head Leedurs and Leedurs, and the Orientation Committee amplifies it (e.g. by Instagram post collaboration).
+1. By the 3rd week of May, the training given to HLs/Leedurs on the morning of the event has been prepared and rehearsed, a rehearsal for Matriculation has been performed, and ESROO should be provided dietary restrictions for all of the Pre-F!rosh helpers and asked to provide lunch.
 
 ## Mentorship Coffeehouse Responsibilities
-1. By SOME POINT, do X
+1. In August of their term, the Directorship submits a preliminary budget to the Finance Committee, using the previous year's budget as a reference, that includes all materials needed for Mentorship Coffeehouse, including without limitation:
+   1. Chart paper, pens, markers, name tags
+   1. Food for lunch, snacks, drinks
+   1. Speaker gifts
+1. By the 1st week of September, the Directorship decides on a day for Mentorship Coffeehouse, and the Director contacts the [Business Manager](business-management-manual.md) to book GB 202 and informs ESROO of the date and that they are allocated a 30 minute lunchtime presentation.
+1. By the 2nd week of September:
+   1. the Directorship opens ticketing sales for Mentorship Coffeehouse on Zeffy
+   1. the Outreach Coordinator emails the list of guidance counselors, teachers, principals, district trustees, etc. about the event
+   1. the Directorship reaches out to potential keynote speakers such as First Year professors or anyone who can get students interested in engineering
+   1. the Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
+1. By the week before Mentorship Coffeehouse, all materials in section 2.3.1 are purchased (e.g. through Instacart or Costco) and stored, and activities for participants have been decided.
 
 ## UTHSDC Responsibilities
 1. By SOME POINT, do X
