@@ -39,7 +39,7 @@ subtitle: Policy on Awarding Society Awards
 1. The committee shall meet after the close of the nomination period to select the recipients of awards.
 1. Absentee voting or voting by proxy is not permitted.
 1. The chair of the committee may only vote to break a tie, unless they are a non-voting member in which case they may not vote.
-1. Any member of the committee who is nominated for an award, or who is an executive of a group which is nominated for an award, shall recuse themselves from the discussion and voting on the respective award.
+1. Any member of the committee who is nominated for an award, or who is an executive of a group which is nominated for an award, or whose interest in the outcome of the award otherwise conflicts with the interests of the Society in awarding the award (as determined by the chair), shall recuse themselves from the discussion and voting on the respective award.
 1. Quorum for the committee is a majority.
 1. Awards shall be determined as if a resolution under [section 0.6 of the Standing Rules of Order](../standing-rules.md) had been adopted, with the chair of the committee substituted for the Speaker of the Board.
 1. The decisions of the committee are confidential until the awards ceremony.
