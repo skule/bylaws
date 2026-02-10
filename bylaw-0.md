@@ -54,7 +54,7 @@ subtitle: The Constitution
 1. University of Toronto students enrolled (as defined by the Faculty) in a degree-seeking undergraduate program of study in the Faculty, who have paid or deferred either the Full Time or Part Time Membership Fees (as defined in [Bylaw 1 section 1.1.1](bylaw-1.md)) for the semester, shall be Members of the Society.
    1. Members shall only retain their membership for the semesters in which they have paid or deferred their Membership Fees.
    1. Members retain their membership during the Summer following the Academic Year if they were enrolled and paid their membership fees during the Winter Semester.
-1. Members who complete the requirements of their undergraduate degree (as defined by the Faculty) shall lose Membership of the Society and become Alumni (as defined in section 1.2) on the date of their Convocation.
+1. Members who complete the requirements of their undergraduate degree (as defined by the Faculty) shall lose Membership of the Society and become Alumni (as defined in section 1.1) on the date of their Convocation.
 
 ## Alumni
 1. Alumni are individuals who have either:

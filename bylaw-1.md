@@ -368,7 +368,7 @@ subtitle: The Engineering Society
    1. Maintaining the day-to-day financial records of the Society; and
    1. Other duties as may be specified in Bylaws and Policies.
 
-# Amendments, Bylaws, and Policies
+# Amendments to Governing Documents
 
 ## General
 1. In addition to the documents described in [Bylaw 0 section 2.0.1](bylaw-0.md), there shall be the following subordinate levels of documents specifying the organization of the Society;
