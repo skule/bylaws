@@ -267,7 +267,7 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. the Outreach Coordinator emails the list of guidance counselors, teachers, principals, district trustees, etc. about the event
    1. the Directorship reaches out to potential keynote speakers such as First Year professors or anyone who can get students interested in engineering
    1. the Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
-1. By the week before Mentorship Coffeehouse, all materials in section 2.3.1 are purchased (e.g. through Instacart or Costco) and stored, and activities for participants have been decided.
+1. By the week before Mentorship Coffeehouse, all materials in section 3.1.1 are purchased (e.g. through Instacart or Costco) and stored, and activities for participants have been decided.
 
 ## UTHSDC
 1. The University of Toronto High School Design Competition (UTHSDC) is an event very popular with grade 12 students looking to add to their résumé before university applications.
