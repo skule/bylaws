@@ -1,5 +1,5 @@
 ---
-revdate: March 29, 2025
+revdate: January 26, 2026
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -31,6 +31,7 @@ subtitle: The Elections Bylaw
 1. Elections must not occur within the Fall or Winter Exam Periods.
 1. Elections requiring a Voting Period shall not occur within the Summer Months.
 1. Where nominations are required for a position, candidates for that position may not be nominators for the same position.
+1. No more than one election shall be held in a given month.
 
 ## Principles
 1. In general, the goal of any election is to:
@@ -125,7 +126,7 @@ subtitle: The Elections Bylaw
 1. In the case where there is only a single candidate for a position, the candidate will be given two (2) minutes to make a speech, with the appropriate time to field questions from Members, as stated above.
 
 ## By-Elections
-1. Should an Officer position become vacant at least four (4) months before the end of their term, the CRO shall call a by-election as soon as possible.
+1. The CRO shall call a by-election in every month during which an Officer position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
 1. Notification of the By-Election shall be sent by email to all Members.
 1. The Nomination Period shall be five (5) business days.
    1. If no nominations have been received by the deadline, the CRO shall re-open nominations for at least three (3) business days.
@@ -182,7 +183,7 @@ subtitle: The Elections Bylaw
    1. Materials Science and Engineering Discipline Club (positions elected by the Materials Science and Engineering constituency);
    1. Mechanical Discipline Club (positions elected by the Mechanical Engineering constituency);
    1. Mineral Discipline Club (positions elected by the Mineral Engineering constituency); and
-   1. TrackOne Committee (positions elected by the TrackOne General Engineering constituency).
+   1. TrackOne Club (positions elected by the TrackOne General Engineering constituency).
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
 
@@ -220,7 +221,6 @@ subtitle: The Elections Bylaw
 1. The Nomination, Campaign, and Voting Periods for the following Internal Representative positions shall be the same as those for the First Year Board of Directors election:
    1. The First Year Chair, elected by the First Year student body;
    1. The Fourth Year Chair, elected by the Fourth Year student body; and
-   1. The Part Time Students' Chair, elected by the Part Time Membership.
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
 
@@ -229,14 +229,15 @@ subtitle: The Elections Bylaw
 ## General
 1. Use of the phrase "Appointed by" in this chapter shall mean that the organization in question may appoint any Member to fulfill the position.
 
-## Winter Elections Period
-1. The Winter Election shall consist of the Orientation Chair, Hi-Skule™ Director, and the University of Toronto Engineering Kompetition (UTEK) Director. The CRO shall also be elected during this election period, as described in section 1.1.
+## Winter Election Period
+1. The Winter Election shall consist of the Orientation Chair, the Iron Pin Director, and the University of Toronto Engineering Kompetition (UTEK) Director. The CRO shall also be elected during this election period, as described in section 1.1.
    1. The Board of Directors may direct the CRO to defer the election of any of these positions, except the CRO, to the Valedictorian Election Period. In this case, the Nomination Period shall be the same as for the Valedictorian, but other details remain the same.
+   1. In the 2025-2026 academic year, the Iron Pin Director shall be elected according to the provisions of Chapter 7 instead of this section.
 1. The Nomination Period for the Winter Elections shall commence at 9:00am on the first or second Monday of January and shall close at 5:00pm the following Friday.
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
 1. There shall be no campaigning for the positions in this election.
-1. The Winter Ratification Meeting shall be for the purpose of electing the Orientation Chair, Hi-Skule™ Director, the University of Toronto Engineering Kompetition (UTEK) Director and the CRO.
+1. The Winter Ratification Meeting shall be for the purpose of electing the positions specified in section 5.1.1.
    1. The aforementioned meeting shall occur within eleven (11) business days of the close of the Nomination Period.
    1. Positions deferred to the Valedictorian Election Period as described in section 5.1.1.a shall be elected at the February Board of Directors meeting.
 1. The CRO shall determine the order in which positions are considered; however, the position of CRO shall be the last position considered at the Winter Ratification Meeting.
@@ -247,6 +248,7 @@ subtitle: The Elections Bylaw
 
 ## Valedictorian Election Period
 1. The Nomination Period for the Valedictorian shall commence at 9:00am on the nearest Monday before February 1st and shall close at 5:00pm on the Friday of the same week.
+   1. The Hi-Skule™ Director shall also be elected during the Valedictorian Election Period, as if deferred from the Winter Election Period as described in section 5.1.1.a.
 1. A Member, who must be in their Final Year, shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature
 1. Potential candidates must submit a voter’s statement in accordance with section 8.0.7, through a means specified by the Nomination Package, which is due at the close of the Nomination Period; and
@@ -381,21 +383,18 @@ subtitle: The Elections Bylaw
    1. At least one member of each hiring committee must be present at the Board meeting to motivate their respective recommendation report and answer questions from the Board.
    1. Any position for which the associated recommendation report was not presented to the Board in accordance with the requirements in Section 7.3.1.a and Section 7.3.1.b shall not be elected, and the motion to elect the position shall be tabled until the next meeting of the Board of Directors.
 1. The Board of Directors shall be responsible for electing each Project Director in accordance with the recommendation (or recommendations) provided by the hiring committee.
-1. Any Member may move to amend the recommendation for any particular Project Director in accordance with the Bylaws and Rules of Procedure governing the consideration of motions at a Board of Directors meeting.
-1. If a recommendation report supports multiple candidates, no candidate, or is undecided as to whom should be hired as the Project Director, then the Board may, on their own judgement after considering the recommendation report, elect a candidate or re-open nominations, as per the process outlined in Section 7.4.
+1. Any Member may move to amend the recommendation for any particular Project Director in accordance with the Bylaws and Rules of Order governing the consideration of motions at a Board of Directors meeting.
+1. If a recommendation report supports more candidates than positions, or is undecided, then the motion to adopt the recommendation shall be treated as a motion to conduct elections in accordance with [section 0.6.3 onwards of the Standing Rules of Order](standing-rules.md).
+   1. If the recommendation report supports any candidates, those candidates shall be the ones under consideration in the election.
+   1. If the recommendation report is undecided, then all candidates who applied shall be the candidates under consideration in the election.
 1. If a Member receives a position, they shall be removed from consideration for any others. If a candidate that received the recommendation withdraws, then they shall provide notice to the Speaker as soon as possible and that position shall be elected, or nominations re-opened, at the discretion of the Board of Directors after considering the recommendation report.
 1. The CRO shall determine the order in which positions are considered.
    1. Nominees nominated for two (2) positions may request the CRO to elect their preferred position first, which must be done at least one (1) day before the Board of Directors Meeting.
 
-## Elections
-1. If a condition outlined in Section 7.3.4 is met, then any candidates for the position in question who are present shall be sent out of the room and the Project Director shall be elected by a show of hands from Board Members using the following method:
-   1. Votes for each candidate, and to re-open nominations, shall be counted;
-   1. If a candidate receives a majority of votes, they win the election;
-   1. If no candidate receives a majority of votes, then the candidate with the fewest votes shall be removed from consideration and another vote shall be held;
-   1. In all cases of ties, the CRO or the person acting as CRO, as the case may be, shall cast the deciding vote;
-   1. When only one (1) candidate is nominated, voters shall vote either "Yes" or "No"; and
-   1. In the event that there is more than one (1) director sought for a project, the process shall be repeated with the winner of the previous election removed.
-   1. Members of the Board of Directors (including Officers) shall be barred from voting in the election of a position for which they sat on the hiring committee.
+## By-Elections
+1. The CRO shall call a by-election in every month during which a Project Directorship position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
+1. The CRO shall add any Project Directorship positions which become vacant at least four (4) months before the end of the term of that position, and at least three (3) days before the end of the Nomination Period of an ongoing election, to that election as an additional by-election, unless the election is an Officer Election.
+1. If no by-election can be held or amended at least four (4) months before the end of the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
 
 # Campaigning
 
@@ -456,7 +455,7 @@ subtitle: The Elections Bylaw
    1. Any additional criteria deemed necessary by the CRO.
       1. The CRO will disclose these requirements to all candidates at the All Candidates Meeting. Failure to adhere to undisclosed criteria will not be considered a penalizable offense.
 1. Any content posted in approved social media locations must satisfy all other applicable sections of Bylaw 3.
-1. Campaign material may not be reposted or shared by any other account. It is the candidate’s responsibility to ensure their campaign material is not redistributed by any account that has not been approved by the CRO for that election period.
+1. Campaign material may not be reposted or shared by any other account, including the candidate’s personal account. It is the candidate’s responsibility to ensure their campaign material is not redistributed by any account that has not been approved by the CRO for that election period.
 1. All activity on campaign accounts must cease at the conclusion of the campaign period and remain inactive until the release of the election results. Following the announcement of results, candidates may use their campaign accounts at their discretion.
 1. The CRO shall be as permissible as is reasonable in their approval of campaign activities under this section.
    1. Should unforeseeable and extenuating circumstances require it, approval of social media campaigning activities may be revoked by the CRO at any time, at which point further campaigning activities must cease in the location(s) in question.
@@ -477,6 +476,7 @@ subtitle: The Elections Bylaw
    1. Ask the President of the Society for a mention during a meeting;
    1. Usage of any logo in a candidate's campaign material; and
    1. A public statement by a club executive makes endorsing a candidate.
+1. Candidates are not permitted to directly reference other candidates in their campaign; descriptions of candidates must only be of themselves, such as "I am the only candidate who ..." et cetera.
 
 ## In-Class Speeches
 1. In-class speeches before a class starts or after it ends are permitted, but permission needs to be granted from the lecturer. In-class speeches are not permitted for all candidates in any courses in which any candidates are lecturers.
@@ -485,10 +485,15 @@ subtitle: The Elections Bylaw
 
 ## Campaign Assistants
 1. A Campaign Assistant is any person asked by a candidate to help, as a volunteer, in their campaign.
-   1. A candidate may have a maximum of one (1) campaign assistant.
+   1. A candidate may have a maximum of one (1) Campaign Assistant.
+   1. A person may not serve as a Campaign Assistant for more than one candidate in the same election cycle.
 1. Campaign Assistants must be Members.
-1. Campaign Assistants may not be Members of the EngSoc Board of Directors, EngSoc Officers, or UTSU Executives.
-1. Campaign Assistants may not be incumbent in the role in which their candidate is running for.
+1. Campaign Assistants may not be:
+   1. Members of the EngSoc Board of Directors
+   1. EngSoc Officers
+   1. UTSU Executives
+   1. Candidates for positions for which Campaign Assistants are permitted in the same election cycle (e.g. elected positions)
+   1. The incumbent in the role for which their candidate is running
 1. Candidates must submit the information of their Campaign Assistant (Name, Discipline/Year, and Student Number) to the CRO prior to the Campaign Assistant performing any duties of the role.
 1. Candidates are expected to ensure their Campaign Assistants are aware of and comply with the rules of the election.
 1. Any violation of the rules by the Campaign Assistant is understood to be a violation on behalf of the candidate.
@@ -513,7 +518,7 @@ subtitle: The Elections Bylaw
    1. Playing loud music; and/or
    1. Creating a mess for cleaning staff.
 1. Candidates are not allowed to create any campaign videos.
-1. The official language of campaigning is English. Should a candidate wish to create materials and/or deliver speeches in another language, they must provide an accurate and equivalent English translation that appears in advance of any such content.
+1. The official language of campaigning is English. Candidates wishing to use another language must supply an accurate and equivalent English translation, to be provided prior to the dissemination or delivery of the non-English material.
    1. Providing a false or misleading translation shall constitute a blatant breach of this rule.
 1. Campaigning messages and/or campaigning material may not be posted in group chats/servers whose original purpose of creation was not campaigning.
 
@@ -574,13 +579,14 @@ subtitle: The Elections Bylaw
 
 ## General
 1. Voters shall rank candidates on their ballot in order of preference. Voters may rank as many candidates as they prefer.
-1. There shall be a "Re-Open Nominations" option on each ballot.
+1. There shall be a "Re-Open Nominations" option on each ballot whose effect is described in section 11.1.7.
+1. There shall be an option on each ballot to spoil it entirely. The number of spoiled ballots in each election is recorded, but otherwise spoiled ballots do not count towards the results in any way (except in referenda, as specified in section 6.0.1).
 1. Ballots that contain a mark for only one candidate shall be considered to contain a single first-place vote for that candidate.
 1. The following elections shall be held under a Gregory method of Single Transferable Vote system: Officers, Board of Directors, Discipline Club Chairs, Class Representatives, and any other electronic elections at the discretion of the CRO, as described in Section 11.1.
 
 ## Voting Method
 1. Each voter's first preference candidate receives one (1) vote.
-1. The quota of votes needed to win is calculated using the Droop quota, (N/(S+1)))+1, where N is the number of valid first-preference votes in the first round and S is the total number of seats needed to be filled in the election (i.e., fractional votes are dropped). The quota does not change through subsequent rounds.
+1. The quota of votes needed to win is calculated using the Droop quota, (N/(S+1))+1, where N is the number of valid first-preference votes in the first round and S is the total number of seats needed to be filled in the election (i.e., fractional votes are dropped). The quota does not change through subsequent rounds.
 1. If, after all the votes have been transferred, a candidate achieves the quota, then:
    1. They are elected to a seat and are ineligible to receive any more votes.
    1. Their votes are transferred to the voter's next preference at a value of V(C-Q)/C where V is the value of the vote when the candidate was elected, C is the candidate's vote-total when elected, and Q is quota.
@@ -592,7 +598,7 @@ subtitle: The Elections Bylaw
    1. If the voter has not listed any additional preference or was unable to do so, their ballot is exhausted.
 1. Section 11.1.3. through Section 11.1.5. are repeated until:
    1. All of the seats are filled by election; or
-   1. At the end of Section 11.1.4., if the number of eligible candidates is equal to or less than the number of unfilled seats and there is no candidate who can reach the quota, then the election is stopped and those seats are considered vacant and a by-election is held immediately following with the timeline at the CRO's discretion.
+   1. At the end of Section 11.1.4., if the number of eligible candidates is equal to or less than the number of unfilled seats and there is no candidate who can reach the quota, then the election is stopped, the unfilled seats are considered vacant, and a by-election is held immediately following with the timeline at the CRO's discretion.
 1. If "Re-Open Nominations" receives equal to or more than Q votes, the election iterations are stopped and the unfilled seats are reopened in a by-election.
 1. In the event a candidate withdraws or is disqualified between the start of the voting period and the ratification of election results:
    1. Any votes cast where the candidate was the first-preference and there were no further preferences stated will be nullified and will not count towards the quota.
