@@ -204,6 +204,7 @@ subtitle: A Manual for the Hi-Skule™ Director
 ## Time-fixed Responsibilities
 1. Immediately after being elected, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In mid-March of their term, the Directorship runs an event of their choice strongly focused on equity, diversity, and inclusion.
+1. In late March of their term, the Director communicates with the [UTEK Director](utek-manual.md) to establish how many (if any) of the top UTHSDC teams will be given the opportunity to participate in UTEK free of charge in the Junior Design competition.
 1. In early April of their term, the Directorship begins work on Pre-F!rosh, as described in section 2.2.
 1. In late May of their term, the Directorship runs Pre-F!rosh.
 1. By June of their term, the Director hires the Vice Directors.
@@ -257,14 +258,47 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. Speaker gifts
 1. By the 1st week of September, the Directorship decides on a day for Mentorship Coffeehouse, and the Director contacts the [Business Manager](business-management-manual.md) to book GB 202 and informs ESROO of the date and that they are allocated a 30 minute lunchtime presentation.
 1. By the 2nd week of September:
-   1. the Directorship opens ticketing sales for Mentorship Coffeehouse on Zeffy
+   1. the Directorship opens ticket sales for Mentorship Coffeehouse on Zeffy
    1. the Outreach Coordinator emails the list of guidance counselors, teachers, principals, district trustees, etc. about the event
    1. the Directorship reaches out to potential keynote speakers such as First Year professors or anyone who can get students interested in engineering
    1. the Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
 1. By the week before Mentorship Coffeehouse, all materials in section 2.3.1 are purchased (e.g. through Instacart or Costco) and stored, and activities for participants have been decided.
 
 ## UTHSDC Responsibilities
-1. By SOME POINT, do X
+1. The University of Toronto High School Design Competition (UTHSDC) is an event very popular with grade 12 students looking to add to their résumé before university applications.
+1. By mid September of their term, before Mentorship Coffeehouse, the Directorship decides the capacity and date of the event and books rooms through the [Business Manager](business-management-manual.md)
+   1. Because Convocation Hall bookings are too expensive, the realistic maximum capacity for UTHSDC is about 750.
+   1. If at most 278 participants are expected, Bahen rooms can be used; otherwise the Medical Sciences Building is best suited for room bookings.
+   1. If UTHSDC winners are being sent to UTEK, the date for the former must of course precede that of the latter.
+1. By the day after Mentorship Coffeehouse, the Directorship:
+   1. promotes the event to/through:
+      1. the ESROO mailing list;
+      1. social media, with ESROO amplifying it;
+      1. guidance counselors, teachers, principals, district trustees, etc.; and
+      1. past event participants who have not yet graduated high school.
+   1. opens ticket sales for UTHSDC on Zeffy
+   1. decides a general schedule, including the times for:
+      1. lunch
+      1. presentations;
+      1. ESROO's 30 minute presentation timeslot; and
+      1. opening and closing ceremonies.
+   1. informs ESROO of the date and time of their 30 minute timeslot
+1. By early to mid October of their term:
+   1. The Content Coordinators finish a rough draft of the Request for Proposal / Problem Statement
+   1. The Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
+1. In mid October of their term, the Directorship invites all Mentors to a feedback meeting with pizza to:
+   1. Get feedback on the event plans
+   1. Film for reels and other promotional content
+1. By late October of their term, the Directorship:
+   1. confirms a keynote speaker;
+   1. submits a budget for the event to the Finance Committee; and
+   1. runs, or at least plans, Mentor trainings with the Mentorship Coordinator.
+1. By the day before UTHSDC in November, the Director invites all Directorship executives to a logistics planning meeting with food to:
+   1. Go through the day's logistics
+   1. Ensure everyone's day-of roles are clear
+   1. Print signs, rubrics, handbooks, etc.
+   1. Assemble prize kits
+   1. Form teams
 
 ## Designapalooza Responsibilities
 1. By SOME POINT, do X
