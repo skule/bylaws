@@ -74,7 +74,7 @@ subtitle: The Engineering Society
    1. Appoint an auditor for the current year;
    1. Receive the auditor's report for the previous year;
    1. Authorize the Board of Directors to set the remuneration for the auditor for the current year;
-   1. Ratify any amendments to the Bylaws in accordance with Section 7.3; and
+   1. Ratify any amendments to the Bylaws in accordance with [Bylaw 0 section 2.4](bylaw-0.md); and
    1. Perform any other functions specified by the Not-for-Profit Corporations Act of Ontario and other relevant legislation.
 1. The agenda of any other General Meeting shall contain only those motions pertaining to matters specified under 2.1.3.
 1. Motions shall be added to the agenda of a General Meeting upon receipt of notice in writing to the Speaker at any time earlier than fourteen (14) days prior to the meeting.
@@ -88,7 +88,7 @@ subtitle: The Engineering Society
 1. Without notice as defined in Section 2.3.1 and Section 2.3.2, no motions passed at a General Meeting shall have force, unless all Members present waive notice as described in section 55(3) of ONCA.
 1. If a General Meeting is adjourned for less than thirty (30) days but more than seven (7) days, notice by the aforementioned means shall be given at least seven (7) days prior to the meeting that continues the adjourned meeting.
 1. For the Annual General Meeting, notice must be given to the Auditor of the Society, however their attendance is not required.
-   1. Notwithstanding Section 1.4, the Auditor shall be permitted to attend and speak at the Annual General Meeting.
+   1. Notwithstanding [Bylaw 0 section 1.3](bylaw-0.md), the Auditor shall be permitted to attend and speak at the Annual General Meeting.
 
 ## Voting
 1. Each Member of the Society shall be entitled to one (1) vote at General Meetings.
@@ -383,6 +383,6 @@ subtitle: The Engineering Society
    1. A simple majority vote of a General Meeting;
    1. A simple majority vote of the Board of Directors; or
    1. A simple majority vote of the Executive Committee.
-1. When a policy is passed, repealed, or amended, it shall be noted, within the relevant Policy, which of the parties listed in section 7.4.2 did so.
-1. A notice shall be given to the Board of Directors when a policy is passed, repealed, or amended by a party listed after the Board of Directors in section 7.4.2.
-1. Policies passed, Policies repealed, and Policy amendments by a party listed in 7.4.2 may not be repealed, passed, or reversed or substantively defeated, respectively, by parties which come after them in the same list until one (1) year after the amendment was made.
+1. When a policy is passed, repealed, or amended, it shall be noted, within the relevant Policy, which of the parties listed in section 7.1.2 did so.
+1. A notice shall be given to the Board of Directors when a policy is passed, repealed, or amended by a party listed after the Board of Directors in section 7.1.2.
+1. Policies passed, Policies repealed, and Policy amendments by a party listed in section 7.1.2 may not be repealed, passed, or reversed or substantively defeated, respectively, by parties which come after them in the same list until one (1) year after the amendment was made.
