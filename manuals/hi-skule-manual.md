@@ -205,28 +205,33 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. Immediately after being elected, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In mid-March of their term, the Directorship runs an event of their choice strongly focused on equity, diversity, and inclusion.
 1. In late March of their term, the Director communicates with the [UTEK Director](utek-manual.md) to establish how many (if any) of the top UTHSDC teams will be given the opportunity to participate in UTEK free of charge in the Junior Design competition.
-1. In early April of their term, the Directorship begins work on Pre-F!rosh, as described in section 2.2.
+1. In early April of their term, the Directorship begins work on Pre-F!rosh, as described in section 3.0.
 1. In late May of their term, the Directorship runs Pre-F!rosh.
 1. By June of their term, the Director hires the Vice Directors.
 1. In June of their term, the Director submits a preliminary, rough budget to the Finance Committee.
 1. By July of their term, the Director hires all of the Coordinators.
-1. In August of their term, the Director establishes communication and partnership with ESROO.
-1. In August of their term, the Director opens recruitment for the First Year Executive(s) and mentors.
+1. In August of their term, the Director:
+   1. establishes communication and partnership with ESROO.
+   1. opens recruitment for the First Year Executive(s) and Mentors.
 1. By the 3rd week of August of their term, the Directorship opens hiring for the First Year Executive(s).
-1. In August of their term, the Director attends Clubs Fair to promote the Directorship and the First Year Executive(s) posting.
-1. In August of their term, the Directorship begins work on Mentorship Coffeehouse, as described in section 2.3.
-1. In September of their term, the Directorship begins work on the University of Toronto High School Design Competition, as described in section 2.4.
-1. In September of their term, the Director hires the First Year Executive(s).
-1. In September of their term, the Director runs an in-person kickoff meeting, takes pictures of the executive team, and goes on a boba run to Coco with the team.
-1. In September of their term, the Director meets with ESROO to discuss their application to CPSIF involving youth under 19 years of age, and subsequently submits the CPSIF application.
+1. In August of their term:
+   1. the Director attends Clubs Fair to promote the Directorship, the First Year Executive(s) posting, and Mentor recruitment.
+   1. the Directorship begins work on Mentorship Coffeehouse, as described in section 3.1.
+1. In September of their term:
+   1. the Directorship begins work on the University of Toronto High School Design Competition, as described in section 3.2.
+   1. the Director hires the First Year Executive(s).
+   1. the Director runs an in-person kickoff meeting, takes pictures of the executive team, and goes on a boba run to Coco with the team.
+   1. the Director meets with ESROO to discuss their application to CPSIF involving youth under 19 years of age, and subsequently submits the CPSIF application.
 1. In late September of their term, the Directorship runs Mentorship Coffeehouse.
 1. In mid-November of their term, the Directorship runs UTHSDC.
-1. In late November of their term, the Directorship begins work on Designapalooza, as described in section 2.5.
+1. In late November of their term, the Directorship begins work on Designapalooza, as described in section 3.3.
 1. During Godiva Week, the Directorship runs the "Are You Smarter Than a Fifth Grader?" event.
 1. Before the January Policy and Structures Committee meeting in their term, the Director reviews this Manual with the Vice President, Academic and submits any updates to the Committee for comment before adopting them in accordance with [Bylaw 1 section 7.5.4.d](../bylaw-1.md).
 1. In mid-February of their term, the Directorship runs Designapalooza.
 
-## Pre-F!rosh Responsibilities
+# Event Responsibilities
+
+## Pre-F!rosh
 1. Pre-F!rosh is an afternoon event which follows the FASE Welcome 2 Engineering event in the morning, which is always in late May and is meant to convince OUAC students to accept their UofT Engineering offer before the June deadline to do so.
 1. By the start of Winter exam season, the Director reaches out to ESROO to introduce themself as the new Director, ask for a date for Pre-F!rosh, ask for ESROO to book rooms on the Directorship's behalf, and to establish the desired participant count for the event.
    1. The last known ESROO contact is tyler.schilz@utoronto.ca
@@ -251,7 +256,7 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. As soon as the schedule is complete, the Directorship publishes a signup form for Head Leedurs and Leedurs, and the Orientation Committee amplifies it (e.g. by Instagram post collaboration).
 1. By the 3rd week of May, the training given to HLs/Leedurs on the morning of the event has been prepared and rehearsed, a rehearsal for Matriculation has been performed, and ESROO should be provided dietary restrictions for all of the Pre-F!rosh helpers and asked to provide lunch.
 
-## Mentorship Coffeehouse Responsibilities
+## Mentorship Coffeehouse
 1. In August of their term, the Directorship submits a preliminary budget to the Finance Committee, using the previous year's budget as a reference, that includes all materials needed for Mentorship Coffeehouse, including without limitation:
    1. Chart paper, pens, markers, name tags
    1. Food for lunch, snacks, drinks
@@ -264,7 +269,7 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. the Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
 1. By the week before Mentorship Coffeehouse, all materials in section 2.3.1 are purchased (e.g. through Instacart or Costco) and stored, and activities for participants have been decided.
 
-## UTHSDC Responsibilities
+## UTHSDC
 1. The University of Toronto High School Design Competition (UTHSDC) is an event very popular with grade 12 students looking to add to their résumé before university applications.
 1. By mid September of their term, before Mentorship Coffeehouse, the Directorship decides the capacity and date of the event and books rooms through the [Business Manager](business-management-manual.md)
    1. Because Convocation Hall bookings are too expensive, the realistic maximum capacity for UTHSDC is about 750.
@@ -285,7 +290,7 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. By early to mid October of their term:
    1. The Content Coordinators finish a rough draft of the Request for Proposal / Problem Statement
    1. The Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
-1. In mid October of their term, the Directorship invites all Mentors to a feedback meeting with pizza to:
+1. In mid October of their term, the Directorship invites all Mentors and any other interested parties to a feedback meeting with pizza to:
    1. Get feedback on the event plans
    1. Film for reels and other promotional content
 1. By late October of their term, the Directorship:
@@ -299,7 +304,7 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. Assemble prize kits
    1. Form teams
 
-## Designapalooza Responsibilities
+## Designapalooza
 1. In late November of their term, after UTHSDC and UTEK, the Directorship decides:
    1. the kind(s) of design activities and/or workshops to run;
    1. needed and wanted collaborators (such as design teams);
@@ -309,9 +314,9 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. If Myhal is desired, the Director requests a quote for its use from Mojgan Cossaro, Executive Assistant to the Vice Dean, Undergraduate (fase.eavdu2@utoronto.ca). If the quote exceeds the room budget for the event, Bahen should be used and the capacity of the event limited to 278.
    1. The Director books all non-Myhal rooms through the [Business Manager](business-management-manual.md).
    1. The Directorship invites the desired collaborators to collaborate and decides with the confirmed collaborators what the students will design/build/workshop.
-   1. The Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
 1. By early January, the Directorship:
-   1. Invites all Mentors to a feedback meeting with pizza to get feedback on the design challenges and/or workshops
+   1. Invites all existing Mentors and any other interested parties to a feedback meeting with pizza to get feedback on the design challenges and/or workshops
+   1. Opens signups for new Mentors and asks other clubs to amplify the post(s)
    1. Submits a budget for the event to the Finance Committee
    1. Opens ticket sales for Designapalooza on Zeffy
    1. Informs ESROO of their 30 minute lunchtime presentation timeslot
