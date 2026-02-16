@@ -1,5 +1,5 @@
 ---
-revdate: October 29, 2025
+revdate: October 31, 2026
 title: Bylaw 1
 pdf: Bylaw 1
 subtitle: The Engineering Society

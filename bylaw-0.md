@@ -1,5 +1,5 @@
 ---
-revdate: April 30, 2026
+revdate: October 31, 2026
 title: Bylaw 0
 pdf: Bylaw 0
 subtitle: The Constitution
