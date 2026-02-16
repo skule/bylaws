@@ -300,4 +300,26 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. Form teams
 
 ## Designapalooza Responsibilities
-1. By SOME POINT, do X
+1. In late November of their term, after UTHSDC and UTEK, the Directorship decides:
+   1. the kind(s) of design activities and/or workshops to run;
+   1. needed and wanted collaborators (such as design teams);
+   1. the date of the event; and
+   1. required facilities.
+1. After deciding the date of the event:
+   1. If Myhal is desired, the Director requests a quote for its use from Mojgan Cossaro, Executive Assistant to the Vice Dean, Undergraduate (fase.eavdu2@utoronto.ca). If the quote exceeds the room budget for the event, Bahen should be used and the capacity of the event limited to 278.
+   1. The Director books all non-Myhal rooms through the [Business Manager](business-management-manual.md).
+   1. The Directorship invites the desired collaborators to collaborate and decides with the confirmed collaborators what the students will design/build/workshop.
+   1. The Mentorship Coordinator opens Mentor signups and the Directorship asks other clubs to amplify the post(s)
+1. By early January, the Directorship:
+   1. Invites all Mentors to a feedback meeting with pizza to get feedback on the design challenges and/or workshops
+   1. Submits a budget for the event to the Finance Committee
+   1. Opens ticket sales for Designapalooza on Zeffy
+   1. Informs ESROO of their 30 minute lunchtime presentation timeslot
+1. By the week before Designapalooza:
+   1. The Content Coordinators run training sessions with the collaborators
+   1. The Mentorship Coordinator runs training for Mentors to ensure they know what to do
+1. By the day before Designapalooza, the Director invites all Directorship executives to a logistics planning meeting with food to, among other things:
+   1. Go through the day's logistics
+   1. Ensure everyone's day-of roles are clear
+   1. Pack hardware kits
+   1. Assemble prize kits
