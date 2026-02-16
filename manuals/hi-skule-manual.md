@@ -204,7 +204,8 @@ subtitle: A Manual for the Hi-Skule™ Director
 ## Time-fixed Responsibilities
 1. Immediately after being elected, the Director establishes real-time asynchronous channels of communication with the Orientation Committee, to facilitate the smooth running of Pre-F!rosh.
 1. In mid-March of their term, the Directorship runs an event of their choice strongly focused on equity, diversity, and inclusion.
-1. Over early April to late May of their term, the Directorship runs Pre-F!rosh, as described in section 2.2.
+1. In early April of their term, the Directorship begins work on Pre-F!rosh, as described in section 2.2.
+1. In late May of their term, the Directorship runs Pre-F!rosh.
 1. By June of their term, the Director hires the Vice Directors.
 1. In June of their term, the Director submits a preliminary, rough budget to the Finance Committee.
 1. By July of their term, the Director hires all of the Coordinators.
@@ -212,11 +213,14 @@ subtitle: A Manual for the Hi-Skule™ Director
 1. In August of their term, the Director opens recruitment for the First Year Executive(s) and mentors.
 1. By the 3rd week of August of their term, the Directorship opens hiring for the First Year Executive(s).
 1. In August of their term, the Director attends Clubs Fair to promote the Directorship and the First Year Executive(s) posting.
-1. Over August to September of their term, the Directorship runs Mentorship Coffeehouse, as described in section 2.3.
+1. In August of their term, the Directorship begins work on Mentorship Coffeehouse, as described in section 2.3.
+1. In September of their term, the Directorship begins work on the University of Toronto High School Design Competition, as described in section 2.4.
 1. In September of their term, the Director hires the First Year Executive(s).
 1. In September of their term, the Director runs an in-person kickoff meeting, takes pictures of the executive team, and goes on a boba run to Coco with the team.
 1. In September of their term, the Director meets with ESROO to discuss their application to CPSIF involving youth under 19 years of age, and subsequently submits the CPSIF application.
+1. In late September of their term, the Directorship runs Mentorship Coffeehouse.
 1. In mid-November of their term, the Directorship runs UTHSDC.
+1. In late November of their term, the Directorship begins work on Designapalooza, as described in section 2.5.
 1. During Godiva Week, the Directorship runs the "Are You Smarter Than a Fifth Grader?" event.
 1. Before the January Policy and Structures Committee meeting in their term, the Director reviews this Manual with the Vice President, Academic and submits any updates to the Committee for comment before adopting them in accordance with [Bylaw 1 section 7.5.4.d](../bylaw-1.md).
 1. In mid-February of their term, the Directorship runs Designapalooza.
