@@ -1,5 +1,5 @@
 ---
-revdate: November 26, 2025
+revdate: January 26, 2026
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -31,6 +31,7 @@ subtitle: The Elections Bylaw
 1. Elections must not occur within the Fall or Winter Exam Periods.
 1. Elections requiring a Voting Period shall not occur within the Summer Months.
 1. Where nominations are required for a position, candidates for that position may not be nominators for the same position.
+1. No more than one election shall be held in a given month.
 
 ## Principles
 1. In general, the goal of any election is to:
@@ -229,8 +230,9 @@ subtitle: The Elections Bylaw
 1. Use of the phrase "Appointed by" in this chapter shall mean that the organization in question may appoint any Member to fulfill the position.
 
 ## Winter Election Period
-1. The Winter Election shall consist of the Orientation Chair and the University of Toronto Engineering Kompetition (UTEK) Director. The CRO shall also be elected during this election period, as described in section 1.1.
+1. The Winter Election shall consist of the Orientation Chair, the Iron Pin Director, and the University of Toronto Engineering Kompetition (UTEK) Director. The CRO shall also be elected during this election period, as described in section 1.1.
    1. The Board of Directors may direct the CRO to defer the election of any of these positions, except the CRO, to the Valedictorian Election Period. In this case, the Nomination Period shall be the same as for the Valedictorian, but other details remain the same.
+   1. In the 2025-2026 academic year, the Iron Pin Director shall be elected according to the provisions of Chapter 7 instead of this section.
 1. The Nomination Period for the Winter Elections shall commence at 9:00am on the first or second Monday of January and shall close at 5:00pm the following Friday.
 1. A Member shall be considered nominated upon submitting a completed Nomination Package to the Engineering Society Office, no later than the close of the Nomination Period, which shall include:
    1. The Member's name, student number, contact information, and signature.
@@ -388,6 +390,11 @@ subtitle: The Elections Bylaw
 1. If a Member receives a position, they shall be removed from consideration for any others. If a candidate that received the recommendation withdraws, then they shall provide notice to the Speaker as soon as possible and that position shall be elected, or nominations re-opened, at the discretion of the Board of Directors after considering the recommendation report.
 1. The CRO shall determine the order in which positions are considered.
    1. Nominees nominated for two (2) positions may request the CRO to elect their preferred position first, which must be done at least one (1) day before the Board of Directors Meeting.
+
+## By-Elections
+1. The CRO shall call a by-election in every month during which a Project Directorship position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
+1. The CRO shall add any Project Directorship positions which become vacant at least four (4) months before the end of the term of that position, and at least three (3) days before the end of the Nomination Period of an ongoing election, to that election as an additional by-election, unless the election is an Officer Election.
+1. If no by-election can be held or amended at least four (4) months before the end of the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
 
 # Campaigning
 

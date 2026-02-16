@@ -1,5 +1,5 @@
 ---
-revdate: November 26, 2025
+revdate: January 26, 2026
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
@@ -28,8 +28,7 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. A General Meeting called for such purpose.
 1. In case of infirmity, death, resignation, removal, vacancy, or other form of ineligibility of a Project Director:
    1. Responsibilities of the Director shall be performed by their overseeing Officer; and
-   1. If there are more than four (4) months remaining in the Director’s Term of Office, a by-election shall be held as soon as possible.
-   1. If there are less than four (4) months remaining in the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
+   1. A by-election may be required in accordance with [Bylaw 3 section 7.4](bylaw-3.md).
 
 ## Temporary Internal Directors
 1. Temporary Internal Director positions may be created by the Board, as needed.
@@ -141,11 +140,13 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. There shall be a Skule Kup Director who shall be responsible for organizing the Skule Kup, a year-round interdisciplinary competition to encourage discipline pride and camaraderie.
 1. The Skule Kup Director shall be overseen by Vice President Student Life
 
-## Alumni Outreach Director
-1. There shall be an Alumni Outreach Director, who shall be responsible for:
-   1. Connecting engineering student groups and organizations to Alumni Members through the "Connect" platform; and
-   1. Working with the Office of Advancement and Alumni Relations to create and explore opportunities between students and Alumni Members.
-1. The Alumni Outreach Director shall be overseen by the President.
+## Alumni & Graduate Outreach Director
+1. There shall be an Alumni & Graduate Outreach Director, who shall be responsible for:
+   1. Connecting Members and Engineering student groups to Alumni;
+   1. Working with the Office(s) of Advancement and Alumni Relations to create and explore opportunities between Members and Alumni;
+   1. Connecting Members and Engineering student groups to Engineering graduate students; and
+   1. Working with the Graduate Engineering Council of Students, and optionally the School of Graduate Studies and/or graduate departments, to create and explore opportunities between Members and Engineering graduate students.
+1. The Alumni & Graduate Outreach Director shall be overseen by the President.
 
 ## Mental Wellness Director
 1. There shall be a Mental Wellness Director, who shall be responsible for:
@@ -215,6 +216,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Offering First Aid courses to members of the Skule™ community at minimum once per semester of the Academic Year, including maintaining at least one (1) active Red Cross Standard First Aid Instructors certification for that purpose.
 1. The Skule™ Patrol Directors shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training before the August month of their term, provided by the University of Toronto and their resources or an external organization deemed reliable at a meeting of the Board of Directors.
 1. The Skule™ Patrol Directors shall be overseen by the Vice-President Student Life.
+
+## Iron Pin Director
+1. There shall be an Iron Pin Director responsible for organizing the Iron Pin Ceremony in January of each year, where first year students commit themselves to engineering student ethics, are inspired in their passion for engineering, and are shown the value of transparency and mentorship.
+   1. In the 2026-2027 academic year, the Iron Pin Ceremony shall additionally be open to students who were absent from Toronto during the 2025-2026 Ceremonies due to being on PEY Co-op or for other reasons that the Director and President may agree to allow.
+1. The Iron Pin Director shall be overseen by the President.
 
 # Associated Entities
 
