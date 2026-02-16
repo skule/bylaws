@@ -278,9 +278,8 @@ subtitle: A Manual for the Hi-Skule™ Director
       1. past event participants who have not yet graduated high school.
    1. opens ticket sales for UTHSDC on Zeffy
    1. decides a general schedule, including the times for:
-      1. lunch
-      1. presentations;
-      1. ESROO's 30 minute presentation timeslot; and
+      1. lunch (including ESROO's 30 minute presentation timeslot);
+      1. presentations; and
       1. opening and closing ceremonies.
    1. informs ESROO of the date and time of their 30 minute timeslot
 1. By early to mid October of their term:
@@ -293,7 +292,7 @@ subtitle: A Manual for the Hi-Skule™ Director
    1. confirms a keynote speaker;
    1. submits a budget for the event to the Finance Committee; and
    1. runs, or at least plans, Mentor trainings with the Mentorship Coordinator.
-1. By the day before UTHSDC in November, the Director invites all Directorship executives to a logistics planning meeting with food to:
+1. By the day before UTHSDC in November, the Director invites all Directorship executives to a logistics planning meeting with food to, among other things:
    1. Go through the day's logistics
    1. Ensure everyone's day-of roles are clear
    1. Print signs, rubrics, handbooks, etc.
