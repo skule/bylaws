@@ -1,5 +1,5 @@
 ---
-revdate: March 29, 2025
+revdate: January 26, 2026
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
@@ -9,8 +9,13 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 
 ## Project Directors
 1. A Director is responsible for a specific and limited area of the Society’s activities.
-1. The Term of Office of all Project Directors shall commence at the adjournment of the April Board of Directors meeting, unless the motion ratifying their election specifies otherwise.
-1. The Term of Office of all Project Directors shall extend until the adjournment of the April Board of Directors Meeting, unless the motion ratifying their election specifies otherwise.
+1. Unless the motion ratifying their election specifies a later time:
+   1. The Term of Office of Project Directors elected in a by-election shall commence at the adjournment of the Board of Directors meeting ratifying the by-election.
+   1. The Term of Office of Project Directors defined by [Bylaw 3](bylaw-3.md) to be elected in an Election Period other than the Project Directors Election Period defined in [Bylaw 3 Chapter 7](bylaw-3.md) shall commence at the adjournment of the Board of Directors meeting ratifying the Election in that Election Period.
+   1. The Term of Office of all other Project Directors shall commence at the adjournment of the April Board of Directors meeting.
+1. Unless the motion ratifying their election specifies an earlier time:
+   1. The Term of Office of Project Directors defined by [Bylaw 3](bylaw-3.md) to be elected in an Election Period other than the Project Directors Election Period defined in [Bylaw 3 Chapter 7](bylaw-3.md) shall extend until the adjournment of the Board of Directors meeting ratifying the Election in that Election Period.
+   1. The Term of Office of all other Project Directors shall extend until the adjournment of the April Board of Directors Meeting.
 1. A Director must be a Member for the entire duration of the Directorship’s Term of Office, as described in 0.0.1.
 1. A Project Director is ineligible to serve in a position they have previously held for more than two (2) months even if re-elected. This requirement may be waived in cases of extenuating circumstances by a unanimous vote of the Board of Directors.
 1. A Project Director, once elected, shall not be eligible to run in elections for any Project Directorship with the same Term of Office. This requirement may be waived due to extenuating circumstances by a unanimous vote of the Board.
@@ -23,8 +28,7 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. A General Meeting called for such purpose.
 1. In case of infirmity, death, resignation, removal, vacancy, or other form of ineligibility of a Project Director:
    1. Responsibilities of the Director shall be performed by their overseeing Officer; and
-   1. If there are more than four (4) months remaining in the Director’s Term of Office, a by-election shall be held as soon as possible.
-   1. If there are less than four (4) months remaining in the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
+   1. A by-election may be required in accordance with [Bylaw 3 section 7.4](bylaw-3.md).
 
 ## Temporary Internal Directors
 1. Temporary Internal Director positions may be created by the Board, as needed.
@@ -110,10 +114,6 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. The Gradball Director shall attend a form of or equivalent of Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
 1. The Gradball Director shall be overseen by the Vice-President Finance.
 
-## Community Outreach Director
-1. There shall be a Community Outreach Director, who shall be responsible for the Society's activities surrounding volunteerism, community service and charity.
-1. The Community Outreach Director shall be overseen by the Vice-President Student Life.
-
 ## Sponsorship Director
 1. There shall be a Sponsorship Director, who shall be responsible for:
    1. The development and maintenance of sponsorship packages for Engineering Society activities, including Orientation, Cannonball, and Gradball;
@@ -140,11 +140,13 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. There shall be a Skule Kup Director who shall be responsible for organizing the Skule Kup, a year-round interdisciplinary competition to encourage discipline pride and camaraderie.
 1. The Skule Kup Director shall be overseen by Vice President Student Life
 
-## Alumni Outreach Director
-1. There shall be an Alumni Outreach Director, who shall be responsible for:
-   1. Connecting engineering student groups and organizations to Alumni Members through the "Connect" platform; and
-   1. Working with the Office of Advancement and Alumni Relations to create and explore opportunities between students and Alumni Members.
-1. The Alumni Outreach Director shall be overseen by the President.
+## Alumni & Graduate Outreach Director
+1. There shall be an Alumni & Graduate Outreach Director, who shall be responsible for:
+   1. Connecting Members and Engineering student groups to Alumni;
+   1. Working with the Office(s) of Advancement and Alumni Relations to create and explore opportunities between Members and Alumni;
+   1. Connecting Members and Engineering student groups to Engineering graduate students; and
+   1. Working with the Graduate Engineering Council of Students, and optionally the School of Graduate Studies and/or graduate departments, to create and explore opportunities between Members and Engineering graduate students.
+1. The Alumni & Graduate Outreach Director shall be overseen by the President.
 
 ## Mental Wellness Director
 1. There shall be a Mental Wellness Director, who shall be responsible for:
@@ -215,6 +217,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. The Skule™ Patrol Directors shall attend a form of or equivalent of Equity Training and Sexual Violence Prevention and Response Training before the August month of their term, provided by the University of Toronto and their resources or an external organization deemed reliable at a meeting of the Board of Directors.
 1. The Skule™ Patrol Directors shall be overseen by the Vice-President Student Life.
 
+## Iron Pin Director
+1. There shall be an Iron Pin Director responsible for organizing the Iron Pin Ceremony in January of each year, where first year students commit themselves to engineering student ethics, are inspired in their passion for engineering, and are shown the value of transparency and mentorship.
+   1. In the 2026-2027 academic year, the Iron Pin Ceremony shall additionally be open to students who were absent from Toronto during the 2025-2026 Ceremonies due to being on PEY Co-op or for other reasons that the Director and President may agree to allow.
+1. The Iron Pin Director shall be overseen by the President.
+
 # Associated Entities
 
 ## General
@@ -233,7 +240,7 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Materials Science and Engineering Discipline Club;
    1. Mechanical Discipline Club;
    1. Mineral Discipline Club; and
-   1. TrackOne Committee.
+   1. TrackOne Club.
 1. The following Ancillary Organizations will have the Vice-President Student Life as a point of contact for their activities that fall within the Society's jurisdiction:
    1. Engineering Athletics Association; and
    1. Skule Nite.

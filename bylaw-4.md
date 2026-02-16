@@ -1,5 +1,5 @@
 ---
-revdate: October 19, 2024
+revdate: January 26, 2026
 title: Bylaw 4
 pdf: Bylaw 4
 subtitle: The Officers Bylaw
@@ -28,7 +28,6 @@ subtitle: The Officers Bylaw
    1. Liaising with external student organizations.
 1. The President shall wear the white firefighter’s hardhat for the entire duration of all General Meetings and Meetings of the Board of Directors.
 1. The President shall have the authority to execute any action or act on the Society’s behalf in any matter authorized by legislation, the Constitution, Bylaws, or Resolution of the Board unless it has been specifically assigned to another person.
-1. The President shall strike the Student Choice Awards Committee no later than the September Board of Directors meeting.
 1. The President is responsible for the oversight of the Orientation Chair and aiding in the creation of an Orientation Report, as outlined in [Bylaw 2](bylaw-2.md).
 
 # Vice-Presidents
@@ -40,7 +39,7 @@ subtitle: The Officers Bylaw
    1. A statement of expected income and expenses.
 1. The Vice-President Finance shall, within two (2) weeks following the end of the fiscal year as defined in [Bylaw 1](bylaw-1.md), submit the Society's accounts and year-end financial statements to the auditors.
 1. The Vice-President Finance shall present the auditor's report at the Annual General Meeting during their term of office.
-1. The Vice-President Finance is responsible for working with the Alumni Outreach Director, the Engineering Alumni Network and the Faculty’s Office of Advancement and Alumni Relations, on matters pertaining to fundraising.
+1. The Vice-President Finance is responsible for working with the Alumni & Graduate Outreach Director, the Engineering Alumni Network and the Faculty’s Office of Advancement and Alumni Relations, on matters pertaining to fundraising.
 1. The Vice-President Finance is responsible for cheque requisition and approval.
 1. The Vice-President Finance, in conjunction with the Executive Committee, shall  prepare three budgets for Board approval:
    1. Spring Budget presenting a general overview of the planned financial priorities which shall be presented at the June Board meeting;
