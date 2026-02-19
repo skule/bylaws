@@ -392,9 +392,12 @@ subtitle: The Elections Bylaw
    1. Nominees nominated for two (2) positions may request the CRO to elect their preferred position first, which must be done at least one (1) day before the Board of Directors Meeting.
 
 ## By-Elections
-1. The CRO shall call a by-election in every month during which a Project Directorship position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
-1. The CRO shall add any Project Directorship positions which become vacant at least four (4) months before the end of the term of that position, and at least three (3) days before the end of the Nomination Period of an ongoing election, to that election as an additional by-election, unless the election is an Officer Election.
-1. If no by-election can be held or amended at least four (4) months before the end of the Director’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
+1. The CRO shall call a by-election in every month during which an elected Project Directorship position is vacant, if at least four (4) months remain before the end of the term of the position, and except as otherwise prohibited by the Bylaws.
+1. The CRO shall add any elected Project Directorship positions which become vacant at least four (4) months before the end of the term of that position, and at least three (3) days before the end of the Nomination Period of an ongoing election, to that election as an additional by-election, unless the election is an Officer Election.
+1. If no by-election can be held or amended at least four (4) months before the end of an elected Directorship’s Term of Office, a Director may be appointed by resolution of the Board, first considering all/any executive members of the Directorship.
+1. At every monthly Board Meeting during which an unelected Project Directorship is vacant, each such Directorship's overseeing Officer shall submit one of the following motions to the Board:
+   1. to appoint one or more replacement Directors to serve the rest of the Directorship's Term of Office
+   1. to remove the Directorship under [Bylaw 2 section 0.0.11](bylaw-2.md)
 
 # Campaigning
 

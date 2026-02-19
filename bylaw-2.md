@@ -25,9 +25,12 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. The Board of Directors of the Society;
    1. The Annual General Meeting; or
    1. A General Meeting called for such purpose.
+1. Removing a Project Director position requires a resolution of the Board or a General Meeting.
+   1. If the position is defined in this Bylaw, such resolution is out of order if it does not include provisions amending this Bylaw to remove the definition.
+   1. If the removal takes effect before the end of the Term of Office of an incumbent in the removed position, the resolution has the same requirements as recalling the incumbent.
 1. In case of infirmity, death, resignation, removal, vacancy, or other form of ineligibility of a Project Director:
    1. Responsibilities of the Director shall be performed by their overseeing Officer; and
-   1. A by-election may be required in accordance with [Bylaw 3 section 7.4](bylaw-3.md).
+   1. A new Director may be chosen in accordance with [Bylaw 3 section 7.4](bylaw-3.md).
 
 ## Temporary Internal Directors
 1. Temporary Internal Director positions are Project Director positions which may be created by the Board by resolution.
@@ -38,17 +41,21 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Overseeing Officer; and
    1. Term of Office (e.g. the adjournment of the April Board of Directors meeting).
 1. Temporary Internal Directors shall be subject to the same eligibility requirements as Project Directors, as defined in section 0.0.
-1. The overseeing Officer of each Temporary Internal Director shall submit, at a Board Meeting occurring at least one month before the end of that Directorship's Term of Office:
-   1. a motion to convert that Directorship into a full Project Directorship, including the requisite amendments to this Bylaw;
-   1. a motion to renew that Directorship as a Temporary Internal Directorship; or
-   1. a discussion item to explain why neither of the aforementioned motion was not submitted. In this case, if a motion to convert or renew the Directorship is made during the discussion, it shall be considered by the Board without requiring their consent.
+1. Each Temporary Internal Director position shall cease to exist at the end of its Term of Office, if not removed earlier under section 0.0.11.
+1. The overseeing Officer of each Temporary Internal Director shall submit, at a Board Meeting occurring at least one month before the end of that Directorship's Term of Office, one of the following agenda items:
+   1. a motion to convert that Directorship into a full Project Directorship, which shall be out of order if it does not include the requisite amendments to this Bylaw
+   1. a motion to renew that Directorship as a Temporary Internal Directorship
+   1. a discussion item to explain why none of the above motions were submitted
+1. During a discussion item under section 0.1.6.c, if a motion to convert or renew the Directorship is made, it shall be considered by the Board without requiring their consent.
 
 ## Limited Purpose Directors
-1. Limited Purpose Director positions are Project Director positions which may be created by the Board by resolution if the choice of Director(s) is determined by a process outside the Society's direct control (such as ESSCO conference chairs).
+1. Limited Purpose Director positions are unelected Project Director positions which may be created by the Board by resolution if the choice of Director(s) is determined by a process outside the Society's direct control (such as ESSCO conference chairs).
 1. The resolution creating the Limited Purpose Director shall specify:
    1. The Directorship's name, responsibilities (as if written in this Bylaw), overseeing Officer, and Term of Office; and
    1. The persons to be appointed at the time of its creation.
 1. Limited Purpose Directors are not subject to Project Director eligibility requirements.
+1. Each Limited Purpose Director position shall cease to exist at the end of its Term of Office, if not removed earlier under section 0.0.11.
+1. Notwithstanding section 0.0.10, a Limited Purpose Director may be recalled by a simple majority of the Board of Directors or a General Meeting.
 1. Each Limited Purpose Director shall submit, at the last Board Meeting within that Directorship's Term of Office, a report on the Directorship's activities throughout its term.
 
 # Project Directors
