@@ -51,7 +51,8 @@ subtitle: A Manual for the Speaker of the Board
 1. All responsibilities of the role itself fall on the Speaker.
 
 ## Reporting Structure
-1. The Speaker is informally overseen by the [President](president-manual.md).
+1. The Speaker is overseen by the [Board of Directors](board-representative-manual.md).
+1. The [President](president-manual.md) takes over the Speaker's responsibilities when the Speaker is unavailable, unless the Board resolves otherwise.
 
 # Manual of Responsibilities
 
@@ -69,8 +70,9 @@ subtitle: A Manual for the Speaker of the Board
 1. The Speaker calls Special Meetings of the Board of Directors in accordance with [Bylaw 1, section 4.8](../bylaw-1.md).
 1. The Speaker assumes the responsibilities of all the Officers if all of the Officer positions become vacant, and upon doing so:
    1. Orders the Webmaster or Sysadmin to provide access to the VP Communications Google account,
+   1. Calls a Special Meeting of the Board of Directors to appoint Acting Vice Presidents for all vacant VP positions, using the VP Communications account to send notice of the meeting,
    1. Ensures that the Chief Returning Officer arranges a snap by-election (or adds the Officers to any shortly-upcoming election), and uses the VP Communications account to send out election notices as applicable,
-   1. Performs the minimum number of actions in any Officer's capacity necessary to maintain the Society's operations until a new Officer team is elected.
+   1. Performs the minimum number of actions as Interim President necessary to maintain the Society's operations until a new Officer team is elected.
 
 ## Time-fixed Responsibilities
 1. Upon election, the Speaker:
@@ -151,13 +153,15 @@ subtitle: A Manual for the Speaker of the Board
    1. a motion by the VP Finance to authorize summer Blue and Gold Committee spending
 
 ## General Meeting Responsibilities
-1. Two (2) weeks before the Annual General Meeting and Accountability Meeting, the Speaker finalizes the agendas for the meetings and uploads them to the public meeting folders. If any of the following items are missing, the Speaker adds them on their movers' behalf:
-   1. for the AGM, a motion by the VP Finance to receive and adopt EngSoc audited financial statements
-   1. for the AGM, a motion by the VP Finance to appoint the auditors for the current year
-   1. for the AGM, a motion by the VP Finance to approve the non-essential spending quota, as described in [Bylaw 1 section 4.13.2](../bylaw-1.md)
-   1. for the AGM, a motion by the VP Communications to ratify amendments to the Bylaws made by the Board of Directors between the previous year's AGM and the most recent Board of Directors Meeting
-   1. for the Accountability Meeting, reports by each Officer or their designates
-   1. for the Accountability Meeting, a motion for each Officer, by the Chief Returning Officer, to recall the Officer from their position
+1. Two (2) weeks before the Annual General Meeting and Accountability Meeting, the Speaker finalizes the agendas for the meetings and uploads them to the public meeting folders.
+1. If any of the following items are missing from the Annual General Meeting agenda, the Speaker adds them on their movers' behalf:
+   1. a motion by the VP Finance to receive and adopt EngSoc audited financial statements
+   1. a motion by the VP Finance to appoint the auditors for the current year
+   1. a motion by the VP Finance to approve the non-essential spending quota, as described in [Bylaw 1 section 4.13.2](../bylaw-1.md)
+   1. a motion by the VP Communications to ratify amendments to the Bylaws made by the Board of Directors between the previous year's AGM and the most recent Board of Directors Meeting
+1. If any of the following items are missing from the Accountability Meeting agenda, the Speaker adds them on their movers' behalf:
+   1. reports by each Officer or their designates
+   1. a motion for each Officer, by the Chief Returning Officer, to recall the Officer from their position
 1. Notice for a General Meeting includes:
    1. The date, time, physical location, and online location of the meeting
    1. Links to where proxy forms and anonymous/absentee questions may be submitted in advance
