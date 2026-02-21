@@ -114,12 +114,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
 1. The Gradball Director shall attend a form of or equivalent of Sexual Violence Prevention and Response Training, before the November month of their term, provided by the University of Toronto and their resources or from an external organization deemed reliable at a meeting of the Board of Directors.
 1. The Gradball Director shall be overseen by the Vice-President Finance.
 
-## Sponsorship Director
-1. There shall be a Sponsorship Director, who shall be responsible for:
-   1. The development and maintenance of sponsorship packages for Engineering Society activities, including Orientation, Cannonball, and Gradball;
-   1. Acquiring and maintaining a database of contact info for potential and current sponsors;
-   1. Selling ads in the Society's publications including the Toike Oike, Cannon, F!rosh Handbook and Skulebook; and
-   1. Actively pursuing sponsorship for Orientation, Cannonball, and Gradball.
+## Student Benefits Director
+1. There shall be a Student Benefits Director, who shall be responsible for:
+   1. Acquiring and maintaining deals and benefits for all engineering students and Engineering Society activities;
+   1. Creating business cases based on the Engineering Society's and engineering students' expenditure in furtherance of paragraph a; and
+   1. Acquiring and maintaining a database of contact information for potential and current vendors for student deals and benefits.
 1. The Sponsorship Director shall be overseen by the Vice-President Finance.
 
 ## Orientation Chair
