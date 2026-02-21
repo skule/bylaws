@@ -1,5 +1,5 @@
 ---
-revdate: November 26, 2025
+revdate: February 23, 2026
 title: Bylaw 7
 pdf: Bylaw 7
 subtitle: The Discipline Clubs and Class Representatives Bylaw
@@ -17,8 +17,8 @@ subtitle: The Discipline Clubs and Class Representatives Bylaw
 # Finances
 
 ## Finances
-1. Financial support for Discipline Clubs from the Engineering Society shall be allocated according to the following formula: $1419.63 per discipline, plus $6.42 per student. If the Engineering Society increases membership fees to adjust for cost of living, as per [Bylaw 1 Section 1.3.3](bylaw-1.md), then the funding for Discipline Clubs shall be adjusted by the same percentage.
-   1. Notwithstanding section 1.0.1. the formula for the TrackOne Club shall be $354.91 plus $6.42 per student.
+1. Financial support for Discipline Clubs from the Engineering Society shall be allocated according to the following formula: $1449.44 per discipline, plus $6.55 per student. If the Engineering Society increases membership fees to adjust for cost of living, as per [Bylaw 1 Section 1.3.3](bylaw-1.md), then the funding for Discipline Clubs shall be adjusted by the same percentage.
+   1. Notwithstanding section 1.0.1. the formula for the TrackOne Club shall be $362.36 plus $6.55 per student.
 1. Discipline club funding may be withheld by resolution of the Board of Directors, with Board members of the discipline in question barred from voting. The Board may decline to release funding for the following reasons:
    1. The club has graduate pranks from previous years which are in a state of disrepair.
    1. The club is not in compliance with its Board-approved constitution, as described in Chapter 2.
