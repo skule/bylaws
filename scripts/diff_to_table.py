@@ -172,7 +172,10 @@ def main() -> None:
                 a_prefix = a_prefix_s
                 b_prefix = b_prefix_s
                 if tag == 'equal':
-                    print(SAME_ROW.format(a_prefix_s, a_line))
+                    if a_prefix == b_prefix:
+                        print(SAME_ROW.format(b_prefix, a_line))
+                    else:
+                        print(RENUMBERED_ROW.format(a_prefix, b_prefix, a_line))
                     continue
                 b_line = clean_html(b_line)
                 if tag == 'replace':
@@ -201,4 +204,12 @@ if __name__ == '__main__':
     <td><%(tag)s style="color: #6aa84f">{0}</%(tag)s></td>
     <td><%(tag)s style="color: #6aa84f">{1}</%(tag)s></td>
     </tr>''' % {'tag': sys.argv[2]}
+    RENUMBERED_ROW = '''<tr>
+    <td>
+        <%(del)s style="color: #ff0000">{0}</%(del)s>
+        <br/>
+        <%(ins)s style="color: #6aa84f">{1}</%(ins)s>
+    </td>
+    <td>{2}</td>
+    </tr>''' % {'del': sys.argv[1], 'ins': sys.argv[2]}
     main()
