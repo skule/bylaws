@@ -46,7 +46,7 @@ subtitle: The Engineering Society
    1. If it is the Speaker’s enrolment status under consideration, the President shall be the one to verify the Speaker’s enrolment status.
 
 ## Fees
-1. The Membership Fee shall be $31.55 in each of the Fall and Winter Semesters for Full Time Students and $29.67 in each of the Fall and Winter Semesters for Part Time Students in the year 2025-2026, and $0.00 for the summer semester of 2026, for both Full Time Students and Part Time Students, provided the student continues to meet the other conditions of membership.
+1. The Membership Fee shall be $32.21 in each of the Fall and Winter Semesters for Full Time Students and $30.29 in each of the Fall and Winter Semesters for Part Time Students in the year 2026-2027, and $0.00 for the summer semester of 2027, for both Full Time Students and Part Time Students, provided the student continues to meet the other conditions of membership.
 
 # General Meetings
 

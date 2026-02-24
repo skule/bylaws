@@ -27,6 +27,7 @@ subtitle: Index of Documents
 	1. [Levy Groups Policy](policies/levy-groups-policy.md)
 	1. [Orientation Governance Policy](policies/orientation-governance-policy.md)
 	1. [Policy on Affiliated Clubs](policies/policy-on-affiliated-clubs.md)
+	1. [Policy on Awarding Society Awards](policies/awards-policy.md)
 	1. [Policy on Complaints](policies/policy-on-complaints.md)
 	1. [Policy on SUDS Operation](policies/suds-policy.md)
 	1. [Sustainability Policy](policies/sustainability-policy.md)
