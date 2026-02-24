@@ -138,6 +138,7 @@ def main() -> None:
             _, a_chapters = lines_to_chapters(line[1:] for line in hunk.del_lines)
             meta, b_chapters = lines_to_chapters(line[1:] for line in hunk.add_lines)
             title = meta['subtitle'] if 'policies' in meta['pdf'].casefold() else meta['title']
+            print(f'<tr><th colspan="2">{title}</th></tr>')
             contexts = [
                 (a_prefix, b_prefix)
                 for tag, a_prefix, _, b_prefix, _ in diff_sections(a_chapters, b_chapters)
@@ -159,14 +160,14 @@ def main() -> None:
                 if contexts and a_prefix in {contexts[-1][0], None} and b_prefix in {contexts[-1][1], None}:
                     if a_prefix:
                         if b_prefix:
-                            if a_prefix != a_prefix:
-                                th = f'{title} § {a_prefix_s} → {b_prefix_s}'
+                            if a_prefix != b_prefix:
+                                th = f'§ {a_prefix_s} → {b_prefix_s}'
                             else:
-                                th = f'{title} § {a_prefix_s}'
+                                th = f'§ {a_prefix_s}'
                         else:
-                            th = f'{title} § {a_prefix_s} (deleted)'
+                            th = f'§ {a_prefix_s} (deleted)'
                     elif b_prefix:
-                        th = f'{title} § {b_prefix_s} (added)'
+                        th = f'§ {b_prefix_s} (added)'
                     else:
                         th = title
                     print(f'<tr><th colspan="2">{th}</th></tr>')
