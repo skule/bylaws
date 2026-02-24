@@ -195,11 +195,11 @@ def main() -> None:
         ):
             meta, chapters = get_data(infile)
             print(render(meta, chapters), file=outfile)
-            if 'index' in meta['pdf'].casefold():
-                continue
-            title = meta['subtitle'] if 'policies' in meta['pdf'].casefold() \
-                else meta['title']
-            index[htmlname.as_posix()] = (title, dict(walk_sections(chapters)))
+        if 'index' in meta['pdf'].casefold():
+            continue
+        title = meta['subtitle'] if 'policies' in meta['pdf'].casefold() \
+            else meta['title']
+        index[htmlname.as_posix()] = (title, dict(walk_sections(chapters)))
     with open(build_dir / 'index.js', 'w', encoding='utf8') as f:
         f.write('window.index = ')
         json.dump(index, f)
