@@ -31,4 +31,11 @@ jobs:
         env:
           BASE: ${{ github.event.pull_request.base.sha }}
         run: |
-          git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- '*.md' | egrep '^[+-]revdate:'
+          shopt -s globstar
+          for file in **/*.md; do
+            echo "$file"
+            test "$file" = "index.md" && continue
+            git diff --diff-filter=ad "$BASE" HEAD --quiet -- "$file" && continue
+            egrep '^revdate:' "$file" || continue
+            git diff --diff-filter=ad -U1000000 "$BASE" HEAD -- "$file" | egrep '^[+-]revdate:'
+          done
