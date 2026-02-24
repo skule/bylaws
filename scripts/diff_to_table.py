@@ -9,15 +9,17 @@ from diff_to_annotations import gather_diff, FrozenSection, Prefix, lines_to_cha
 from lineno_to_section import section_to_str
 from mds_to_html import clean_html
 
-START = """
+START = '''
 <table border="1" frame="border">
 <tr><th>Section</th><th>Text</th></tr>
-""".strip()
+'''.strip()
 
-SAME_ROW = '''<tr>
+SAME_ROW = '''
+<tr>
 <td>{0}</td>
 <td>{1}</td>
-</tr>'''
+</tr>
+'''.strip()
 
 Body = tuple[FrozenSection, ...]
 
@@ -149,9 +151,10 @@ def main() -> None:
             ins_rows: list[str] = []
             for tag, a_prefix, a_line, b_prefix, b_line in diff_sections(a_chapters, b_chapters):
                 if tag == 'context':
-                    print('\n'.join(del_rows + ins_rows))
-                    del_rows = []
-                    ins_rows = []
+                    if del_rows or ins_rows:
+                        print('\n'.join(del_rows + ins_rows))
+                        del_rows = []
+                        ins_rows = []
                     continue # already handled
                 if not a_prefix:
                     a_prefix_s = ''
@@ -163,9 +166,10 @@ def main() -> None:
                     b_prefix_s = section_to_str(b_prefix + (-1,) * (5 - len(b_prefix))) # type: ignore
                 a_line = clean_html(a_line)
                 if contexts and a_prefix in {contexts[-1][0], None} and b_prefix in {contexts[-1][1], None}:
-                    print('\n'.join(del_rows + ins_rows))
-                    del_rows = []
-                    ins_rows = []
+                    if del_rows or ins_rows:
+                        print('\n'.join(del_rows + ins_rows))
+                        del_rows = []
+                        ins_rows = []
                     if a_prefix:
                         if b_prefix:
                             if a_prefix != b_prefix:
@@ -183,9 +187,10 @@ def main() -> None:
                 a_prefix = a_prefix_s
                 b_prefix = b_prefix_s
                 if tag == 'equal':
-                    print('\n'.join(del_rows + ins_rows))
-                    del_rows = []
-                    ins_rows = []
+                    if del_rows or ins_rows:
+                        print('\n'.join(del_rows + ins_rows))
+                        del_rows = []
+                        ins_rows = []
                     if a_prefix == b_prefix:
                         print(SAME_ROW.format(b_prefix, a_line))
                     else:
@@ -212,20 +217,26 @@ if __name__ == '__main__':
     if len(sys.argv) < 3:
         print('usage:', sys.argv[0], '<del tag name>', '<ins tag name>', file=sys.stderr)
         sys.exit(1)
-    DEL_ROW = '''<tr>
-    <td><%(tag)s style="color: #ff0000">{0}</%(tag)s></td>
-    <td><%(tag)s style="color: #ff0000">{1}</%(tag)s></td>
-    </tr>''' % {'tag': sys.argv[1]}
-    INS_ROW = '''<tr>
-    <td><%(tag)s style="color: #6aa84f">{0}</%(tag)s></td>
-    <td><%(tag)s style="color: #6aa84f">{1}</%(tag)s></td>
-    </tr>''' % {'tag': sys.argv[2]}
-    RENUMBERED_ROW = '''<tr>
-    <td>
-        <%(del)s style="color: #ff0000">{0}</%(del)s>
-        <br/>
-        <%(ins)s style="color: #6aa84f">{1}</%(ins)s>
-    </td>
-    <td>{2}</td>
-    </tr>''' % {'del': sys.argv[1], 'ins': sys.argv[2]}
+    DEL_ROW = '''
+<tr>
+<td><%(tag)s style="color: #ff0000">{0}</%(tag)s></td>
+<td><%(tag)s style="color: #ff0000">{1}</%(tag)s></td>
+</tr>
+    '''.strip() % {'tag': sys.argv[1]}
+    INS_ROW = '''
+<tr>
+<td><%(tag)s style="color: #6aa84f">{0}</%(tag)s></td>
+<td><%(tag)s style="color: #6aa84f">{1}</%(tag)s></td>
+</tr>
+    '''.strip() % {'tag': sys.argv[2]}
+    RENUMBERED_ROW = '''
+<tr>
+<td>
+    <%(del)s style="color: #ff0000">{0}</%(del)s>
+    <br/>
+    <%(ins)s style="color: #6aa84f">{1}</%(ins)s>
+</td>
+<td>{2}</td>
+</tr>
+    '''.strip() % {'del': sys.argv[1], 'ins': sys.argv[2]}
     main()
