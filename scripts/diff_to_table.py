@@ -145,8 +145,13 @@ def main() -> None:
                 if tag == 'context'
             ][::-1]
             tag = None
+            del_rows: list[str] = []
+            ins_rows: list[str] = []
             for tag, a_prefix, a_line, b_prefix, b_line in diff_sections(a_chapters, b_chapters):
                 if tag == 'context':
+                    print('\n'.join(del_rows + ins_rows))
+                    del_rows = []
+                    ins_rows = []
                     continue # already handled
                 if not a_prefix:
                     a_prefix_s = ''
@@ -158,6 +163,9 @@ def main() -> None:
                     b_prefix_s = section_to_str(b_prefix + (-1,) * (5 - len(b_prefix))) # type: ignore
                 a_line = clean_html(a_line)
                 if contexts and a_prefix in {contexts[-1][0], None} and b_prefix in {contexts[-1][1], None}:
+                    print('\n'.join(del_rows + ins_rows))
+                    del_rows = []
+                    ins_rows = []
                     if a_prefix:
                         if b_prefix:
                             if a_prefix != b_prefix:
@@ -175,6 +183,9 @@ def main() -> None:
                 a_prefix = a_prefix_s
                 b_prefix = b_prefix_s
                 if tag == 'equal':
+                    print('\n'.join(del_rows + ins_rows))
+                    del_rows = []
+                    ins_rows = []
                     if a_prefix == b_prefix:
                         print(SAME_ROW.format(b_prefix, a_line))
                     else:
@@ -184,10 +195,12 @@ def main() -> None:
                 if tag == 'replace':
                     a_line, b_line = diff_lines(a_line, b_line)
                 if a_prefix and a_line:
-                    print(DEL_ROW.format(a_prefix, a_line))
+                    del_rows.append(DEL_ROW.format(a_prefix, a_line))
                 if b_prefix and b_line:
-                    print(INS_ROW.format(b_prefix, b_line))
-            if tag is None: # for loop never executed
+                    ins_rows.append(INS_ROW.format(b_prefix, b_line))
+            if del_rows or ins_rows:
+                print('\n'.join(del_rows + ins_rows))
+            elif tag is None: # for loop never executed
                 print('<tr><td colspan="2"><i>No changes resulted in HTML differences</i></td></tr>')
     print('</table>')
 
