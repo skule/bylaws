@@ -5,7 +5,7 @@ from itertools import zip_longest
 import sys
 from typing import Iterable, Literal
 
-from diff_to_annotations import gather_diff, FrozenSection, lines_to_chapters
+from diff_to_annotations import gather_diff, FrozenSection, Prefix, lines_to_chapters
 from lineno_to_section import section_to_str
 from mds_to_html import clean_html
 
@@ -19,13 +19,15 @@ SAME_ROW = '''<tr>
 <td>{1}</td>
 </tr>'''
 
+Body = tuple[FrozenSection, ...]
+
 def diff_sections(
-    body1: tuple[FrozenSection, ...], body2: tuple[FrozenSection, ...],
-    prefix1: tuple[int, ...] = (), prefix2: tuple[int, ...] = (),
+    body1: Body, body2: Body,
+    prefix1: Prefix = (), prefix2: Prefix = (),
     contextualized: bool = False
 ) -> Iterable[tuple[
     Literal['insert', 'delete', 'replace', 'context', 'equal'],
-    tuple[int, ...] | None, str, tuple[int, ...] | None, str
+    Prefix | None, str, Prefix | None, str
 ]]:
     sm = SequenceMatcher(a=body1, b=body2)
     for ops in sm.get_grouped_opcodes():
