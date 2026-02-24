@@ -164,7 +164,7 @@ def main() -> None:
                         else:
                             th = f'{title} § {a_prefix_s} (deleted)'
                     elif b_prefix:
-                        th = f'{title} § {b_prefix_s} (deleted)'
+                        th = f'{title} § {b_prefix_s} (added)'
                     else:
                         th = title
                     print(f'<tr><th colspan="2">{th}</th></tr>')
