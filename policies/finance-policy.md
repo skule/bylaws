@@ -19,7 +19,7 @@ subtitle: Policy on Finances
 ## General
 1. The Finance Committee shall function as a representation of the undergraduate engineering student body ("student body") in advising the Vice-President Finance on matters specified in this Policy. In addition, the Vice-President Finance may delegate any duty listed under this Policy, except those listed under [Finance Policy §6](../finance-policy.md), to the whole or part of the Finance Committee.
 1. The Finance Committee shall meet at least once a month to conduct their business as outlined in this Policy, except for the months of December and April..
-1. There shall be a Secretary of the Finance Committee, henceforth referred to as the <i>Finance Secretary<i>, who is a voting member of the Finance Committee, reports to the Vice-President Finance, and shall be responsible for recording all decisions and recommendations made at Finance Committee meetings.
+1. There shall be a Secretary of the Finance Committee, henceforth referred to as the *Finance Secretary*, who is a voting member of the Finance Committee, reports to the Vice-President Finance, and shall be responsible for recording all decisions and recommendations made at Finance Committee meetings.
 1. The Finance Committee may recommend the Board of Directors to approve, and make effective, any decisions decided by the Finance Committee under the purview of this Policy, as per [Bylaw 1 §4.12.7](../bylaw-1.md).
 
 # The Audit Committee
@@ -75,7 +75,7 @@ subtitle: Policy on Finances
 # Reimbursement Process
 
 ## General
-1. Anything purchased through funding approved under paragraph 2.4 may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the <i>cheque requisition<i>, per Bylaw 4.
+1. Anything purchased through funding approved under paragraph 2.4 may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the *cheque requisition*, per Bylaw 4.
 1. All requests for reimbursement shall use the cheque requisition form provided by the Engineering Society. The form may be found in the Engineering Society office, or on the Engineering Society website, and must be submitted to the Vice President Finance through:
    1.	Email to the Vice-President Finance,
    1.	In person to their mailbox at the Engineering Society office, and
