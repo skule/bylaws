@@ -90,7 +90,10 @@ def parse(html: str) -> list[Section]:
     chapters: list[Section] = []
     stack: list[list[Section]] = [chapters]
 
-    root = etree.fromstring(f'<body>{html}</body>')
+    try:
+        root = etree.fromstring(f'<body>{html}</body>')
+    except etree.XMLSyntaxError as e:
+        raise ValueError('Invalid HTML output, likely due to invalid Markdown input') from e
 
     while elems := root.cssselect('a a'):
         for elem in elems:
