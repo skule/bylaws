@@ -118,6 +118,7 @@ subtitle: Policy on Finances
 1.	The Vice-President Finance shall be responsible for producing a document to summarize all allocations made from the Skule™ Endowment Fund to be presented to the Board of Directors in its last meeting each fiscal year. For more information about the Skule™ Endowment Fund, its constitution may be found [here](https://drive.google.com/file/d/0B3agLOf0dQ6FcEs0OEVBbVN2LTQ/view?usp=sharing&resourcekey=0-ddLpn3B07JSuwCNeWil8YA).
 
 # Policies applicable to multiple funding avenues
+## General
 1. Applications for funding should be sent to the Vice-President Finance through a method that the Vice-President Finance or the Finance Secretary shall designate. Normally, this method will be a web form.
 1. The method through which applications for funding and the last day applications may be sent shall be circulated in the first week of each month by the Finance Secretary to all Affiliated Clubs, Associated Entities, Officers, and Project Directorships via email, and circulated on the Engineering Society website.
 1. The last day applications may be received shall be no earlier than the tenth of each month. The Vice-President Finance reserves the right to refuse any application not sent through the method specified or received after the last day applications are being received.
