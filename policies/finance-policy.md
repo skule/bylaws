@@ -5,7 +5,6 @@ pdf: policies/Finance Policy
 subtitle: Policy on Finances
 ---
 # General
-
 ## General
 1. This document outlines:
    1. The ways the Engineering Society provides funding to the engineering student community;
@@ -18,7 +17,6 @@ subtitle: Policy on Finances
    1. An "operating expense" is any expenditure that reoccurs, in a substantively similar nature but not necessarily under the same name, of a frequency of less than three years.
 
 # The Finance Committee
-
 ## General
 1. The Finance Committee shall function as a representation of the undergraduate engineering student body ("student body") in advising the Vice-President Finance on matters specified in this Policy. In addition, the Vice-President Finance may delegate any duty listed under this Policy, except those listed under [Finance Policy §6](../finance-policy.md), to the whole or part of the Finance Committee.
 1. The Finance Committee shall meet at least once a month to conduct their business as outlined in this Policy, except for the months of December and April..
@@ -26,7 +24,6 @@ subtitle: Policy on Finances
 1. The Finance Committee may recommend the Board of Directors to approve, and make effective, any decisions decided by the Finance Committee under the purview of this Policy, as per [Bylaw 1 §4.12.7](../bylaw-1.md).
 
 # The Audit Committee
-
 ## General
 1.	The Audit Committee shall advise the Vice-President Finance on the correctness and compliance of financial records collected under section 8.2. In addition, the Vice-President Finance may delegate any duty listed under this Policy, except those listed under section 6, to the whole or part of the Finance Committee.
 1.	The Audit Committee shall meet at least once a month to conduct their business as outlined in this Policy except for the months of December and April.
@@ -34,6 +31,7 @@ subtitle: Policy on Finances
 1.	The Audit Committee may recommend the Board of Directors to approve, and make effective, any decisions decided by the Audit Committee under the purview of this Policy.
 
 # Avenues for Funding
+## General
 1. The Engineering Society provides funding to the student body through several funding avenues. Each funding avenue is generally for a different purpose and may have different eligibilities and requirements. Currently, the funding avenues available through the Engineering Society are:
    1. Project Directorship / Associated Entity funding (Chapter A)
    1. Conference Funding (Chapter B)
@@ -55,7 +53,6 @@ subtitle: Policy on Finances
 1. Funding applicants are responsible for an application's eligibility under any Terms of Reference.
 
 # Application review
-
 ## Application review process
 1.	The Finance Committee is responsible for reviewing applications for completeness under paragraph 4.4 and eligibility under paragraph 4.3.
 1. The Finance Committee may decide on an application based on information not present on the application. However, the Committee may decide on an application solely based on information present in the application.
@@ -69,14 +66,12 @@ subtitle: Policy on Finances
    1. A budget pursuant to the requirements in paragraph 4.4 and the corresponding Terms of Reference for the application being appealed.
 
 # Budgets
-
 ## General
 1.	The Finance Committee shall assist the Vice-President Finance in creating and keeping Engineering Society operating budgets up to date as defined in Bylaw 4.
 1.	The Vice-President Finance shall open budget submissions for the subsequent fiscal year from Project Directorships, Associated Entities, and Officers of the Societies after the April Board of Directors meeting. Budgets shall be returned as soon as possible to the Vice-President Finance for examination by the Finance Committee.
 1.	A budget submission shall be treated as a request for funding from the submitting entity by the Finance Committee under the Project Directorship / Associated Entity funding avenue and shall be reviewed under Schedule G of this Policy.
 
 # Reimbursement Process
-
 ## General
 1. Anything purchased through funding approved under paragraph 2.4 may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the *cheque requisition*, per Bylaw 4.
 1. All requests for reimbursement shall use the cheque requisition form provided by the Engineering Society. The form may be found in the Engineering Society office, or on the Engineering Society website, and must be submitted to the Vice President Finance through:
@@ -94,7 +89,6 @@ subtitle: Policy on Finances
 1. Any cheque requisition may be approved at the discretion of its signing Officers, except that Officers must refuse all cheque requisitions that do not meet the requirements set out in paragraphs 7.3 and 7.5.
 
 # Audits and Financial Reporting
-
 ## Audits
 1.	All entities that receive funding from the Society shall keep complete financial records of all money they receive from all sources and spend on any expense. This record shall:
    1.	State all sources and individually identifiable recipients of funds and their amounts;
@@ -117,7 +111,6 @@ subtitle: Policy on Finances
    1.	The detailed budget of each Internal Director of the Society;
 
 # Skule™ Endowment Fund
-
 ## General
 1. The Skule™ Endowment Fund Committee shall be responsible for the oversight and management of the Skule™ Endowment Fund. The Vice President Finance and the President shall ensure that the Skule™ Endowment Fund is allocated appropriately and responsibly.
 1. The Skule™ Endowment Fund shall be governed by a Terms of Reference. Subject to review and approval under paragraph 2.4 and compliance with the Skule™ Endowment Fund Constitution, the Skule™ Endowment Fund Committee may review and alter these Terms of Reference. The Terms of Reference shall be publicly available. The most recent Terms of Reference may be found [here](https://drive.google.com/file/d/1IvK4zgGMR8ZL3cIJUK2VHWHKSl_mZDQu/edit)
