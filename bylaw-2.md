@@ -222,10 +222,6 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. Sharing information regarding the CFES and the ESSCO with the Engineering Society and its members.
 1. The External Relations Director shall be overseen by the President.
 
-## Environmental Sustainability Director
-1. There shall be an Environmental Sustainability Director, who shall be responsible for working in collaboration with students, clubs, and faculty to assess and improve the environmental impact of EngSoc practices.
-1. The Environmental Sustainability Director shall be overseen by the President.
-
 ## Skule™ Patrol Directors
 1. There shall be two (2) Skule™ Patrol Directors responsible for:
    1. Recruiting, managing, coordinating, and training as applicable of Skule™ Patrol volunteers and Head Patrollers.
