@@ -1,5 +1,5 @@
 ---
-revdate:  March 12, 2026
+revdate:  March 28, 2026
 title: Policy Number "2006-01-02"
 pdf: policies/Finance Policy
 subtitle: Policy on Finances
@@ -12,20 +12,19 @@ subtitle: Policy on Finances
    1. The methods by which the Engineering Society decides on financial applications.
 1. In this document:
    1. The "fiscal year" shall refer to from May 1st of the current year to April 31st of the successive year.
-   1. A "recurring expense" (etc)
    1. A "levy group" shall refer to all groups receiving a portion of the Engineering Society fee except Discipline Clubs.
    1. An "operating expense" is any expenditure that reoccurs, in a substantively similar nature but not necessarily under the same name, of a frequency of less than three years.
 
 # The Finance Committee
 ## General
-1. The Finance Committee shall function as a representation of the undergraduate engineering student body ("student body") in advising the Vice-President Finance on matters specified in this Policy. In addition, the Vice-President Finance may delegate any duty listed under this Policy, except those listed under [Finance Policy §6](../finance-policy.md), to the whole or part of the Finance Committee.
-1. The Finance Committee shall meet at least once a month to conduct their business as outlined in this Policy, except for the months of December and April..
+1. The Finance Committee shall function as a representation of the undergraduate engineering student body ("student body") in advising the Vice-President Finance on matters specified in this Policy. In addition, the Vice-President Finance may delegate any duty listed under this Policy, except those listed under [Finance Policy §6](../policies/finance-policy.md#reimbursement-process), to the whole or part of the Finance Committee.
+1. The Finance Committee shall meet at least once a month to conduct their business as outlined in this Policy, except for the months of December and April.
 1. There shall be a Secretary of the Finance Committee, henceforth referred to as the *Finance Secretary*, who is a voting member of the Finance Committee, reports to the Vice-President Finance, and shall be responsible for recording all decisions and recommendations made at Finance Committee meetings.
-1. The Finance Committee may recommend the Board of Directors to approve, and make effective, any decisions decided by the Finance Committee under the purview of this Policy, as per [Bylaw 1 §4.12.7](../bylaw-1.md).
+1. The Finance Committee may recommend the Board of Directors to approve, and make effective, any decisions decided by the Finance Committee under the purview of this Policy, as per [Bylaw 1 §4.12.7](../bylaw-1.md#committees).
 
 # The Audit Committee
 ## General
-1.	The Audit Committee shall advise the Vice-President Finance on the correctness and compliance of financial records collected under section 8.2. In addition, the Vice-President Finance may delegate any duty listed under this Policy, except those listed under section 6, to the whole or part of the Finance Committee.
+1.	The Audit Committee shall advise the Vice-President Finance on the correctness and compliance of financial records collected under [Finance Policy §7.0](../policies/finance-policy.md#financial-reporting).
 1.	The Audit Committee shall meet at least once a month to conduct their business as outlined in this Policy except for the months of December and April.
 1.	The Finance Secretary shall be responsible for recording all decisions and recommendations made at Audit Committee meetings.
 1.	The Audit Committee may recommend the Board of Directors to approve, and make effective, any decisions decided by the Audit Committee under the purview of this Policy.
@@ -33,13 +32,13 @@ subtitle: Policy on Finances
 # Avenues for Funding
 ## General
 1. The Engineering Society provides funding to the student body through several funding avenues. Each funding avenue is generally for a different purpose and may have different eligibilities and requirements. Currently, the funding avenues available through the Engineering Society are:
-   1. Project Directorship / Associated Entity funding (Chapter A)
-   1. Conference Funding (Chapter B)
-   1. Special Projects Funding (Chapter C)
-   1. Discipline Club Funding (Chapter D)
-   1. Affiliated Club Funding (Chapter E)
-   1. Levy Funding (Chapter F)
-1. The Finance Committee is responsible for reviewing all applications under the funding avenues listed in paragraph 3.1 and may recommend applications for approval at its discretion.
+   1. Project Directorship / Associated Entity funding ([Chapter 10](../policies/finance-policy.md#project-directorship--associated-entity-funding))
+   1. Conference Funding ([Chapter 11](../policies/finance-policy.md#conference-funding))
+   1. Special Projects Funding ([Chapter 12](../policies/finance-policy.md#special-projects-funding))
+   1. Discipline Club Funding ([Chapter 13](../policies/finance-policy.md#discipline-club-funding))
+   1. Affiliated Club Funding ([Chapter 14](../policies/finance-policy.md#affiliated-club-funding))
+   1. Levy Funding ([Chapter 15](../policies/finance-policy.md#levy-funding))
+1. The Finance Committee is responsible for reviewing all applications under the funding avenues listed in [Finance Policy §3.0.1](../policies/finance-policy.md#avenues-for-funding) and may recommend applications for approval at its discretion.
 1. Each funding avenue shall be associated with a Terms of Reference which may be found in the chapter in the list under paragraph 4.1. The Terms of Reference shall determine the purpose, eligibility, evaluation, and how the funding may be used for the funding avenue it is associated with. In particular:
    1.	All applications to a funding avenue must be for the purpose stated in its Terms of Reference.
    1. All applications to a funding avenue must demonstrate the application's eligibility under its Terms of Reference.
@@ -54,26 +53,26 @@ subtitle: Policy on Finances
 
 # Application review
 ## Application review process
-1.	The Finance Committee is responsible for reviewing applications for completeness under paragraph 4.4 and eligibility under paragraph 4.3.
+1.	The Finance Committee is responsible for reviewing applications for eligibility under [Finance Policy §4.0.4](../policies/finance-policy.md#application-review-process) and completeness under [Finance Policy §4.0.3](../policies/finance-policy.md#application-review-process).
 1. The Finance Committee may decide on an application based on information not present on the application. However, the Committee may decide on an application solely based on information present in the application.
 1. At any month the Finance Committee meets, it shall review every eligible application it receives. However, the Committee need not confer a decision on every application during the meeting, and may table applications indefinitely.
 1. The Finance Committee may decide on applications at its discretion, though it shall incorporate criteria listed under the Terms of Reference for the application's funding avenue into its reasoning for deciding on applications:
 1. Each member of the Finance Committee will have one (1) vote on all applications reviewed by the Committee.
 1.  Requests that the Finance Committee deems unusual or controversial should be deferred to the Board of Directors.
-1. The Finance Committee shall be responsible for explaining its recommendation and reasoning behind such to the Board of Directors prior to any approval by the Board under paragraph 2.4.
+1. The Finance Committee shall be responsible for explaining its recommendation and reasoning behind such to the Board of Directors prior to any approval by the Board under [Finance Policy §1.0.4](../policies/finance-policy.md#the-finance-committee).
 1. All appeals for funding applications shall be heard at the month-end board of directors meeting through a motion to amend the Finance Committee recommendations. All appeals must include:
    1.	An explanation describing the reasons for appeal and the amount appealed;
-   1. A budget pursuant to the requirements in paragraph 4.4 and the corresponding Terms of Reference for the application being appealed.
+   1. A budget pursuant to the requirements in paragraph under [Finance Policy §4.0.4](../policies/finance-policy.md#application-review-process) and the corresponding Terms of Reference for the application being appealed.
 
 # Budgets
 ## General
-1.	The Finance Committee shall assist the Vice-President Finance in creating and keeping Engineering Society operating budgets up to date as defined in Bylaw 4.
+1.	The Finance Committee shall assist the Vice-President Finance in creating and keeping Engineering Society operating budgets up to date as defined in [Bylaw 4](../bylaw-4.md).
 1.	The Vice-President Finance shall open budget submissions for the subsequent fiscal year from Project Directorships, Associated Entities, and Officers of the Societies after the April Board of Directors meeting. Budgets shall be returned as soon as possible to the Vice-President Finance for examination by the Finance Committee.
-1.	A budget submission shall be treated as a request for funding from the submitting entity by the Finance Committee under the Project Directorship / Associated Entity funding avenue and shall be reviewed under Schedule G of this Policy.
+1.	A budget submission shall be treated as a request for funding from the submitting entity by the Finance Committee under the Project Directorship / Associated Entity funding avenue and shall be reviewed under [Chapter 10](../policies/finance-policy.md#project-directorship--associated-entity-funding) of this Policy.
 
 # Reimbursement Process
 ## General
-1. Anything purchased through funding approved under paragraph 2.4 may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the *cheque requisition*, per Bylaw 4.
+1. Anything purchased through funding approved under paragraph 2.4 may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the *cheque requisition*, per [Bylaw 4](../bylaw-4.md).
 1. All requests for reimbursement shall use the cheque requisition form provided by the Engineering Society. The form may be found in the Engineering Society office, or on the Engineering Society website, and must be submitted to the Vice President Finance through:
    1.	Email to the Vice-President Finance,
    1.	In person to their mailbox at the Engineering Society office, and
@@ -86,19 +85,19 @@ subtitle: Policy on Finances
    1. The signature of an individual responsible for receiving the reimbursement. In case the beneficiary is an organisation, this person must hold signing authority over the organisation's finances.
 1. Each Officer shall be responsible for ensuring that all cheque requisition forms submitted by any entities they oversee are related to their operations.
 1.	Each Officer shall be responsible for ensuring all cheque requisitions include sufficient documentation, are for the correct amounts, and are in general accordance with the approved funding application the reimbursement is made against.
-1. Any cheque requisition may be approved at the discretion of its signing Officers, except that Officers must refuse all cheque requisitions that do not meet the requirements set out in paragraphs 7.3 and 7.5.
+1. Any cheque requisition may be approved at the discretion of its signing Officers, except that Officers must refuse all cheque requisitions that do not meet the requirements set out in [Finance Policy §6.0.4](../policies/finance-policy.md#reimbursement-process) and [Finance Policy §6.0.5](../policies/finance-policy.md#reimbursement-process).
 
 # Audits and Financial Reporting
 ## Audits
 1.	All entities that receive funding from the Society shall keep complete financial records of all money they receive from all sources and spend on any expense. This record shall:
    1.	State all sources and individually identifiable recipients of funds and their amounts;
    1.	State the purpose of all expenditures incurred by the Club.
-1.	By the end of June of any year, all Affiliated Clubs and Discipline Clubs are required to submit their financial records spanning the immediately preceding fiscal year to the Audit Committee for audit. All records submitted must comply with the requirements set out in section 8.1. Any Club that fails to submit their financial records before the deadline above shall be denied the benefits of affiliation until they do so.
-1. With the records collected pursuant to section 8.2, the Audit Committee shall audit Affiliated Clubs' records in the following August, September, November, January, and March.
+1.	By the end of June of any year, all Affiliated Clubs and Discipline Clubs are required to submit their financial records spanning the immediately preceding fiscal year to the Audit Committee for audit. All records submitted must comply with the requirements set out in [Finance Policy §7.0.1](../policies/finance-policy.md#audits). Any Club that fails to submit their financial records before the deadline above shall be denied the benefits of affiliation until they do so.
+1. With the records collected pursuant to section [Finance Policy §7.0.2](../policies/finance-policy.md#audits), the Audit Committee shall audit Affiliated Clubs' records in the following August, September, November, January, and March.
 1.	The Audit Committee's audit shall be for the purpose of ensuring the financial records it receives are correct and complete, and for ensuring that any fun ding disbursed by the Engineering Society was spent on its intended usage as per the Terms of Reference the funding was approved under.
 1.	As part of an audit, the Audit Committee shall offer feedback on the financial records it receives to the Affiliated Clubs.
 1.	The Audit Committee shall keep the financial records it receives on file for future examination by Affiliated Clubs, Society Members, the Faculty of Applied Science and Engineering, and the Engineering Alumni Association.
-1.	In addition to the regular audit process in section 8.2, the Audit Committee may initiate an audit of any Discipline Club and Affiliated Club at any time if the Committee, by a majority vote, suspects financial malpractice by a Club, or as part of a complaint resolution process.
+1.	In addition to the regular audit process in [Finance Policy §7.0.2](../policies/finance-policy.md#audits), the Audit Committee may initiate an audit of any Discipline Club and Affiliated Club at any time if the Committee, by a majority vote, suspects financial malpractice by a Club, or as part of a complaint resolution process.
 
 ## Financial Reporting
 1.	The Vice-President Finance shall work with the managers of Engineering Stores and the Hard Hat Café to produce a report on expenditures on these two arms of the Society on a monthly basis.
@@ -113,7 +112,7 @@ subtitle: Policy on Finances
 # Skule™ Endowment Fund
 ## General
 1. The Skule™ Endowment Fund Committee shall be responsible for the oversight and management of the Skule™ Endowment Fund. The Vice President Finance and the President shall ensure that the Skule™ Endowment Fund is allocated appropriately and responsibly.
-1. The Skule™ Endowment Fund shall be governed by a Terms of Reference. Subject to review and approval under paragraph 2.4 and compliance with the Skule™ Endowment Fund Constitution, the Skule™ Endowment Fund Committee may review and alter these Terms of Reference. The Terms of Reference shall be publicly available. The most recent Terms of Reference may be found [here](https://drive.google.com/file/d/1IvK4zgGMR8ZL3cIJUK2VHWHKSl_mZDQu/edit)
+1. The Skule™ Endowment Fund shall be governed by a Terms of Reference. Subject to review and approval under the Finance Committee and compliance with the Skule™ Endowment Fund Constitution, the Skule™ Endowment Fund Committee may review and alter these Terms of Reference. The Terms of Reference shall be publicly available. The most recent Terms of Reference may be found [here](https://drive.google.com/file/d/1IvK4zgGMR8ZL3cIJUK2VHWHKSl_mZDQu/edit)
 1.	All applications to the Skule™ Endowment Fund shall comply with the requirements set out in the Terms of Reference. Every undergraduate engineering student on the Skule™ Endowment Fund Committee, including the President and the Vice-President Finance, shall be responsible for ensuring this compliance.
 1.	The Vice-President Finance shall be responsible for producing a document to summarize all allocations made from the Skule™ Endowment Fund to be presented to the Board of Directors in its last meeting each fiscal year. For more information about the Skule™ Endowment Fund, its constitution may be found [here](https://drive.google.com/file/d/0B3agLOf0dQ6FcEs0OEVBbVN2LTQ/view?usp=sharing&resourcekey=0-ddLpn3B07JSuwCNeWil8YA).
 
@@ -163,7 +162,7 @@ subtitle: Policy on Finances
 1. Applications to Conference Funding may be submitted on every month the Finance Committee operates.
 1. Throughout this chapter:
 1. A conference is a gathering of people with a common interest or background about a common topic. This means:
-   1. A conference must be a gathering of people;
+   1. A conference must be a gathering of multiple people;
    1. Attendees to a conference must have a common interest or background;
    1.  A conference must be on a well-defined topic.
 1. Whether an event may qualify as a conference is up to the Finance Committee's discretion, guided by the above criteria.
@@ -178,7 +177,6 @@ subtitle: Policy on Finances
 1. All members of the Engineering Society may apply for this funding avenue. Individuals may apply by filing Individual Applications.
 1. The following entities may file Club Applications on behalf of their members:
    1. EngSoc Affiliated Trial and Full-Status Clubs, except Levy Groups
-   1. Discipline Clubs
 1. If engineering students attend a conference to represent a particular entity's interests or present work done as part of the entity's activities, the entity must file a Club Application on the members' behalf. Otherwise, the individuals attending the conference may file Individual Applications.
 The following entities may not file Club Applications on behalf of their members:
    1. Levy groups
@@ -206,8 +204,8 @@ The following entities may not file Club Applications on behalf of their members
    1. Gasoline;
    1. Food and socials.
 1. All Club Applications must explain how reimbursements for conference costs borne by individuals will be handled within the club.
-1. An individual may only receive at most $750 from all Individual Applications combined (in the year 2026-7).
-1. A club may only receive at most $5000 from all Club Applications combined (in the year 2026-7).
+1. An individual may only receive at most $750 from all Individual Applications combined (in the fiscal year 2026-7).
+1. A club may only receive at most $5000 from all Club Applications combined (in the fiscal year 2026-7).
 1. A conference funding application for an academic conference may only cover the lesser of $750 or 50% of the eligible costs for the conference per individual per conference.
 1. A conference funding application for a hobby conference may only cover the lesser of $500 or 50% of the eligible costs for the conference per individual per conference.
 
@@ -217,12 +215,12 @@ The following entities may not file Club Applications on behalf of their members
 
 # Special Projects Funding
 ## General
-1. Special Projects Funding is intended for non-recurring expenses for initiatives that enhances a club’s ability to benefit the Skule™ community or new events that benefit the Skule™ community.
+1. Special Projects Funding is intended for non-operating expenses for initiatives that enhances a club’s ability to benefit the Skule™ community or new events that benefit the Skule™ community.
 1. Applications to Special Projects Funding may be opened on every month the Finance Committee operates.
 
 ## Eligibility
 1. Only the following entities are eligible for special projects funding:
-   1. EngSoc Project Directorships
+   1. EngSoc Project Directorships and Associated Entities
    1. EngSoc Affiliated Trial Clubs (that are NOT EngSoc Levy Groups)
    1. EngSoc Affiliated Full-Status Clubs (that are NOT EngSoc Levy Groups)
 1. Furthermore, the following groups are NOT eligible for special projects funding:
@@ -258,7 +256,7 @@ The following entities may not file Club Applications on behalf of their members
 # Discipline Club Funding
 ## General
 1. Discipline Club Funding is to support Discipline Clubs with their annual, day-to-day operations.
-1. Discipline Club Funding provides all discipline clubs with a set portion of the Engineering Society Fee. The amount of Discipline Club Funding is set out as per Bylaw 7, Chapter 1.
+1. Discipline Club Funding provides all discipline clubs with a set portion of the Engineering Society Fee. The amount of Discipline Club Funding is set out as per [Bylaw 7 § 1.0](../bylaw-7.md).
 
 ## Eligibility
 1. Only Discipline Clubs are eligible for this funding avenue.
@@ -278,11 +276,11 @@ The following entities may not file Club Applications on behalf of their members
    1. Winter Club Funding only happens at the discretion of the Vice-President Finance, and is opened at least three months after the distribution of CPSIF results to provide time for teams to reassess their funding requirements.
 
 ## Eligibility
-1. The following groups are eligible for general club funding:
+1. The following groups are eligible for this funding avenue:
    1. EngSoc Affiliated Trial Clubs
    1. EngSoc Affiliated Full-Status Clubs that are NOT levy groups.
 1. The following groups are not eligible for general club funding:
-1. The following groups are NOT eligible for special projects funding:
+1. The following groups are NOT eligible for this funding avenue:
    1. Levy Groups
    1. Non EngSoc Affiliated Clubs
    1. Discipline Clubs
@@ -320,7 +318,7 @@ The following entities may not file Club Applications on behalf of their members
 
 ## Eligibility
 1. This section discusses eligibility requirements for entities that wish to file an application for Levy Funding. See "Distribution and use of funds" for requirements on maintaining levy group status while a levy is in force.
-1. All applicants interested in receiving or renewing a levy must be full status club affiliated with the Engineering Society or a Project Directorship.
+1. All applicants interested in receiving or renewing a levy must be full status club affiliated with the Engineering Society or an Affiliated Entity.
 1. To be eligible for consideration, applications must include the following:
    1. A letter addressed to the engineering student body explaining the group’s activities, accomplishments and needs;
    1. The amount the group wants to request from students; and
