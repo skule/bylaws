@@ -39,10 +39,10 @@ subtitle: Policy on Finances
    1. Affiliated Club Funding ([Chapter 14](../policies/finance-policy.md#affiliated-club-funding))
    1. Levy Funding ([Chapter 15](../policies/finance-policy.md#levy-funding))
 1. The Finance Committee is responsible for reviewing all applications under the funding avenues listed in [Finance Policy §3.0.1](../policies/finance-policy.md#avenues-for-funding) and may recommend applications for approval at its discretion.
-1. Each funding avenue shall be associated with a Terms of Reference which may be found in the chapter in the list under paragraph 4.1. The Terms of Reference shall determine the purpose, eligibility, evaluation, and how the funding may be used for the funding avenue it is associated with. In particular:
+1. Each funding avenue shall be associated with a Terms of Reference which may be found in the chapter in the list under [Finance Policy §3.0.1](../policies/finance-policy.md#avenues-for-funding). The Terms of Reference shall determine the purpose, eligibility, evaluation, and how the funding may be used for the funding avenue it is associated with. In particular:
    1.	All applications to a funding avenue must be for the purpose stated in its Terms of Reference.
    1. All applications to a funding avenue must demonstrate the application's eligibility under its Terms of Reference.
-   1. Although the Finance Committee may decide on applications at its discretion, it will incorporate these Terms of References into its reasoning for evaluating applications, in addition to the list in paragraph 5.4.
+   1. Although the Finance Committee may decide on applications at its discretion, it will incorporate these Terms of References into its reasoning for evaluating applications, in addition to the list in [Finance Policy §4.0.4](../policies/finance-policy.md#avenues-for-funding).
    1. All funds approved through successfully applying to a specific funding avenue must be used according to its Terms of Reference. In addition, funds must be spent on anything cited in the approved application with non-substantive changes to price and quality.
    1. All applications to a funding avenue must be sent to the Vice-President Finance through the method specified in the Terms of Reference.
 1. In addition to any application requirements outlined in each funding avenue's Terms of Reference, an application must:
@@ -56,13 +56,13 @@ subtitle: Policy on Finances
 1.	The Finance Committee is responsible for reviewing applications for eligibility under [Finance Policy §4.0.4](../policies/finance-policy.md#application-review-process) and completeness under [Finance Policy §4.0.3](../policies/finance-policy.md#application-review-process).
 1. The Finance Committee may decide on an application based on information not present on the application. However, the Committee may decide on an application solely based on information present in the application.
 1. At any month the Finance Committee meets, it shall review every eligible application it receives. However, the Committee need not confer a decision on every application during the meeting, and may table applications indefinitely.
-1. The Finance Committee may decide on applications at its discretion, though it shall incorporate criteria listed under the Terms of Reference for the application's funding avenue into its reasoning for deciding on applications:
+1. The Finance Committee may decide on applications at its discretion, though it shall incorporate criteria listed under the Terms of Reference for the application's funding avenue into its reasoning for deciding on applications, as well as [Chapter 9](../policies/finance-policy.md#policies-applicable-to-multiple-funding-avenues) of this Policy.
 1. Each member of the Finance Committee will have one (1) vote on all applications reviewed by the Committee.
 1.  Requests that the Finance Committee deems unusual or controversial should be deferred to the Board of Directors.
 1. The Finance Committee shall be responsible for explaining its recommendation and reasoning behind such to the Board of Directors prior to any approval by the Board under [Finance Policy §1.0.4](../policies/finance-policy.md#the-finance-committee).
 1. All appeals for funding applications shall be heard at the month-end board of directors meeting through a motion to amend the Finance Committee recommendations. All appeals must include:
    1.	An explanation describing the reasons for appeal and the amount appealed;
-   1. A budget pursuant to the requirements in paragraph under [Finance Policy §4.0.4](../policies/finance-policy.md#application-review-process) and the corresponding Terms of Reference for the application being appealed.
+   1. A budget pursuant to the requirements under [Finance Policy §4.0.4](../policies/finance-policy.md#application-review-process).
 
 # Budgets
 ## General
@@ -72,7 +72,7 @@ subtitle: Policy on Finances
 
 # Reimbursement Process
 ## General
-1. Anything purchased through funding approved under paragraph 2.4 may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the *cheque requisition*, per [Bylaw 4](../bylaw-4.md).
+1. Anything purchased through funding approved under [Finance Policy §3.0.1](../policies/finance-policy.md#avenues-for-funding) may be reimbursed at the Engineering Society's expense after a request pursuant to the remainder of this section has been made. This reimbursement process shall be called the *cheque requisition*, per [Bylaw 4](../bylaw-4.md).
 1. All requests for reimbursement shall use the cheque requisition form provided by the Engineering Society. The form may be found in the Engineering Society office, or on the Engineering Society website, and must be submitted to the Vice President Finance through:
    1.	Email to the Vice-President Finance,
    1.	In person to their mailbox at the Engineering Society office, and
@@ -353,5 +353,5 @@ The following entities may not file Club Applications on behalf of their members
    1. A list of each member of that group authorized to its behalf and their current home address, phone number, and email address;
    1. Proof that the group has a bank account and that the only authorized signatories for disbursements are current signing officers of the organization; and
    1. A preliminary or forecast budget for the subsequent year.
-1. The Vice President Finance shall post the items listed in the above paragraph in a location accessible to members of the Engineering Society.
+1. The Vice President Finance shall post the items listed in [Finance Policy §15.3.4](../policies/finance-policy.md#distribution-and-use-of-funds-5) in a location accessible to members of the Engineering Society.
 1. In addition to any consequences in the Audits chapter (get chapter no), any Levy funding that the Levy Group will receive shall be withheld by the Engineering Society up until the Levy Group's audit is concluded, provided that the audit does not result in an investigation by the Ombudsperson.
