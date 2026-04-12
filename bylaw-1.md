@@ -351,10 +351,7 @@ subtitle: The Engineering Society
 
 ## General
 1. The Council shall be composed of the Board Members, Project Directors, Class Representatives, one (1) representative selected by each Ancillary Organization, Internal Representatives, and Spirit Heads.
-
-## Quorum
-1. Quorum at a meeting of the Council shall be fifty percent (50%) of voting members present.
-1. Proxy votes shall count towards Quorum.
+1. The Council is not a formal body of the Society but simply a single term encompassing all the listed roles.
 
 # Employees
 
@@ -371,7 +368,8 @@ subtitle: The Engineering Society
 
 ## General
 1. In addition to the documents described in [Bylaw 0 section 2.0.1](bylaw-0.md), there shall be the following subordinate levels of documents specifying the organization of the Society;
-   1. Policies.
+   1. Policies, and
+   1. Manuals.
 1. All Bylaws and other documents listed here must be written using gender neutral pronouns.
 
 ## Policies
@@ -385,3 +383,27 @@ subtitle: The Engineering Society
 1. When a policy is passed, repealed, or amended, it shall be noted, within the relevant Policy, which of the parties listed in section 7.1.2 did so.
 1. A notice shall be given to the Board of Directors when a policy is passed, repealed, or amended by a party listed after the Board of Directors in section 7.1.2.
 1. Policies passed, Policies repealed, and Policy amendments by a party listed in section 7.1.2 may not be repealed, passed, or reversed or substantively defeated, respectively, by parties which come after them in the same list until one (1) year after the amendment was made.
+
+## Manuals
+1. Each role (including members of bodies) defined in the Bylaws shall have a Manual, named "(Name of Role) Manual", with role name suffixes such as "Director" or "Manager" removed (unless the resulting title would be too confusing).
+1. Manuals shall be considered descriptions of the corresponding roles which supersede neither their Bylaw-mandated responsibilities nor specific Policies describing their responsibilities.
+1. Manuals shall:
+   1. Summarize the role's purpose;
+   1. Describe the role's typical operations, including executive structure and responsibilities as applicable;
+   1. List the role's responsibilities, whether ongoing, time-fixed, or optional; and
+   1. Contain enough detail to allow an incumbent with no experience in the Society to fulfill its basic functions.
+1. Manuals may only be amended by:
+   1. A simple majority vote of a General Meeting;
+   1. A simple majority vote of the Board of Directors;
+   1. A simple majority vote of the Executive Committee; or
+   1. A simple majority vote of the incumbents in the corresponding role, with the consent of the Officer overseeing the role (directly or indirectly).
+      1. For the sole purposes of this section, the Officers are their own overseeing Officers, and any other role with no explicitly defined overseeing Officer has the President as its overseeing Officer.
+1. Manuals shall be passed or repealed when the corresponding role is created or removed, respectively, by the same body creating or removing the role.
+   1. It shall be out of order to amend the Bylaws to create or remove a role without simultaneously passing or repealing, respectively, the corresponding Manual.
+   1. The parties listed in section 7.2.4 shall pass a Manual when a role previously created is discovered to be lacking its Manual, and shall repeal a Manual when a role previously removed is discovered to still have a Manual.
+      1. In the latter case, the role being nonexistent, the consent of the incumbents as described in section 7.2.4.d is not required.
+      1. Notwithstanding section 7.2.5.a, the delay in passing or repealing the Manual does not void the creation or removal, respectively, of the corresponding role.
+   1. Changes to the number or Constituency makeup of a role shall not be considered creation or removal of a role (e.g. the creation of Class Representatives for the PEY Constituency does not create a new role).
+1. When a Manual is amended, it shall be noted, within the relevant Manual, which of the parties listed in section 7.2.4 did so.
+1. Notice shall be given to the Board of Directors when a Manual is amended by a party listed after the Board of Directors in section 7.2.4.
+1. Amendments to Manuals by a party listed in section 7.2.4 may not be reversed or substantively defeated by parties which come after them in the same list until one (1) year after the amendment was made.
