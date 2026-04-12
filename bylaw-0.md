@@ -1,5 +1,5 @@
 ---
-revdate: TBD, 2026
+revdate: April 4, 2026
 title: Bylaw 0
 pdf: Bylaw 0
 subtitle: The Constitution
@@ -42,7 +42,7 @@ subtitle: The Constitution
    1. Make statements on behalf of its Members without duly engaging them.
    1. Represent or intervene on behalf of its Members in matters outside the scope of the governance of engineering student life which do not impact the Society's ability to serve its Members, such as the endorsement of political parties or candidates.
    1. Represent the interests of individual Members over the collective.
-   1. Permit the discrimination or harassment of any of its Members on the basis of race, gender, sexual orientation, age, disability, health condition, ancestry, place of origin, colour, ethnic origin, citizenship, creed, marital status, family status, receipt of public assistance, or record of offence.
+   1. Permit the discrimination or harassment of any of its Members in the course of its operations on the basis of race, gender, sexual orientation, age, disability, health condition, ancestry, place of origin, colour, ethnic origin, citizenship, creed, marital status, family status, receipt of public assistance, or record of offence.
 
 ## Not for Profit
 1. The Society shall be carried on without the purpose of gain for its Members and any profits or other accretions of the Society shall be used in promoting its objectives.

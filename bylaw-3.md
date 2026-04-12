@@ -1,5 +1,5 @@
 ---
-revdate: February 23, 2026
+revdate: April 4, 2026
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw

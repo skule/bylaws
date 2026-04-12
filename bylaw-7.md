@@ -1,5 +1,5 @@
 ---
-revdate: February 23, 2026
+revdate: April 4, 2026
 title: Bylaw 7
 pdf: Bylaw 7
 subtitle: The Discipline Clubs and Class Representatives Bylaw
