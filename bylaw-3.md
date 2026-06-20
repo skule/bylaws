@@ -1,5 +1,5 @@
 ---
-revdate: April 4, 2026
+revdate: June 25, 2026
 title: Bylaw 3
 pdf: Bylaw 3
 subtitle: The Elections Bylaw
@@ -403,7 +403,6 @@ subtitle: The Elections Bylaw
 
 ## General
 1. Campaigning activities are allowed solely during the Campaign Period and may only be done by a candidate.
-1. All campaign materials must prominently display the following text: "vote.skule.ca".
 1. Candidates are limited to zero dollars ($0) in campaign expenses.
    1. Tools and resources used to create the content outlined in section 8.1, section 8.2, and section 8.6 are not counted towards a candidate's campaign spending.
    1. A printing budget may be determined at the discretion of the CRO in the case that a candidate  does not have a printing quota or has exhausted their printing quota with the Engineering Computing Facility (ECF).
@@ -430,13 +429,11 @@ subtitle: The Elections Bylaw
 1. Posters shall be approved by the CRO and stamped by the Society.
 1. Posters shall not:
    1. Exceed the size of 2 letter-size pages;
-   1. Be placed on other posters;
-   1. Obstruct other notices while they are current;
+   1. Be placed on other posters or notices;
    1. Be clustered in groups of more than 2;
    1. Be posted in restrooms in any building;
    1. Be put up in computer labs, on tables or any glass surfaces;
    1. Be posted outdoors unless on a public message board;
-   1. Obstruct other notices while they are current;
    1. Be placed in locations that are not the Sandford Fleming, Mechanical Engineering, Lassonde Mining, Wallberg Memorial, Galbraith, Rosebrugh, Haultain, D.L. Pratt Buildings, the Engineering Annex, or the Bahen Centre of Information Technology. Notably, they may not be placed in the Myhal Centre for Engineering Innovation and Entrepreneurship.
 1. Candidates shall not leave posters for longer than one week after the election, else they will be fined $1/day per poster that is not taken down.
 1. Banners are not permitted.
