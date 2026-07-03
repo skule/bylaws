@@ -284,7 +284,7 @@ subtitle: The Engineering Society
    1. The Speaker must call a meeting within seven (7) days of receiving a valid petition.
 
 ## Notice of Meetings
-1. Notice of meetings of the Board of Directors, which shall also include the agenda for that meeting, shall be given electronically or in writing to every Member by the Speaker of the Board of Directors or at least five (5) days before the time chosen for such a meeting.
+1. Notice of meetings of the Board of Directors, which shall also include the agenda for that meeting, shall be given electronically or in writing to every Member by the Speaker of the Board of Directors at least five (5) days before the time chosen for such a meeting.
    1. For Special Meetings of the Board of Directors called with less than five (5) days notice, notice must be provided to every Member within six (6) hours of the meeting being called.
 1. Notice is not required for a meeting that continues an adjourned meeting of Directors if the time and place of the continued meeting is announced at the meeting that is adjourned.
 
