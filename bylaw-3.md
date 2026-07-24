@@ -21,9 +21,10 @@ subtitle: The Elections Bylaw
    1. “Nominator” shall refer to a Member who wishes to nominate an individual other than themself to a position.
 
 ## General
-1. The CRO shall give notice of the opening of a Nomination Period of any referendum or election and the positions to be elected.
-   1. Notice shall be given at least two (2) days in advance via an email to all Members. Notice shall include all information, or a reference to such, necessary to form a complete nomination.
-1. The CRO shall notify all Members by email at the opening of an Election period, and at 12pm on the day an Election Period closes.
+1. The CRO shall notify all Members subscribed to receive Governance Updates through the Governance Mailing List of the opening of a Nomination Period of any referendum or election and the positions to be elected.
+   1. Notice shall be given at least two (2) days in advance via an email.
+1. The CRO shall notify all Members by email at the opening of an Election Period. This notice shall include all information, or a reference to such, necessary to form a complete nomination.
+1. The CRO shall notify all Members at 12pm on the day an Election Period closes.
 1. Electronic voting shall be made available over the entirety of a given Voting Period for an election cycle, where applicable, through vote.skule.ca.
 1. For a given election cycle, the CRO shall publicly certify and announce election results to the Society within six hours of the end of the election period.
 1. Each Nomination Package shall include the following mandatory sign-off statement signifying that the "Confidentiality Agreement - Information Sharing" document will be used to verify the Member's enrolment status with the Registrar, as per the conditions outlined in [Bylaw 1 Section 1.0.1](bylaw-1.md).
@@ -407,7 +408,7 @@ subtitle: The Elections Bylaw
 1. Campaigning activities are allowed solely during the Campaign Period and may only be done by a candidate.
 1. Candidates are limited to zero dollars ($0) in campaign expenses.
    1. Tools and resources used to create the content outlined in section 8.1, section 8.2, and section 8.6 are not counted towards a candidate's campaign spending.
-   1. A printing budget may be determined at the discretion of the CRO in the case that a candidate  does not have a printing quota or has exhausted their printing quota with the Engineering Computing Facility (ECF).
+   1. A printing budget may be determined at the discretion of the CRO in the case that a candidate does not have a printing quota or has exhausted their printing quota with the Engineering Computing Facility (ECF).
    1. Objects used or distributed in relation to a campaign will be judged at reasonable market value, at the discretion of the CRO, and not at the value for which they were obtained. For example, distribution of	freely obtained food in a campaign context would result in a breach of this rule.
 1. The campaigning rules outlined in this Chapter apply to all positions identified in this Bylaw, with the exception of the following, for which candidates may not campaign:
    1. Project Directors (including the Orientation Chair);
