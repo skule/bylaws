@@ -447,22 +447,11 @@ subtitle: The Elections Bylaw
    1. Endorsements.
 
 ## Social Media
-1. Campaigning may occur on any publicly accessible social media platform, with approval from the CRO.
-   1. Social media campaigning activities must only occur in locations (i.e. Facebook events, Instagram pages, etc.) which are known to and approved by the CRO, and campaigning may only commence once this approval has been communicated to the candidate.
-   1. Notwithstanding any other part of this Bylaw, any campaign activities occurring in online locations not known to and approved by the CRO are prohibited.
-1. A candidate may only begin social media campaigning once their campaign account has been approved by a member of the ORO for that election period. The following criteria must be met for a Social Media Campaigning Account to receive approval:
-   1. The account must be created on a platform approved by the ORO, and it must be a new account with no existing followers or connections, aside from ORO members.
-   1. The account must be publicly accessible to all users of the platform.
-   1. The account name must clearly identify the candidate (e.g., @billy_bob_for_prez is allowed, whereas @EngSoc_Prez is not).
-   1. The account description must include the text "vote.skule.ca."
-   1. Any additional criteria deemed necessary by the CRO.
-      1. The CRO will disclose these requirements to all candidates at the All Candidates Meeting. Failure to adhere to undisclosed criteria will not be considered a penalizable offense.
-1. Any content posted in approved social media locations must satisfy all other applicable sections of Bylaw 3.
-1. Campaign material posted by candidates may not be reposted or shared by any other account, including the candidate's personal account. It is the candidate's responsibility to ensure their campaign material is not redistributed by any account that has not been approved by the CRO for that election period.
-   1. Campaign material posted by the CRO/ORO may be reposted by any account.
-1. All activity on campaign accounts must cease at the conclusion of the campaign period and remain inactive until the release of the election results. Following the announcement of results, candidates may use their campaign accounts at their discretion.
-1. The CRO shall be as permissible as is reasonable in their approval of campaign activities under this section.
-   1. Should unforeseeable and extenuating circumstances require it, approval of social media campaigning activities may be revoked by the CRO at any time, at which point further campaigning activities must cease in the location(s) in question.
+1. Each candidate shall submit no more than one campaign post to the CRO for publication on the CRO's official account(s). Once published by the CRO, such material may be redistributed or shared by any account, including the candidate's personal account, provided that all other conditions in the subsequent sections are met.
+1. A candidate shall not create any new social media account for the sole purpose of campaigning, nor publish campaign content on any personal or other account except for content that has been submitted to and published by the CRO.
+1. The CRO may, at their sole discretion, provide additional opportunities for candidates to engage directly with voters and present their campaign platforms. Any such opportunities shall be made available equally to all candidates and may include, but are not limited to:
+   1. AMA-style question-and-answer sessions or candidate interviews.
+   1. Features, collaborations, or other content published through EngSoc publications.
 
 ## Slates and Endorsements
 1. Slate campaigning will result in disqualification.
@@ -503,7 +492,6 @@ subtitle: The Elections Bylaw
 1. Any violation of the rules by the Campaign Assistant is understood to be a violation on behalf of the candidate.
 1. The following are examples of permitted activities by the Campaign Assistant on behalf of the candidate:
    1. Designing and putting up posters;
-   1. Running Social Media campaign accounts and posting content; and
    1. General logistics and miscellaneous support such as scheduling class speeches, etc.
 1. The following are examples of unauthorized activities by the Campaign Assistant on behalf of the candidate:
    1. Doing class speeches on behalf of the candidate without explicit permission from the CRO;
