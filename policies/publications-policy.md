@@ -1,0 +1,35 @@
+---
+revdate: August 18, 2026
+title: Policy Number "2022-04-16"
+pdf: policies/Publications Policy
+subtitle: Publications Policy
+---
+
+# General
+## Purpose
+  1. The purpose of this document is to set guidelines for all publications and media produced by the Engineering Society, hereby referred to as "EngSoc."
+## Enforcement
+   1. The Vice-President Communications is obbligated to enforce all of the requirements detailed in the policy, and has the right to refuse the publication of any item that does not adhere to the policy below.
+# Requirements
+1. Any media created by a student specifically for the purposes of an EngSoc publication shall remain the intellectual property of the student who created it, unless otherwise agreed to in writing.
+    1. By creating media specifically for EngSoc, the student grants EngSoc a perpetual,royalty-free, non-exclusive licence to use, reproduce, publish, distribute, display, modify, adapt, and otherwise reuse the work for EngSoc-related purposes.
+    1. The licence granted under 1.0.1.b shall include the right for EngSoc to reuse the work in publications, social media, websites, promotional materials, advertisements, merchandise, presentations, and other communications produced or distributed by or on behalf of EngSoc.
+    1. EngSoc may continue to use and reuse such images and media after the student has completed their involvement with EngSoc, without requiring additional permission or compensation, provided that the use is for an EngSoc-related purpose.
+    1. Where reasonably practicable, EngSoc shall provide attribution to the student creator when using their work. Attribution shall not be required where it is impractical due to the format, medium, or nature of the use.
+1. All images and media taken from external sources shall be used in accordance with Canadian copyright law. This means that:
+    1. Any image or media used within a publication that was not created by a student specifically for the purposes of that publication (see section 1.1) must either be licensed under an applicable Creative Commons (CC) licence or be in the public domain.
+        1. Proper attribution shall be provided for all images and media where required by the applicable licence, which typically includes the creator and type of licence at minimum.
+        1. Suggested sources for appropriately licensed or public domain images and media include, but are not limited to:
+            1. Unsplash
+            1. Pexels
+            1. Wikimedia Commons
+        1. The exception to the above rule is for all images and media obtained through Canva. These may be used freely and without attribution.
+    1. Where the licensing status cannot be verified, the material shall not be used unless appropriate permission has been obtained.
+1. A separate document containing the respective sources of each externally obtained image or piece of media used in a publication shall be maintained and submitted alongside the publication, to the VP Communications, for review and records.
+    1. The purpose of maintaining a source document is to ensure that all externally obtained images and media used in publications can be verified as being appropriately licensed or in the public domain, and to minimize the risk of copyright infringement or other legal issues.
+1. All individuals responsible for producing publications shall ensure that the requirements of this section are followed before the publication is distributed or made publicly available.
+1. All publications shall abide by the current EngSoc Policy on branding in their references to EngSoc and representation of EngSoc.
+    1. In particular, publications may use the following terms when referring to the engineering undergraduate community or EngSoc:
+        1. Skule™ — a term used to refer to the engineering undergraduate community. Every reference to Skule must be accompanied by the ™ symbol.
+        1. Skuligans — a term used to refer to current engineering undergraduate students.
+        1. EngSoc — a term used to refer to the Engineering Society, the student government representing undergraduate engineering students at the University of Toronto. EngSoc is made up of elected student volunteers and includes Officers, Project Directors, Associated Entities, Class Representatives, and the Board of Directors. For further information about EngSoc and its governance structure, please refer to skule.ca/about/engsoc.html.
