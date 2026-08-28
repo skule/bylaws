@@ -54,7 +54,7 @@ subtitle: Orientation Governance Policy
 1. Individuals will not be permitted to participate in or engage with Orientation or Orientation-related events if there exist credible allegations that the individual has:
    1. committed sexual violence or sexual harassment (as defined in the University of Toronto Policy on Sexual Violence and Sexual Harassment),
    1. committed other forms of harassment (as defined in the University of Toronto Statement on Prohibited Discrimination and Discriminatory Harassment) such as use of racial slurs,
-   1. attempted to engage a member of the incoming first-year class romantically or sexually, before the start of Orientation in the following school year, on a case by case basis.
+   1. attempted to engage a member of the incoming first-year class romantically or sexually, before the start of Orientation in the following school year, on a case by case basis,
    1. committed or attempted to commit other acts deemed inappropriate by the Orientation Chair and President, or
    1. failed to report violations of this standard of behaviour to an appropriate authority (whether to appropriate individuals within Orientation and the Engineering Society, to appropriate individuals within the University of Toronto, or appropriate law enforcement authorities).
 1. Different violations of the standard of behaviour may result in consequences of different severity and duration.
