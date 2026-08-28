@@ -313,7 +313,7 @@ subtitle: The Elections Bylaw
       1. Social media accounts need not be new.
       1. Social media accounts may continue to be active after the campaign period, but may not post further campaign material.
       1. The student group may use its own logos and endorse itself (contrary to Section 8.3), but its members may not publicly endorse it.
-      1. Campaign messages may be posted in the student group's own internal channels (contrary to Section 8.6.4) but still may not be posted in other groups not created for the purpose of campaigning.
+      1. Campaign messages may be posted in the student group's own internal channels but still may not be posted in other groups not created for the purpose of campaigning.
    1. Physical campaign materials and in-class speeches, as outlined in Section 8.1 and Section 8.4 respectively, are not allowed.
    1. Section 8.5 does not apply. Any member of the student group may assist with its campaign.
 1. Such a referendum which receives votes from at least 5% of Members, of which a simple majority are in favor, shall lead to the fee being modified as proposed. Otherwise, the referendum fails.
