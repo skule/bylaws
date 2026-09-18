@@ -1,5 +1,5 @@
 ---
-revdate:  March 28, 2026
+revdate:  September 18, 2026
 title: Policy Number "2006-01-02"
 pdf: policies/Finance Policy
 subtitle: Policy on Finances
@@ -92,7 +92,7 @@ subtitle: Policy on Finances
 1.	All entities that receive funding from the Society shall keep complete financial records of all money they receive from all sources and spend on any expense. This record shall:
    1.	State all sources and individually identifiable recipients of funds and their amounts;
    1.	State the purpose of all expenditures incurred by the Club.
-1.	By the end of June of any year, all Affiliated Clubs and Discipline Clubs are required to submit their financial records spanning the immediately preceding fiscal year to the Audit Committee for audit. All records submitted must comply with the requirements set out in [Finance Policy §7.0.1](../policies/finance-policy.md#audits). Any Club that fails to submit their financial records before the deadline above shall be denied the benefits of affiliation until they do so.
+1.	By the end of June of any year, all Affiliated Clubs and Discipline Clubs are required to submit their financial records spanning the immediately preceding fiscal year to the Audit Committee for audit. All records submitted must comply with the requirements set out in [Finance Policy §7.0.1](../policies/finance-policy.md#audits). Any Club that fails to submit its financial records before the deadline above shall be denied the benefits of affiliation until they do so.
 1. With the records collected pursuant to section [Finance Policy §7.0.2](../policies/finance-policy.md#audits), the Audit Committee shall audit Affiliated Clubs' records in the following months except for the months of April to June and month of December.
 1.	The Audit Committee's audit shall be for the purpose of ensuring the financial records it receives are correct and complete, and for ensuring that any fun ding disbursed by the Engineering Society was spent on its intended usage as per the Terms of Reference the funding was approved under.
 1.	As part of an audit, the Audit Committee shall offer feedback on the financial records it receives to the Affiliated Clubs.
@@ -114,7 +114,7 @@ subtitle: Policy on Finances
 1. The Skule™ Endowment Fund Committee shall be responsible for the oversight and management of the Skule™ Endowment Fund. The Vice President Finance and the President shall ensure that the Skule™ Endowment Fund is allocated appropriately and responsibly.
 1. The Skule™ Endowment Fund shall be governed by a Terms of Reference. Subject to review and approval under the Finance Committee and compliance with the Skule™ Endowment Fund Constitution, the Skule™ Endowment Fund Committee may review and alter these Terms of Reference. The Terms of Reference shall be publicly available. The most recent Terms of Reference may be found [here](https://drive.google.com/file/d/1IvK4zgGMR8ZL3cIJUK2VHWHKSl_mZDQu/edit)
 1.	All applications to the Skule™ Endowment Fund shall comply with the requirements set out in the Terms of Reference. Every undergraduate engineering student on the Skule™ Endowment Fund Committee, including the President and the Vice-President Finance, shall be responsible for ensuring this compliance.
-1.	The Vice-President Finance shall be responsible for producing a document to summarize all allocations made from the Skule™ Endowment Fund to be presented to the Board of Directors in its last meeting each fiscal year. For more information about the Skule™ Endowment Fund, its constitution may be found [here](https://drive.google.com/file/d/0B3agLOf0dQ6FcEs0OEVBbVN2LTQ/view?usp=sharing&resourcekey=0-ddLpn3B07JSuwCNeWil8YA).
+1.	The Vice-President Finance shall be responsible for producing a document to summarize all allocations made from the Skule™ Endowment Fund to be presented to the Board of Directors at its last meeting each fiscal year. For more information about the Skule™ Endowment Fund, its constitution may be found [here](https://drive.google.com/file/d/0B3agLOf0dQ6FcEs0OEVBbVN2LTQ/view?usp=sharing&resourcekey=0-ddLpn3B07JSuwCNeWil8YA).
 
 # Policies applicable to multiple funding avenues
 ## General
@@ -144,17 +144,17 @@ subtitle: Policy on Finances
    1. Intoxicating drugs (including cannabis and psilocybin)
 1. Funds may only be used for operating expenses.
 1. When evaluating how funds should be distributed, the finance committee must consider the following criteria:
-   1. The requester's ability in carrying out the use of funds as intended.
+   1. The requester's ability to carry out the use of funds as intended.
    1. Demonstrated effort to compare and identify the best value among alternatives, if applicable.
    1. Incorporation of good budgeting practices, including the presence of a contingency.
    1. How reasonable the requested funding amount is relative to the recipient’s activities.
    1. How inclusive the recipient’s events are.
    1. The availability of support as per the Engineering Society operating budgets.
-1. The above criteria are not watertight components; strength demonstrated in one criterion may compensate for weakenss in another.
+1. The above criteria are not watertight components; strength demonstrated in one criterion may compensate for weakness in another.
 
 ## Distribution and use of funds
 1. Funds will be distributed via the *cheque requisition* system outlined in this Policy. Funds from both Club and Individual Applications will be distributed this way.
-1. Funds must be spent on items cited in the approved application with non-substantive changes to price and quality. Changes to purchases after approval should be communicated with the Vice-President Finance.
+1. Funds must be spent on items cited in the approved application with non-substantive changes to price and quality. Changes to purchases after approval should be communicated to the Vice-President Finance.
 
 # Conference Funding
 ## General
@@ -167,7 +167,7 @@ subtitle: Policy on Finances
    1.  A conference must be on a well-defined topic.
 1. Whether an event may qualify as a conference is up to the Finance Committee's discretion, guided by the above criteria.
    1. A competition generally qualifies as a conference under the above definition.
-1. An external conference is a conference whose organizing body is not a member of, or affiliated with, the Engineering society.
+1. An external conference is a conference whose organizing body is not a member of, or affiliated with, the Engineering Society.
    1. The term "organizing body" does not apply to individuals.
    1. An academic conference is a conference whose topic incorporates any amount of engineering science or engineering design based on the CEAB's definition.
    1. Examples of academic conferences include academic and industry symposia, competitions, and training workshops or seminars, provided that they contain an engineering science or engineering design element.
@@ -180,7 +180,7 @@ subtitle: Policy on Finances
 1. If engineering students attend a conference to represent a particular entity's interests or present work done as part of the entity's activities, the entity must file a Club Application on the members' behalf. Otherwise, the individuals attending the conference may file Individual Applications.
 The following entities may not file Club Applications on behalf of their members:
    1. Levy groups
-   1. Non EngSoc Affiliated Entities
+   1. Non-EngSoc Affiliated Entities
 1. However, engineering students attending a conference on behalf of an entity that may not file Club Applications may not any claim funding from this funding avenue for that conference, even from filing an Individual Application.
 1. Conference funding applications must be submitted in the same fiscal year the conference is being held in, unless:
    1. The conference is held in March or April of a given year, in which the conference funding application may be filed in the following fiscal year;
@@ -194,15 +194,19 @@ The following entities may not file Club Applications on behalf of their members
    1. It avoids excessive fees, more than what is deemed necessary for participation in the conference;
    1. Its use in participating in the conference is sufficiently differentiated from any other use cases it may have.
 1. All of the following are considered eligible costs:
-   1. Long distance travel from the GTA (beyond the range of any local transit services) e.g. airplane tickets, train tickets, bus fares, and rental vehicles;
+   1. Long-distance travel from the GTA (beyond the range of any local transit services) e.g. airplane tickets, train tickets, bus fares, and rental vehicles;
    1. Room and board;
    1. Conference equipment e.g. banners, electronics;
    1. Shipping of conference equipment.
 1. All of the following are not considered eligible costs:
-   1. Short range travel within local transit services within or outside the GTA. This is because transit use cannot be traced to attendance in a conference;
+   1. Short-range travel within local transit services within or outside the GTA. This is because transit use cannot be traced to attendance in a conference;
    1. Ridesharing or taxi;
    1. Gasoline;
    1. Food and socials.
+1. For hobby conferences specifically, applications must satisfy one of the following conditions:
+   1. Be for the purposes of professional personal development (e.g. First Aid, Fabrication/Machining);
+   1. The attendee is a significant contributor or competitor in the conference (e.g., hosting a cosplay workshop at a convention);
+   1. If attending on behalf of an affiliated club, contribute significantly to the club's stated mandate.
 1. All Club Applications must explain how reimbursements for conference costs borne by individuals will be handled within the club.
 1. An individual may only receive at most $750 from all Individual Applications combined (in the fiscal year 2026-7).
 1. A club may only receive at most $5000 from all Club Applications combined (in the fiscal year 2026-7).
