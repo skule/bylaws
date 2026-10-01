@@ -1,6 +1,6 @@
 ---
-revdate: August 18, 2026
-title: Policy Number "2022-04-16"
+revdate: September 25, 2026
+title: Policy Number "2026-09-25"
 pdf: policies/Publications Policy
 subtitle: Publications Policy
 ---
