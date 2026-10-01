@@ -16,7 +16,6 @@ subtitle: Publications Policy
    1. Students must not submit AI-generated or AI-manipulated media as original student-created work.
    1. This restriction does not prohibit the use of ordinary non-generative software tools for editing, formatting, colour correction, cropping, resizing, noise reduction, or similar post-production processes, provided that the underlying creative work remains student-created.
    1. This restriction also does not prohibit the use of GenAI for explicitly satirical or explanatory purposes  (e.g. AI generated images in an article discussing the plausibility of said images in The Cannon), so long as the usage of GenAI is disclosed.
-   1. Students must not submit AI-generated or AI-manipulated media as original student-created work.
    1. Where there is uncertainty as to whether a tool or process constitutes GenAI, the student should disclose its use to the publication's editorial team before submission.
 1. Any media created by a student specifically for the purposes of an EngSoc publication shall remain the intellectual property of the student who created it, unless otherwise agreed to in writing.
     1. By creating media specifically for EngSoc, the student grants EngSoc a perpetual,royalty-free, non-exclusive licence to use, reproduce, publish, distribute, display, modify, adapt, and otherwise reuse the work for EngSoc-related purposes.
