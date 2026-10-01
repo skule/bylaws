@@ -2,7 +2,7 @@
 revdate: September 25, 2026
 title: Policy Number "2026-09-25"
 pdf: policies/Publications Policy
-subtitle: Policy on Publications
+subtitle: Publications Policy
 ---
 
 # General
