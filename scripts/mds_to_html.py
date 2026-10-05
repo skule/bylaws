@@ -76,14 +76,16 @@ def innerHTML(e: etree._Element) -> str:
                    if c.tag != 'ol').decode()
     ).strip()
 
-def parse_error(html: str, element: etree._Element) -> Never:
+def parse_error(html: str, element: etree._Element, expected: str, md: str) -> Never:
     lines = html.splitlines()
-    msg = f'Unexpected {element.tag} at line {element.sourceline} of HTML:\n'
+    msg = f'Unexpected {element.tag} at line {element.sourceline} of HTML ' \
+        f'(expected {expected}, or {md} in Markdown):\n'
+    c = len('ValueError: ') - 2
     if element.sourceline - 2 >= 0:
-        msg += f'{" "*14}{lines[element.sourceline - 2]}\n'
-    msg += f'{" "*12}! {lines[element.sourceline - 1]}\n'
+        msg += f'{" "*c}  {lines[element.sourceline - 2]}\n'
+    msg += f'{" "*c}! {lines[element.sourceline - 1]}\n'
     if element.sourceline < len(lines):
-        msg += f'{" "*14}{lines[element.sourceline]}\n'
+        msg += f'{" "*c}  {lines[element.sourceline]}\n'
     raise ValueError(msg.strip())
 
 def parse(html: str) -> list[Section]:
@@ -116,14 +118,14 @@ def parse(html: str) -> list[Section]:
         # pprint(element, sort_dicts=False, stream=sys.stderr)
         if len(stack) == 1:
             if element.tag != 'h1':
-                parse_error(html, element)
+                parse_error(html, element, 'h1', '#')
             stack[-1].append({'title': innerHTML(element), 'body': []})
             stack.append(stack[-1][-1]['body'])
         elif len(stack) == 2:
             if element.tag == 'h1':
                 stack.pop()
             elif element.tag != 'h2':
-                parse_error(html, element)
+                parse_error(html, element, 'h2', '##')
             stack[-1].append({'title': innerHTML(element), 'body': []})
             stack.append(stack[-1][-1]['body'])
         elif len(stack) == 3:
@@ -135,7 +137,7 @@ def parse(html: str) -> list[Section]:
                 stack.append(stack[-1][-1]['body'])
                 continue
             if element.tag != 'ol':
-                parse_error(html, element)
+                parse_error(html, element, 'ol', '1.')
             for li in element.iterchildren('li'):
                 stack[-1].append({'title': innerHTML(li), 'body': []})
                 for ol in li.iterchildren('ol'):
