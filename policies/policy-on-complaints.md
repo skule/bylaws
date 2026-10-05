@@ -1,5 +1,5 @@
 ---
-revdate: June 25, 2026 by the Board of Directors
+revdate: October 18, 2026 by the Board of Directors
 title: Policy Number "2013-02-01"
 pdf: policies/Policy-on-Complaints
 subtitle: Policy on Complaints
@@ -74,6 +74,7 @@ subtitle: Policy on Complaints
    1. None of the conduct of the subject(s) of the complaint constitutes misconduct under section 0.2.2 of this Policy.
    1. The misconduct was not committed during the time period in which the subject(s) held their position(s), except when the misconduct, had it been known, would likely have led to the subject(s) not being selected for their position(s).
    1. The facts of the case do not prove, on the balance of the probabilities, that the misconduct alleged in the complaint was committed by the subject(s) of the complaint.
+   1. The complaint would be actionable, but all of the actions that the investigator would have recommended are moot or impossible.
 1. If the investigator finds the complaint actionable, they must produce a recommendation report.
    1. The recommendation report shall include:
       1. all the facts of the case found by the investigator
