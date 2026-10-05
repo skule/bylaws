@@ -12,13 +12,13 @@ import lxml.etree as etree
 import jinja2
 import yaml
 
-from lineno_to_section import section_to_str, ROMAN
+from lineno_to_section import section_to_str, from_alpha, from_roman
 
 SPLIT_RE = r'(?:chapters?|chaps?\.|chs?\.|sections?|secs?\.|ss?\.|§|&#167;|&#xa7;)\s*'
 CHAPTER_SPLIT_RE = r'(?:chapters?|chaps?\.|chs?\.)\s*'
 SECTION_SPLIT_RE = r'(?:sections?|secs?\.|ss?\.|§|&#167;|&#xa7;)\s*'
-SECTION_RE = r'([0-9]+)(?:\.([0-9]+)(?:\.([1-9][0-9]*)(?:\.?([a-z])(?:\.([ivxlcdm]+))?)?)?)?'
-SUBSECTION_RE = r'([0-9]+)\.([0-9]+)(?:\.([1-9][0-9]*)(?:\.?([a-z])(?:\.([ivxlcdm]+))?)?)?'
+SECTION_RE = r'([0-9]+)(?:\.([0-9]+)(?:\.([1-9][0-9]*)(?:\.?([a-z]+)(?:\.([ivxlcdm]+))?)?)?)?'
+SUBSECTION_RE = r'([0-9]+)\.([0-9]+)(?:\.([1-9][0-9]*)(?:\.?([a-z]+)(?:\.([ivxlcdm]+))?)?)?'
 REF_RE = fr'({CHAPTER_SPLIT_RE}(?P<chapter>{SECTION_RE})|{SECTION_SPLIT_RE}(?P<section>{SUBSECTION_RE}))(?:\.(?=\S))?'
 
 def crossref_href(section: str) -> str | None:
@@ -31,12 +31,9 @@ def crossref_href(section: str) -> str | None:
         if c:
             href += '-' + str(int(c) - 1)
         if d:
-            href += '-' + str(ord(d) - ord('a'))
+            href += '-' + str(from_alpha(d))
         if e:
-            try:
-                href += '-' + str(ROMAN.index(e))
-            except IndexError:
-                return None
+            href += '-' + str(from_roman(e))
         return href
     else:
         return None
