@@ -1,5 +1,5 @@
 ---
-revdate: September 25, 2026
+revdate: October 18, 2026
 title: Bylaw 2
 pdf: Bylaw 2
 subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
@@ -302,6 +302,11 @@ subtitle: The Directors, Associated Entities, and Neutral Officers Bylaw
    1. The Board of Directors of the Society;
    1. The Annual General Meeting; or
    1. A General Meeting called for such purpose
+1. By default, Neutral Officers may only provide objective, factual guidance on matters within their expertise or mandate. They may only take action in furtherance of a specific governance outcome (such as by expressing non-impartial opinions) if:
+   1. such action is a direct responsibility of the role (such as the Speaker or Chief Returning Officer ruling on an interpretation of the Bylaws, or the Ombudsperson producing an investigation report),
+   1. their expert opinion is expressly requested as part of a governance process (such as in a complaint investigation as an expert witness), or
+   1. doing so is relevant to a matter at hand in a Policy and Structures Committee meeting.
+1. Neutral Officers are charged with upholding the letter and spirit of the Bylaws, and therefore must themselves maintain a higher standard in that regard in their own conduct.
 
 ## Speaker
 1. There shall be a Speaker who shall act as Chair of the Board of Directors during all meetings of the Board.
