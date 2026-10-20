@@ -207,7 +207,7 @@ subtitle: The Engineering Society
 
 ## General
 1. The business and affairs of the Society shall be managed by a Board of Directors.
-1. The the following office-holders, by virtue of their office in accordance with Section 23(4) of ONCA, shall be the Directors of the Board:
+1. The following office-holders, by virtue of their office in accordance with Section 23(4) of ONCA, shall be the Directors of the Board:
    1. The five (5) EngSoc Officers defined in Chapter 3;
    1. The sixteen (16) Board Representatives defined in section 4.1; and
    1. The Speaker (as defined in section 4.6), as a non-voting director.
