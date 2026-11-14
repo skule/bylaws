@@ -23,6 +23,7 @@ subtitle: Index of Documents
 
 1. Policies are amended as given in [Bylaw 1, section 7.4](bylaw-1.md).
    1. [Digital Services Policy](policies/digital-services-policy.md)
+   2. [External Relations Policy](policies/external-relations-policy.md)
    1. [Finance Policy](policies/finance-policy.md)
    1. [Levy Groups Policy](policies/levy-groups-policy.md)
    1. [Orientation Governance Policy](policies/orientation-governance-policy.md)
